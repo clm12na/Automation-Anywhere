@@ -1,0 +1,1001 @@
+date,transaction_type,card_type,bank_name,country_code,state_code,zip_code,amount,status,reason,colour_code
+2017-07-12,Withdrawal,jcb,Bank of America,United States,Missouri,65898,10,Matched,,Green
+2017-05-30,Withdrawal,maestro,Wells Fargo,United States,Alabama,35905,556,Not Matched,Need Attention,Green
+2017-02-08,Transfer,jcb,Chase,United States,California,92165,93,Matched,,Green
+2017-01-29,Withdrawal,jcb,TechCU,United States,Ohio,45223,18,Not Matched,Need Attention,Green
+2017-05-14,Transfer,jcb,Wells Fargo,United States,Minnesota,55114,143,Matched,,Yellow
+2017-07-07,Withdrawal,jcb,TechCU,United States,District of Columbia,20005,404,Not Matched,Customer Outreach Reqd,Red
+2017-03-24,Deposit,maestro,Wells Fargo,United States,North Carolina,27415,48,Matched,,Red
+2017-01-29,Withdrawal,jcb,DCU,United States,Illinois,61105,567,Matched,,Red
+2017-05-26,Transfer,americanexpress,Chase,United States,Texas,88514,592,Matched,,Green
+2017-03-24,Transfer,mastercard,TechCU,United States,Indiana,46278,347,Not Matched,Customer Outreach Reqd,Green
+2017-06-26,Transfer,jcb,Bank of America,United States,North Carolina,27705,253,Matched,,Red
+2017-05-04,Transfer,mastercard,Chase,United States,Florida,33737,139,Not Matched,Customer Outreach Reqd,Red
+2017-06-17,Withdrawal,mastercard,Wells Fargo,United States,South Carolina,29208,254,Matched,,Yellow
+2017-04-08,Deposit,mastercard,DCU,United States,Ohio,43231,338,Matched,,Yellow
+2017-06-22,Deposit,switch,Wells Fargo,United States,Texas,77271,179,Not Matched,Need Attention,Red
+2017-04-23,Withdrawal,maestro,DCU,United States,Tennessee,38104,190,Not Matched,Likely Fraud,Red
+2017-06-21,Withdrawal,maestro,Chase,United States,California,94126,221,Not Matched,Likely Fraud,Red
+2017-07-05,Withdrawal,jcb,Bank of America,United States,Massachusetts,01905,356,Matched,,Red
+2017-06-13,Transfer,diners-club-enroute,Chase,United States,Texas,79999,21,Matched,,Yellow
+2017-05-17,Withdrawal,diners-club-enroute,Bank of America,United States,West Virginia,25711,57,Matched,,Yellow
+2017-07-27,Deposit,jcb,DCU,United States,Utah,84093,490,Matched,,Yellow
+2017-02-23,Transfer,jcb,DCU,United States,New York,10474,348,Not Matched,Likely Fraud,Red
+2017-04-18,Transfer,jcb,Bank of America,United States,New York,13224,312,Not Matched,Customer Outreach Reqd,Red
+2017-01-10,Transfer,mastercard,Chase,United States,California,95818,263,Not Matched,Likely Fraud,Red
+2017-05-30,Deposit,jcb,Chase,United States,Kentucky,40280,710,Not Matched,Customer Outreach Reqd,Red
+2017-08-24,Transfer,jcb,Chase,United States,Maryland,21239,493,Matched,,Yellow
+2017-03-29,Transfer,jcb,Chase,United States,Florida,33661,432,Matched,,Yellow
+2017-07-25,Transfer,jcb,Bank of America,United States,Illinois,60567,416,Matched,,Yellow
+2017-08-26,Transfer,jcb,Chase,United States,Missouri,65805,45,Not Matched,Customer Outreach Reqd,Red
+2017-04-30,Withdrawal,americanexpress,Chase,United States,Florida,32575,343,Matched,,Yellow
+2017-05-10,Deposit,switch,Chase,United States,North Carolina,28210,190,Not Matched,Need Attention,Yellow
+2017-08-11,Withdrawal,mastercard,Chase,United States,Minnesota,55905,414,Matched,,Green
+2017-02-24,Withdrawal,jcb,Chase,United States,Alaska,99517,649,Matched,,Green
+2017-05-10,Withdrawal,diners-club-enroute,Wells Fargo,United States,California,95298,391,Matched,,Yellow
+2017-06-10,Transfer,instapayment,Bank of America,United States,Missouri,64187,248,Matched,,Green
+2017-02-08,Deposit,jcb,Chase,United States,Illinois,62711,185,Matched,,Yellow
+2017-05-30,Transfer,jcb,Wells Fargo,United States,Tennessee,38181,438,Not Matched,Need Attention,Green
+2017-02-26,Deposit,jcb,TechCU,United States,California,91210,508,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-10,Deposit,jcb,Chase,United States,Utah,84199,213,Matched,,Red
+2017-04-21,Withdrawal,mastercard,DCU,United States,Georgia,31605,758,Not Matched,Likely Fraud,Red
+2017-05-26,Transfer,jcb,Wells Fargo,United States,Colorado,80150,711,Not Matched,Customer Outreach Reqd,Red
+2017-03-22,Withdrawal,americanexpress,Wells Fargo,United States,Florida,32405,296,Not Matched,Need Attention,Yellow
+2017-07-31,Transfer,visa-electron,Chase,United States,Georgia,30610,330,Not Matched,Need Attention,Green
+2017-08-15,Deposit,jcb,DCU,United States,Virginia,23285,288,Matched,,Green
+2017-05-29,Deposit,maestro,DCU,United States,North Carolina,28242,797,Not Matched,Likely Fraud,Red
+2017-06-22,Withdrawal,jcb,Bank of America,United States,Oregon,97405,301,Matched,,Red
+2017-06-04,Withdrawal,jcb,Wells Fargo,United States,Texas,79950,480,Matched,,Yellow
+2017-01-14,Deposit,jcb,DCU,United States,California,90010,583,Not Matched,Likely Fraud,Red
+2017-05-22,Withdrawal,jcb,Bank of America,United States,Missouri,63136,314,Not Matched,Need Attention,Red
+2017-08-19,Transfer,bankcard,Bank of America,United States,Michigan,48126,641,Not Matched,Likely Fraud,Red
+2017-05-12,Withdrawal,laser,Chase,United States,Alabama,35815,336,Not Matched,Need Attention,Red
+2017-03-10,Transfer,china-unionpay,Chase,United States,West Virginia,25362,667,Matched,,Green
+2017-08-03,Withdrawal,mastercard,Wells Fargo,United States,Nebraska,68505,708,Matched,,Green
+2017-08-09,Transfer,visa,DCU,United States,Mississippi,39534,595,Not Matched,Likely Fraud,Red
+2017-04-06,Deposit,jcb,TechCU,United States,Virginia,22184,570,Matched,,Red
+2017-06-07,Transfer,switch,TechCU,United States,Iowa,50315,231,Not Matched,Likely Fraud,Red
+2017-04-16,Deposit,jcb,Wells Fargo,United States,Missouri,63150,665,Not Matched,Need Attention,Green
+2017-02-23,Transfer,visa-electron,TechCU,United States,California,94207,257,Not Matched,Customer Outreach Reqd,Green
+2017-07-20,Withdrawal,visa,Bank of America,United States,Ohio,43204,120,Matched,,Yellow
+2017-04-10,Deposit,diners-club-carte-blanche,Bank of America,United States,West Virginia,25711,25,Matched,,Green
+2017-05-06,Deposit,jcb,Wells Fargo,United States,Connecticut,06140,156,Matched,,Yellow
+2017-06-25,Transfer,visa,TechCU,United States,Alaska,99517,396,Not Matched,Customer Outreach Reqd,Red
+2017-05-01,Transfer,diners-club-carte-blanche,Bank of America,United States,Florida,34282,287,Not Matched,Likely Fraud,Red
+2017-03-14,Deposit,switch,TechCU,United States,Florida,32919,791,Matched,,Yellow
+2017-07-02,Deposit,jcb,Chase,United States,Texas,78726,542,Matched,,Green
+2017-05-05,Transfer,bankcard,DCU,United States,Washington,98506,688,Matched,,Red
+2017-01-14,Deposit,visa,Chase,United States,Indiana,46295,422,Not Matched,Need Attention,Red
+2017-04-23,Deposit,maestro,Wells Fargo,United States,District of Columbia,20525,254,Not Matched,Customer Outreach Reqd,Yellow
+2017-03-12,Withdrawal,jcb,TechCU,United States,Alabama,36610,96,Not Matched,Customer Outreach Reqd,Yellow
+2017-01-06,Withdrawal,maestro,Wells Fargo,United States,Utah,84110,468,Not Matched,Customer Outreach Reqd,Red
+2017-06-18,Deposit,jcb,TechCU,United States,Texas,77299,713,Not Matched,Customer Outreach Reqd,Red
+2017-07-17,Deposit,maestro,DCU,United States,Texas,77705,405,Not Matched,Need Attention,Red
+2017-03-11,Transfer,laser,Wells Fargo,United States,Texas,77346,212,Not Matched,Need Attention,Green
+2017-08-06,Transfer,bankcard,DCU,United States,California,90398,699,Matched,,Red
+2017-07-10,Transfer,jcb,Bank of America,United States,Oregon,97255,353,Not Matched,Likely Fraud,Red
+2017-04-21,Withdrawal,jcb,Bank of America,United States,California,93715,217,Matched,,Red
+2017-01-28,Deposit,maestro,Wells Fargo,United States,Oklahoma,73173,332,Matched,,Red
+2017-01-01,Deposit,laser,Chase,United States,New York,11215,99,Matched,,Green
+2017-06-26,Withdrawal,jcb,Bank of America,United States,New York,11854,748,Not Matched,Likely Fraud,Red
+2017-08-11,Transfer,jcb,DCU,United States,Virginia,22111,660,Matched,,Red
+2017-02-28,Transfer,switch,Chase,United States,Texas,78475,552,Not Matched,Customer Outreach Reqd,Red
+2017-07-11,Withdrawal,jcb,Bank of America,United States,Pennsylvania,19125,176,Not Matched,Likely Fraud,Red
+2017-04-18,Deposit,bankcard,Chase,United States,North Carolina,27615,24,Matched,,Yellow
+2017-08-28,Deposit,diners-club-international,TechCU,United States,Connecticut,06533,529,Not Matched,Need Attention,Yellow
+2017-04-24,Deposit,jcb,TechCU,United States,Pennsylvania,19178,520,Matched,,Yellow
+2017-08-22,Deposit,jcb,Chase,United States,Wisconsin,53790,104,Not Matched,Need Attention,Red
+2017-08-15,Deposit,jcb,TechCU,United States,Florida,32854,150,Matched,,Yellow
+2017-08-05,Transfer,switch,DCU,United States,Iowa,52804,491,Matched,,Red
+2017-04-11,Deposit,americanexpress,Wells Fargo,United States,Kansas,66276,443,Not Matched,Customer Outreach Reqd,Green
+2017-08-07,Transfer,bankcard,TechCU,United States,New York,12247,96,Matched,,Green
+2017-04-30,Withdrawal,visa,Chase,United States,Ohio,45249,232,Not Matched,Likely Fraud,Red
+2017-01-08,Withdrawal,mastercard,Bank of America,United States,Pennsylvania,15261,337,Matched,,Green
+2017-06-12,Deposit,jcb,Bank of America,United States,Alabama,36205,72,Not Matched,Need Attention,Red
+2017-05-11,Transfer,jcb,Chase,United States,California,93407,378,Matched,,Red
+2017-03-10,Transfer,jcb,Chase,United States,New York,11436,172,Not Matched,Need Attention,Red
+2017-08-17,Deposit,jcb,Wells Fargo,United States,Louisiana,71307,516,Not Matched,Likely Fraud,Red
+2017-03-28,Withdrawal,maestro,Bank of America,United States,Michigan,49018,701,Matched,,Green
+2017-03-01,Transfer,jcb,DCU,United States,Washington,98411,422,Matched,,Red
+2017-08-06,Transfer,bankcard,Chase,United States,Ohio,45403,663,Matched,,Yellow
+2017-02-04,Deposit,jcb,TechCU,United States,Delaware,19897,376,Matched,,Green
+2017-04-16,Transfer,diners-club-carte-blanche,Chase,United States,Kansas,66220,89,Not Matched,Need Attention,Red
+2017-03-13,Deposit,jcb,Chase,United States,Oklahoma,73119,207,Not Matched,Customer Outreach Reqd,Yellow
+2017-08-01,Withdrawal,instapayment,Chase,United States,Minnesota,55598,369,Not Matched,Likely Fraud,Red
+2017-01-08,Transfer,jcb,TechCU,United States,New York,10099,28,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-30,Transfer,jcb,Bank of America,United States,Oregon,97271,354,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-10,Deposit,china-unionpay,TechCU,United States,Texas,77060,630,Not Matched,Likely Fraud,Red
+2017-04-30,Transfer,jcb,TechCU,United States,Mississippi,39204,347,Not Matched,Customer Outreach Reqd,Red
+2017-01-29,Transfer,diners-club-enroute,DCU,United States,California,92725,182,Not Matched,Need Attention,Green
+2017-06-25,Transfer,diners-club-enroute,Chase,United States,Texas,77271,370,Matched,,Green
+2017-04-05,Deposit,jcb,Chase,United States,New York,10203,701,Not Matched,Customer Outreach Reqd,Green
+2017-03-21,Transfer,switch,TechCU,United States,California,94913,511,Matched,,Red
+2017-01-05,Transfer,bankcard,Bank of America,United States,Indiana,46699,165,Matched,,Yellow
+2017-01-21,Transfer,mastercard,Bank of America,United States,Florida,34620,445,Matched,,Yellow
+2017-07-15,Transfer,jcb,DCU,United States,Florida,34665,500,Not Matched,Likely Fraud,Red
+2017-01-22,Transfer,diners-club-us-ca,DCU,United States,New York,11355,391,Matched,,Yellow
+2017-06-30,Withdrawal,jcb,TechCU,United States,Indiana,46620,327,Not Matched,Likely Fraud,Red
+2017-03-19,Withdrawal,jcb,DCU,United States,Florida,32511,189,Matched,,Red
+2017-08-02,Deposit,visa-electron,DCU,United States,Michigan,49518,414,Matched,,Yellow
+2017-02-22,Withdrawal,jcb,TechCU,United States,Illinois,60208,180,Matched,,Red
+2017-04-23,Deposit,jcb,Wells Fargo,United States,Florida,33124,439,Matched,,Red
+2017-01-09,Deposit,jcb,DCU,United States,Texas,79911,86,Not Matched,Customer Outreach Reqd,Red
+2017-04-04,Deposit,visa-electron,DCU,United States,Louisiana,71137,669,Matched,,Red
+2017-08-15,Withdrawal,jcb,TechCU,United States,Missouri,64190,473,Not Matched,Customer Outreach Reqd,Green
+2017-01-27,Transfer,jcb,Wells Fargo,United States,Ohio,44191,232,Matched,,Red
+2017-07-28,Withdrawal,solo,Chase,United States,Massachusetts,01114,522,Not Matched,Likely Fraud,Red
+2017-04-13,Deposit,jcb,Bank of America,United States,Illinois,61110,235,Not Matched,Likely Fraud,Red
+2017-05-07,Deposit,maestro,DCU,United States,Indiana,46216,670,Matched,,Green
+2017-03-10,Transfer,jcb,TechCU,United States,Ohio,44555,203,Not Matched,Likely Fraud,Red
+2017-05-13,Withdrawal,jcb,Chase,United States,Colorado,80299,590,Matched,,Yellow
+2017-05-25,Transfer,diners-club-carte-blanche,Bank of America,United States,Kansas,66225,281,Matched,,Red
+2017-06-14,Transfer,jcb,TechCU,United States,Texas,78426,172,Matched,,Red
+2017-05-02,Transfer,maestro,Bank of America,United States,California,92115,177,Matched,,Red
+2017-03-21,Withdrawal,jcb,Bank of America,United States,Arizona,85062,214,Matched,,Yellow
+2017-01-27,Withdrawal,diners-club-carte-blanche,Wells Fargo,United States,Michigan,49544,313,Matched,,Green
+2017-02-26,Transfer,china-unionpay,TechCU,United States,California,94116,343,Matched,,Green
+2017-02-20,Withdrawal,jcb,Bank of America,United States,New Jersey,07195,671,Not Matched,Need Attention,Red
+2017-04-06,Deposit,mastercard,Bank of America,United States,Virginia,23668,415,Not Matched,Need Attention,Green
+2017-08-29,Withdrawal,mastercard,Bank of America,United States,Arizona,85083,768,Not Matched,Likely Fraud,Red
+2017-05-23,Transfer,maestro,TechCU,United States,Tennessee,37131,723,Matched,,Red
+2017-06-18,Transfer,jcb,TechCU,United States,California,92132,322,Matched,,Yellow
+2017-08-23,Deposit,diners-club-enroute,DCU,United States,Minnesota,55557,158,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-24,Deposit,jcb,Bank of America,United States,Oklahoma,73071,160,Not Matched,Likely Fraud,Red
+2017-02-18,Transfer,jcb,DCU,United States,Louisiana,71307,735,Not Matched,Customer Outreach Reqd,Red
+2017-03-16,Transfer,maestro,Wells Fargo,United States,Maryland,20883,545,Not Matched,Likely Fraud,Red
+2017-08-30,Deposit,jcb,Chase,United States,Wisconsin,53215,38,Not Matched,Customer Outreach Reqd,Green
+2017-06-02,Withdrawal,jcb,Wells Fargo,United States,West Virginia,25362,146,Matched,,Green
+2017-06-14,Transfer,jcb,DCU,United States,Texas,75605,620,Not Matched,Need Attention,Red
+2017-08-05,Transfer,switch,Wells Fargo,United States,Montana,59623,27,Not Matched,Likely Fraud,Red
+2017-08-01,Transfer,jcb,TechCU,United States,Texas,78759,398,Not Matched,Need Attention,Green
+2017-01-21,Withdrawal,visa-electron,DCU,United States,Texas,76016,318,Matched,,Green
+2017-06-05,Withdrawal,maestro,Chase,United States,Ohio,44185,633,Not Matched,Need Attention,Green
+2017-04-08,Deposit,laser,Chase,United States,Alabama,35263,502,Not Matched,Need Attention,Green
+2017-07-20,Withdrawal,solo,Wells Fargo,United States,Florida,33633,454,Matched,,Green
+2017-03-09,Withdrawal,china-unionpay,Wells Fargo,United States,North Dakota,58207,442,Matched,,Green
+2017-05-22,Withdrawal,diners-club-carte-blanche,Bank of America,United States,Alaska,99517,668,Not Matched,Likely Fraud,Red
+2017-07-02,Transfer,jcb,Chase,United States,Ohio,45419,244,Not Matched,Need Attention,Yellow
+2017-02-16,Deposit,diners-club-international,TechCU,United States,California,93399,600,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-22,Transfer,diners-club-enroute,Wells Fargo,United States,New York,10019,90,Matched,,Red
+2017-04-27,Withdrawal,instapayment,TechCU,United States,North Carolina,28055,338,Matched,,Green
+2017-01-28,Deposit,jcb,Chase,United States,Texas,75387,247,Matched,,Red
+2017-05-17,Withdrawal,americanexpress,TechCU,United States,Texas,78465,302,Matched,,Yellow
+2017-06-07,Transfer,jcb,Chase,United States,Florida,32803,123,Matched,,Green
+2017-06-28,Withdrawal,jcb,TechCU,United States,Florida,33961,606,Not Matched,Customer Outreach Reqd,Yellow
+2017-04-18,Withdrawal,maestro,DCU,United States,Montana,59105,242,Matched,,Red
+2017-01-09,Transfer,mastercard,Bank of America,United States,Texas,75226,492,Not Matched,Customer Outreach Reqd,Yellow
+2017-02-15,Deposit,switch,Bank of America,United States,West Virginia,25326,282,Not Matched,Likely Fraud,Red
+2017-02-12,Withdrawal,maestro,Wells Fargo,United States,Hawaii,96810,731,Not Matched,Customer Outreach Reqd,Yellow
+2017-01-27,Transfer,maestro,DCU,United States,District of Columbia,20546,604,Matched,,Yellow
+2017-06-08,Withdrawal,maestro,Wells Fargo,United States,Texas,79940,379,Matched,,Green
+2017-08-27,Transfer,jcb,Chase,United States,California,92867,407,Matched,,Green
+2017-04-10,Deposit,mastercard,Wells Fargo,United States,Iowa,50330,635,Matched,,Red
+2017-04-22,Deposit,americanexpress,TechCU,United States,South Carolina,29579,421,Matched,,Red
+2017-04-21,Withdrawal,instapayment,Chase,United States,Nebraska,68197,732,Matched,,Yellow
+2017-03-07,Withdrawal,visa,Wells Fargo,United States,Ohio,44511,662,Not Matched,Likely Fraud,Red
+2017-02-09,Transfer,jcb,DCU,United States,Texas,78250,615,Not Matched,Need Attention,Green
+2017-05-27,Deposit,bankcard,DCU,United States,Arizona,85040,175,Matched,,Yellow
+2017-03-04,Deposit,switch,DCU,United States,Florida,33811,640,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-16,Withdrawal,mastercard,DCU,United States,Ohio,43666,350,Not Matched,Customer Outreach Reqd,Yellow
+2017-04-05,Withdrawal,switch,Chase,United States,Minnesota,55585,136,Matched,,Yellow
+2017-06-16,Transfer,switch,TechCU,United States,Tennessee,37250,50,Matched,,Yellow
+2017-06-20,Transfer,jcb,DCU,United States,Pennsylvania,19093,639,Matched,,Yellow
+2017-08-25,Transfer,jcb,DCU,United States,Utah,84105,301,Not Matched,Customer Outreach Reqd,Red
+2017-06-05,Withdrawal,jcb,Chase,United States,Pennsylvania,15279,418,Not Matched,Customer Outreach Reqd,Yellow
+2017-03-16,Transfer,maestro,DCU,United States,Michigan,48335,623,Matched,,Yellow
+2017-08-30,Withdrawal,laser,Chase,United States,Washington,98140,501,Not Matched,Need Attention,Red
+2017-02-05,Deposit,maestro,Wells Fargo,United States,District of Columbia,20520,626,Not Matched,Customer Outreach Reqd,Red
+2017-05-11,Withdrawal,bankcard,DCU,United States,Texas,88519,514,Not Matched,Need Attention,Yellow
+2017-04-16,Transfer,jcb,DCU,United States,Maryland,20851,326,Not Matched,Customer Outreach Reqd,Red
+2017-08-16,Withdrawal,maestro,Bank of America,United States,Florida,34474,92,Matched,,Green
+2017-06-12,Withdrawal,jcb,Wells Fargo,United States,Ohio,45208,439,Not Matched,Need Attention,Red
+2017-02-23,Withdrawal,maestro,Chase,United States,Maryland,21747,123,Matched,,Yellow
+2017-04-09,Withdrawal,diners-club-international,DCU,United States,Oklahoma,73157,479,Matched,,Yellow
+2017-02-21,Deposit,maestro,Chase,United States,Idaho,83405,458,Not Matched,Need Attention,Red
+2017-01-16,Deposit,jcb,Chase,United States,Virginia,22184,117,Matched,,Green
+2017-05-15,Withdrawal,bankcard,Chase,United States,Alabama,35285,406,Not Matched,Customer Outreach Reqd,Green
+2017-01-24,Transfer,jcb,TechCU,United States,Texas,77713,360,Not Matched,Need Attention,Green
+2017-05-20,Withdrawal,diners-club-carte-blanche,TechCU,United States,Washington,98464,103,Matched,,Red
+2017-03-22,Transfer,jcb,DCU,United States,Illinois,60663,588,Matched,,Green
+2017-01-29,Transfer,jcb,DCU,United States,New York,11431,379,Matched,,Red
+2017-06-22,Transfer,jcb,DCU,United States,Minnesota,55108,61,Matched,,Yellow
+2017-06-21,Deposit,americanexpress,DCU,United States,Massachusetts,02163,435,Matched,,Red
+2017-08-07,Deposit,jcb,Chase,United States,Michigan,48217,444,Matched,,Yellow
+2017-02-16,Deposit,jcb,Chase,United States,Texas,77240,469,Not Matched,Likely Fraud,Red
+2017-03-29,Transfer,china-unionpay,Wells Fargo,United States,Kansas,67260,760,Matched,,Green
+2017-07-28,Withdrawal,jcb,DCU,United States,Texas,77250,256,Matched,,Green
+2017-03-18,Withdrawal,jcb,Bank of America,United States,Kansas,66286,30,Not Matched,Customer Outreach Reqd,Red
+2017-06-14,Transfer,jcb,Chase,United States,California,93794,139,Matched,,Red
+2017-08-24,Deposit,switch,TechCU,United States,Rhode Island,02912,641,Not Matched,Customer Outreach Reqd,Green
+2017-07-13,Deposit,china-unionpay,DCU,United States,New York,11205,162,Not Matched,Likely Fraud,Red
+2017-08-11,Deposit,switch,Bank of America,United States,Texas,79977,760,Matched,,Green
+2017-01-07,Withdrawal,jcb,Chase,United States,Maryland,21281,65,Matched,,Red
+2017-05-15,Deposit,diners-club-carte-blanche,Chase,United States,New York,10004,257,Not Matched,Need Attention,Yellow
+2017-08-30,Deposit,jcb,Bank of America,United States,Colorado,80228,56,Not Matched,Likely Fraud,Red
+2017-05-09,Transfer,mastercard,Chase,United States,Oklahoma,73114,404,Matched,,Green
+2017-04-20,Deposit,mastercard,DCU,United States,Tennessee,37220,635,Matched,,Red
+2017-06-27,Withdrawal,jcb,Chase,United States,Ohio,45243,384,Matched,,Yellow
+2017-06-22,Transfer,jcb,DCU,United States,New York,11054,63,Matched,,Yellow
+2017-04-15,Transfer,visa-electron,Bank of America,United States,Texas,75210,425,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-28,Deposit,jcb,TechCU,United States,Texas,76134,445,Not Matched,Customer Outreach Reqd,Green
+2017-08-20,Withdrawal,jcb,Wells Fargo,United States,Texas,77015,535,Not Matched,Need Attention,Red
+2017-02-18,Withdrawal,jcb,TechCU,United States,Virginia,24020,46,Not Matched,Need Attention,Green
+2017-04-17,Withdrawal,jcb,Chase,United States,Florida,32627,79,Matched,,Green
+2017-01-10,Deposit,jcb,TechCU,United States,Texas,76011,509,Not Matched,Likely Fraud,Red
+2017-08-16,Transfer,jcb,Chase,United States,New York,11254,534,Matched,,Red
+2017-04-13,Deposit,mastercard,DCU,United States,California,92878,20,Not Matched,Need Attention,Red
+2017-04-09,Withdrawal,visa-electron,TechCU,United States,Kentucky,40266,367,Matched,,Green
+2017-05-06,Transfer,switch,Wells Fargo,United States,Alabama,36134,260,Matched,,Red
+2017-06-06,Transfer,instapayment,Chase,United States,Missouri,64101,671,Matched,,Yellow
+2017-05-11,Withdrawal,jcb,TechCU,United States,California,95298,124,Matched,,Yellow
+2017-06-18,Transfer,switch,Chase,United States,North Carolina,27415,183,Not Matched,Need Attention,Yellow
+2017-06-18,Transfer,jcb,DCU,United States,Missouri,64142,559,Matched,,Red
+2017-05-06,Withdrawal,maestro,Wells Fargo,United States,Pennsylvania,15134,706,Not Matched,Customer Outreach Reqd,Green
+2017-04-21,Deposit,visa-electron,Chase,United States,Minnesota,55172,704,Not Matched,Likely Fraud,Red
+2017-01-04,Withdrawal,jcb,Wells Fargo,United States,Kansas,66105,593,Not Matched,Likely Fraud,Red
+2017-07-11,Deposit,diners-club-enroute,TechCU,United States,California,91913,668,Matched,,Red
+2017-07-20,Withdrawal,visa-electron,Wells Fargo,United States,New Mexico,87140,518,Not Matched,Likely Fraud,Red
+2017-04-16,Transfer,jcb,Bank of America,United States,Michigan,49018,159,Not Matched,Need Attention,Yellow
+2017-04-09,Transfer,maestro,Bank of America,United States,Pennsylvania,19610,617,Matched,,Yellow
+2017-08-13,Deposit,jcb,TechCU,United States,Illinois,60657,291,Matched,,Yellow
+2017-04-25,Withdrawal,instapayment,TechCU,United States,Colorado,80204,152,Not Matched,Customer Outreach Reqd,Yellow
+2017-03-21,Deposit,switch,Wells Fargo,United States,Texas,76105,157,Not Matched,Customer Outreach Reqd,Red
+2017-07-08,Withdrawal,jcb,Chase,United States,District of Columbia,20591,366,Matched,,Green
+2017-08-12,Withdrawal,jcb,DCU,United States,Iowa,50347,303,Matched,,Green
+2017-04-04,Transfer,jcb,TechCU,United States,Wisconsin,53779,149,Matched,,Red
+2017-03-28,Deposit,jcb,Wells Fargo,United States,Oklahoma,73135,259,Matched,,Red
+2017-07-21,Deposit,maestro,DCU,United States,Minnesota,56398,86,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-04,Transfer,mastercard,Bank of America,United States,California,92844,147,Not Matched,Likely Fraud,Red
+2017-01-01,Deposit,visa-electron,Bank of America,United States,Florida,33169,203,Matched,,Yellow
+2017-05-19,Withdrawal,jcb,DCU,United States,Pennsylvania,15215,723,Matched,,Green
+2017-01-09,Transfer,jcb,Bank of America,United States,Georgia,30336,423,Matched,,Red
+2017-01-15,Transfer,maestro,Bank of America,United States,New York,11470,705,Not Matched,Need Attention,Yellow
+2017-03-26,Deposit,jcb,Wells Fargo,United States,Pennsylvania,17605,146,Not Matched,Need Attention,Red
+2017-01-01,Deposit,bankcard,Chase,United States,Massachusetts,02216,616,Not Matched,Likely Fraud,Red
+2017-05-09,Withdrawal,mastercard,Chase,United States,New York,10004,574,Matched,,Yellow
+2017-05-23,Withdrawal,mastercard,Chase,United States,Wisconsin,53277,764,Matched,,Yellow
+2017-08-04,Withdrawal,maestro,TechCU,United States,Texas,75246,680,Not Matched,Likely Fraud,Red
+2017-04-11,Withdrawal,jcb,TechCU,United States,Indiana,47712,54,Not Matched,Customer Outreach Reqd,Red
+2017-06-09,Deposit,jcb,Wells Fargo,United States,Florida,34611,646,Matched,,Green
+2017-02-05,Deposit,diners-club-us-ca,Wells Fargo,United States,District of Columbia,20456,398,Not Matched,Customer Outreach Reqd,Yellow
+2017-03-23,Transfer,jcb,Bank of America,United States,New York,11236,659,Not Matched,Likely Fraud,Red
+2017-03-15,Deposit,jcb,Wells Fargo,United States,Florida,32220,278,Not Matched,Likely Fraud,Red
+2017-05-12,Transfer,laser,Bank of America,United States,Alaska,99522,370,Matched,,Red
+2017-03-03,Transfer,diners-club-carte-blanche,Bank of America,United States,New York,13224,420,Matched,,Red
+2017-03-06,Transfer,mastercard,Bank of America,United States,Minnesota,55146,279,Matched,,Yellow
+2017-03-19,Transfer,bankcard,DCU,United States,Mississippi,39236,624,Not Matched,Likely Fraud,Red
+2017-08-21,Deposit,jcb,Wells Fargo,United States,Texas,76016,459,Not Matched,Customer Outreach Reqd,Yellow
+2017-01-30,Withdrawal,bankcard,Chase,United States,Georgia,30358,344,Matched,,Green
+2017-05-10,Withdrawal,jcb,Bank of America,United States,Ohio,45296,504,Not Matched,Customer Outreach Reqd,Yellow
+2017-02-16,Withdrawal,jcb,Chase,United States,Virginia,22036,551,Not Matched,Customer Outreach Reqd,Red
+2017-04-09,Withdrawal,americanexpress,Chase,United States,Virginia,22903,352,Not Matched,Need Attention,Yellow
+2017-08-05,Withdrawal,china-unionpay,DCU,United States,Florida,34114,244,Matched,,Yellow
+2017-04-20,Transfer,americanexpress,Wells Fargo,United States,Georgia,30311,122,Not Matched,Customer Outreach Reqd,Green
+2017-03-25,Deposit,maestro,Chase,United States,Maryland,20719,459,Not Matched,Need Attention,Green
+2017-05-31,Deposit,laser,DCU,United States,Nevada,89178,422,Not Matched,Customer Outreach Reqd,Green
+2017-06-15,Withdrawal,visa,TechCU,United States,California,93111,466,Matched,,Yellow
+2017-02-22,Transfer,mastercard,Bank of America,United States,Ohio,45203,173,Not Matched,Customer Outreach Reqd,Green
+2017-08-28,Deposit,jcb,Bank of America,United States,New York,14225,391,Not Matched,Need Attention,Red
+2017-06-18,Transfer,jcb,DCU,United States,Texas,75358,555,Not Matched,Likely Fraud,Red
+2017-08-05,Deposit,mastercard,TechCU,United States,Oklahoma,74126,359,Not Matched,Likely Fraud,Red
+2017-03-11,Deposit,switch,DCU,United States,Alabama,36670,574,Not Matched,Need Attention,Red
+2017-02-22,Transfer,switch,Chase,United States,Ohio,43226,768,Not Matched,Need Attention,Yellow
+2017-01-26,Transfer,mastercard,DCU,United States,Wisconsin,53405,588,Not Matched,Need Attention,Yellow
+2017-07-15,Deposit,solo,Bank of America,United States,Idaho,83711,170,Not Matched,Customer Outreach Reqd,Green
+2017-03-27,Deposit,laser,Wells Fargo,United States,Louisiana,71208,117,Not Matched,Need Attention,Red
+2017-05-17,Transfer,maestro,DCU,United States,Minnesota,55412,454,Not Matched,Likely Fraud,Red
+2017-06-01,Transfer,maestro,Bank of America,United States,New York,10469,22,Not Matched,Likely Fraud,Red
+2017-08-04,Withdrawal,jcb,Bank of America,United States,Pennsylvania,16522,308,Matched,,Yellow
+2017-08-21,Transfer,bankcard,Chase,United States,Kansas,67210,219,Matched,,Green
+2017-04-06,Withdrawal,mastercard,DCU,United States,New York,10110,531,Matched,,Red
+2017-04-27,Withdrawal,visa,Bank of America,United States,Kentucky,40510,516,Not Matched,Customer Outreach Reqd,Green
+2017-04-14,Transfer,mastercard,TechCU,United States,California,91109,516,Not Matched,Need Attention,Green
+2017-01-09,Withdrawal,jcb,Bank of America,United States,Texas,78789,679,Matched,,Green
+2017-06-24,Transfer,jcb,TechCU,United States,Georgia,30061,346,Not Matched,Likely Fraud,Red
+2017-03-22,Transfer,diners-club-carte-blanche,TechCU,United States,Wyoming,82007,219,Matched,,Red
+2017-04-16,Withdrawal,jcb,DCU,United States,North Carolina,28405,162,Matched,,Green
+2017-07-09,Withdrawal,americanexpress,DCU,United States,Nevada,89193,149,Matched,,Yellow
+2017-04-14,Withdrawal,visa-electron,Chase,United States,New York,10039,116,Not Matched,Customer Outreach Reqd,Red
+2017-08-26,Deposit,jcb,Chase,United States,Missouri,64101,377,Not Matched,Likely Fraud,Red
+2017-08-17,Transfer,maestro,TechCU,United States,New Mexico,87592,357,Not Matched,Customer Outreach Reqd,Red
+2017-02-13,Deposit,mastercard,TechCU,United States,Wisconsin,53405,728,Matched,,Red
+2017-03-13,Deposit,maestro,TechCU,United States,Ohio,45249,214,Not Matched,Customer Outreach Reqd,Green
+2017-06-06,Withdrawal,visa-electron,Chase,United States,South Carolina,29625,417,Matched,,Red
+2017-02-28,Deposit,maestro,TechCU,United States,Texas,79994,73,Not Matched,Need Attention,Yellow
+2017-08-10,Transfer,diners-club-carte-blanche,DCU,United States,Arizona,85067,18,Matched,,Red
+2017-08-16,Withdrawal,jcb,DCU,United States,West Virginia,25770,226,Not Matched,Likely Fraud,Red
+2017-05-05,Withdrawal,solo,TechCU,United States,Texas,79940,474,Matched,,Red
+2017-03-11,Transfer,maestro,Chase,United States,New Jersey,08695,538,Not Matched,Need Attention,Yellow
+2017-08-11,Withdrawal,switch,DCU,United States,California,95123,649,Matched,,Green
+2017-03-25,Withdrawal,jcb,TechCU,United States,New Mexico,87505,451,Matched,,Red
+2017-05-19,Withdrawal,instapayment,Chase,United States,Alaska,99812,156,Not Matched,Likely Fraud,Red
+2017-05-07,Deposit,jcb,Wells Fargo,United States,California,92196,24,Not Matched,Need Attention,Red
+2017-02-20,Deposit,solo,Wells Fargo,United States,Ohio,45426,215,Not Matched,Customer Outreach Reqd,Yellow
+2017-03-18,Transfer,jcb,TechCU,United States,Alaska,99790,498,Not Matched,Likely Fraud,Red
+2017-07-07,Deposit,diners-club-carte-blanche,TechCU,United States,District of Columbia,20078,150,Matched,,Red
+2017-01-12,Deposit,jcb,Chase,United States,Nebraska,68531,186,Matched,,Green
+2017-04-22,Transfer,bankcard,DCU,United States,Indiana,46216,503,Matched,,Yellow
+2017-08-19,Withdrawal,maestro,Wells Fargo,United States,California,94807,741,Matched,,Green
+2017-07-27,Deposit,visa-electron,Bank of America,United States,Texas,78759,438,Matched,,Yellow
+2017-03-15,Withdrawal,diners-club-enroute,DCU,United States,New Mexico,87195,299,Matched,,Red
+2017-07-10,Deposit,jcb,DCU,United States,Indiana,47719,375,Matched,,Green
+2017-03-06,Deposit,switch,DCU,United States,Michigan,48098,785,Matched,,Green
+2017-04-17,Deposit,china-unionpay,Chase,United States,Georgia,31196,440,Not Matched,Customer Outreach Reqd,Green
+2017-01-08,Deposit,jcb,Wells Fargo,United States,Georgia,30343,783,Matched,,Red
+2017-08-12,Deposit,jcb,Wells Fargo,United States,Indiana,46239,728,Not Matched,Need Attention,Green
+2017-03-28,Deposit,instapayment,Wells Fargo,United States,Florida,33811,190,Not Matched,Likely Fraud,Red
+2017-01-08,Withdrawal,jcb,TechCU,United States,Mississippi,39534,496,Not Matched,Likely Fraud,Red
+2017-08-09,Transfer,jcb,TechCU,United States,Ohio,43699,678,Matched,,Red
+2017-03-29,Withdrawal,diners-club-carte-blanche,Wells Fargo,United States,Ohio,45254,160,Matched,,Yellow
+2017-03-18,Transfer,instapayment,Chase,United States,Texas,76198,651,Not Matched,Customer Outreach Reqd,Green
+2017-03-15,Withdrawal,jcb,Bank of America,United States,Oklahoma,73179,369,Not Matched,Likely Fraud,Red
+2017-04-18,Transfer,jcb,Chase,United States,Florida,33487,581,Matched,,Green
+2017-05-07,Transfer,jcb,Chase,United States,Missouri,65805,440,Not Matched,Likely Fraud,Red
+2017-06-17,Transfer,jcb,DCU,United States,Maryland,20904,142,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-15,Transfer,diners-club-carte-blanche,Bank of America,United States,Wisconsin,53215,708,Not Matched,Need Attention,Yellow
+2017-02-17,Withdrawal,jcb,Wells Fargo,United States,Texas,77266,444,Matched,,Yellow
+2017-06-27,Transfer,jcb,Chase,United States,Georgia,30911,69,Not Matched,Need Attention,Green
+2017-03-17,Deposit,bankcard,Bank of America,United States,Florida,34665,792,Not Matched,Customer Outreach Reqd,Green
+2017-06-07,Deposit,jcb,Chase,United States,Ohio,45238,255,Not Matched,Need Attention,Red
+2017-04-07,Deposit,jcb,TechCU,United States,Florida,33064,536,Not Matched,Likely Fraud,Red
+2017-04-02,Withdrawal,jcb,Chase,United States,Texas,76598,553,Matched,,Yellow
+2017-06-15,Deposit,diners-club-carte-blanche,Wells Fargo,United States,Florida,34238,639,Matched,,Green
+2017-03-24,Withdrawal,jcb,DCU,United States,Ohio,44485,555,Matched,,Green
+2017-05-18,Withdrawal,diners-club-international,TechCU,United States,Arizona,85099,155,Not Matched,Likely Fraud,Red
+2017-08-24,Deposit,jcb,Chase,United States,California,93291,711,Not Matched,Likely Fraud,Red
+2017-06-24,Transfer,jcb,DCU,United States,Missouri,64125,610,Matched,,Yellow
+2017-03-08,Transfer,jcb,TechCU,United States,Ohio,44720,254,Matched,,Green
+2017-04-07,Deposit,jcb,DCU,United States,Florida,33805,62,Matched,,Green
+2017-03-06,Deposit,diners-club-carte-blanche,DCU,United States,Texas,75799,430,Matched,,Green
+2017-02-23,Deposit,jcb,Bank of America,United States,Texas,78230,491,Matched,,Yellow
+2017-07-09,Deposit,diners-club-enroute,TechCU,United States,Ohio,44485,720,Not Matched,Likely Fraud,Red
+2017-04-22,Deposit,maestro,Wells Fargo,United States,Pennsylvania,19172,332,Matched,,Green
+2017-08-12,Withdrawal,jcb,TechCU,United States,Virginia,23203,318,Not Matched,Likely Fraud,Red
+2017-06-22,Withdrawal,bankcard,Chase,United States,Illinois,60619,573,Not Matched,Likely Fraud,Red
+2017-01-08,Withdrawal,jcb,Bank of America,United States,California,92127,174,Matched,,Yellow
+2017-08-17,Withdrawal,switch,Bank of America,United States,Arizona,85710,608,Not Matched,Need Attention,Yellow
+2017-02-26,Transfer,jcb,DCU,United States,Washington,98687,349,Not Matched,Need Attention,Green
+2017-02-19,Transfer,laser,DCU,United States,Louisiana,70505,23,Matched,,Yellow
+2017-07-11,Deposit,americanexpress,Bank of America,United States,New York,12227,704,Not Matched,Likely Fraud,Red
+2017-03-11,Deposit,jcb,TechCU,United States,Alabama,36670,705,Not Matched,Likely Fraud,Red
+2017-02-08,Withdrawal,bankcard,TechCU,United States,Oregon,97306,310,Not Matched,Need Attention,Red
+2017-08-15,Deposit,china-unionpay,TechCU,United States,District of Columbia,20310,784,Matched,,Yellow
+2017-07-30,Withdrawal,jcb,Chase,United States,Indiana,47747,264,Matched,,Red
+2017-07-16,Transfer,jcb,TechCU,United States,Iowa,52804,172,Not Matched,Customer Outreach Reqd,Yellow
+2017-01-21,Transfer,visa-electron,Wells Fargo,United States,Virginia,23272,789,Matched,,Green
+2017-04-22,Transfer,jcb,Chase,United States,Ohio,44305,625,Matched,,Red
+2017-03-30,Withdrawal,china-unionpay,Wells Fargo,United States,Maryland,21265,265,Matched,,Red
+2017-02-07,Withdrawal,jcb,DCU,United States,New Jersey,07522,450,Matched,,Green
+2017-08-09,Withdrawal,visa-electron,Chase,United States,Illinois,62205,464,Not Matched,Customer Outreach Reqd,Green
+2017-03-09,Deposit,maestro,Bank of America,United States,North Carolina,28805,265,Not Matched,Need Attention,Green
+2017-01-18,Withdrawal,jcb,TechCU,United States,Florida,33411,738,Matched,,Green
+2017-01-12,Withdrawal,diners-club-carte-blanche,Wells Fargo,United States,Arizona,85271,152,Matched,,Yellow
+2017-01-21,Deposit,jcb,TechCU,United States,Missouri,65110,786,Not Matched,Customer Outreach Reqd,Yellow
+2017-03-04,Deposit,solo,Chase,United States,Minnesota,55805,435,Matched,,Yellow
+2017-08-11,Deposit,mastercard,DCU,United States,Illinois,60604,370,Matched,,Green
+2017-06-26,Withdrawal,bankcard,Wells Fargo,United States,New Mexico,87180,504,Not Matched,Need Attention,Green
+2017-08-17,Transfer,mastercard,DCU,United States,Utah,84093,297,Matched,,Red
+2017-04-25,Transfer,jcb,Wells Fargo,United States,Florida,32505,551,Matched,,Green
+2017-06-14,Withdrawal,laser,DCU,United States,California,94273,267,Matched,,Green
+2017-02-24,Withdrawal,china-unionpay,Wells Fargo,United States,North Carolina,28215,776,Not Matched,Customer Outreach Reqd,Red
+2017-04-16,Withdrawal,maestro,TechCU,United States,Texas,88569,455,Not Matched,Need Attention,Yellow
+2017-04-10,Deposit,maestro,Bank of America,United States,California,95405,398,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-19,Deposit,diners-club-carte-blanche,Chase,United States,Mississippi,39534,636,Matched,,Red
+2017-02-18,Deposit,solo,Bank of America,United States,California,93715,728,Matched,,Yellow
+2017-05-13,Deposit,jcb,Chase,United States,Michigan,48107,746,Not Matched,Need Attention,Yellow
+2017-06-30,Deposit,jcb,Wells Fargo,United States,Tennessee,37240,264,Not Matched,Need Attention,Green
+2017-07-06,Transfer,jcb,DCU,United States,Iowa,50330,116,Matched,,Red
+2017-05-15,Transfer,jcb,TechCU,United States,California,93407,349,Not Matched,Customer Outreach Reqd,Yellow
+2017-08-30,Withdrawal,jcb,TechCU,United States,Texas,79176,184,Matched,,Red
+2017-03-18,Withdrawal,jcb,Bank of America,United States,California,90189,740,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-10,Withdrawal,jcb,Wells Fargo,United States,Georgia,30316,770,Matched,,Red
+2017-06-06,Transfer,visa,DCU,United States,Minnesota,55114,797,Matched,,Red
+2017-06-08,Deposit,china-unionpay,Bank of America,United States,Utah,84115,704,Not Matched,Customer Outreach Reqd,Green
+2017-05-09,Withdrawal,mastercard,Wells Fargo,United States,Pennsylvania,18706,68,Matched,,Green
+2017-07-27,Transfer,diners-club-enroute,DCU,United States,Louisiana,70116,754,Matched,,Green
+2017-08-12,Withdrawal,mastercard,Wells Fargo,United States,West Virginia,25721,741,Matched,,Yellow
+2017-07-31,Deposit,jcb,DCU,United States,New York,13217,651,Matched,,Green
+2017-07-15,Transfer,visa,TechCU,United States,California,95155,754,Matched,,Red
+2017-04-12,Deposit,jcb,Bank of America,United States,New York,11231,593,Matched,,Green
+2017-05-12,Transfer,laser,Wells Fargo,United States,Texas,78220,391,Not Matched,Likely Fraud,Red
+2017-08-17,Transfer,jcb,Chase,United States,North Carolina,28272,553,Matched,,Green
+2017-02-09,Transfer,jcb,Wells Fargo,United States,Pennsylvania,19109,78,Matched,,Green
+2017-04-22,Transfer,jcb,Chase,United States,Kentucky,40210,112,Matched,,Yellow
+2017-07-18,Deposit,diners-club-carte-blanche,TechCU,United States,California,92505,309,Matched,,Yellow
+2017-06-30,Withdrawal,jcb,DCU,United States,Florida,33777,583,Not Matched,Need Attention,Yellow
+2017-02-04,Transfer,jcb,Wells Fargo,United States,California,90094,75,Matched,,Green
+2017-04-13,Deposit,mastercard,Chase,United States,Wisconsin,53726,781,Matched,,Yellow
+2017-07-26,Transfer,jcb,Wells Fargo,United States,Alabama,36670,629,Matched,,Green
+2017-05-07,Deposit,jcb,Chase,United States,Pennsylvania,19131,456,Matched,,Red
+2017-06-14,Withdrawal,jcb,TechCU,United States,Ohio,44393,197,Matched,,Yellow
+2017-03-05,Transfer,jcb,Wells Fargo,United States,Florida,32919,682,Not Matched,Need Attention,Green
+2017-08-28,Deposit,jcb,Wells Fargo,United States,New Mexico,87110,218,Not Matched,Likely Fraud,Red
+2017-03-19,Transfer,jcb,DCU,United States,North Carolina,28210,578,Matched,,Red
+2017-08-07,Deposit,mastercard,Chase,United States,Tennessee,37220,273,Not Matched,Likely Fraud,Red
+2017-07-09,Transfer,visa-electron,Bank of America,United States,Florida,33023,354,Matched,,Yellow
+2017-03-27,Transfer,bankcard,Wells Fargo,United States,New York,12237,124,Not Matched,Customer Outreach Reqd,Green
+2017-06-09,Deposit,jcb,DCU,United States,Wisconsin,54305,269,Not Matched,Customer Outreach Reqd,Green
+2017-08-28,Transfer,jcb,DCU,United States,New York,10039,482,Not Matched,Customer Outreach Reqd,Yellow
+2017-01-15,Deposit,bankcard,Bank of America,United States,Tennessee,37931,182,Matched,,Green
+2017-05-09,Transfer,instapayment,Wells Fargo,United States,Texas,79764,642,Matched,,Green
+2017-01-03,Deposit,mastercard,TechCU,United States,Florida,33620,223,Not Matched,Customer Outreach Reqd,Red
+2017-07-25,Deposit,switch,DCU,United States,Arizona,85383,133,Matched,,Yellow
+2017-03-16,Withdrawal,diners-club-enroute,Bank of America,United States,Washington,99210,383,Matched,,Red
+2017-03-27,Withdrawal,china-unionpay,TechCU,United States,Alabama,35220,213,Matched,,Green
+2017-01-09,Transfer,mastercard,TechCU,United States,California,92132,366,Matched,,Red
+2017-04-29,Withdrawal,mastercard,Bank of America,United States,Pennsylvania,15261,275,Not Matched,Customer Outreach Reqd,Green
+2017-08-09,Deposit,visa-electron,TechCU,United States,New York,11205,97,Not Matched,Customer Outreach Reqd,Yellow
+2017-06-19,Withdrawal,switch,Bank of America,United States,Texas,77212,708,Matched,,Green
+2017-08-17,Transfer,china-unionpay,TechCU,United States,Illinois,60686,115,Matched,,Green
+2017-02-14,Deposit,bankcard,Bank of America,United States,Ohio,43615,660,Matched,,Red
+2017-01-08,Transfer,switch,TechCU,United States,Illinois,60158,688,Not Matched,Customer Outreach Reqd,Red
+2017-01-17,Transfer,maestro,Chase,United States,District of Columbia,20205,276,Not Matched,Likely Fraud,Red
+2017-07-29,Deposit,jcb,Wells Fargo,United States,New York,10260,785,Not Matched,Need Attention,Yellow
+2017-05-14,Deposit,jcb,Bank of America,United States,Louisiana,70116,411,Not Matched,Need Attention,Yellow
+2017-02-25,Transfer,americanexpress,Wells Fargo,United States,Florida,32590,91,Matched,,Yellow
+2017-05-19,Withdrawal,mastercard,Wells Fargo,United States,Nevada,89087,284,Matched,,Yellow
+2017-04-06,Transfer,jcb,TechCU,United States,Georgia,30356,94,Matched,,Green
+2017-03-26,Transfer,americanexpress,TechCU,United States,Kansas,67215,562,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-26,Withdrawal,jcb,Chase,United States,Oklahoma,73142,207,Not Matched,Likely Fraud,Red
+2017-07-27,Withdrawal,maestro,Wells Fargo,United States,Texas,88535,21,Not Matched,Need Attention,Green
+2017-01-13,Withdrawal,jcb,TechCU,United States,New York,10705,340,Not Matched,Need Attention,Yellow
+2017-06-22,Transfer,jcb,TechCU,United States,Arizona,85720,508,Matched,,Red
+2017-02-21,Withdrawal,visa-electron,TechCU,United States,Minnesota,55441,350,Not Matched,Need Attention,Red
+2017-03-21,Transfer,jcb,Chase,United States,Pennsylvania,17110,369,Matched,,Red
+2017-03-02,Transfer,americanexpress,Chase,United States,Illinois,60609,543,Matched,,Green
+2017-07-03,Deposit,jcb,Bank of America,United States,Georgia,30066,287,Matched,,Red
+2017-06-11,Transfer,diners-club-carte-blanche,Wells Fargo,United States,California,92030,800,Matched,,Red
+2017-02-03,Deposit,jcb,Bank of America,United States,Illinois,60604,664,Not Matched,Likely Fraud,Red
+2017-01-05,Transfer,instapayment,Bank of America,United States,Idaho,83705,345,Not Matched,Need Attention,Yellow
+2017-03-13,Transfer,diners-club-enroute,DCU,United States,Texas,78703,525,Matched,,Yellow
+2017-04-16,Deposit,jcb,DCU,United States,Georgia,30328,790,Not Matched,Need Attention,Red
+2017-01-19,Transfer,jcb,DCU,United States,Texas,77030,723,Matched,,Green
+2017-04-04,Transfer,jcb,DCU,United States,Indiana,46805,760,Not Matched,Likely Fraud,Red
+2017-01-05,Transfer,china-unionpay,Bank of America,United States,Ohio,45208,465,Not Matched,Likely Fraud,Red
+2017-05-23,Withdrawal,jcb,TechCU,United States,New York,13505,747,Matched,,Green
+2017-04-19,Transfer,mastercard,Chase,United States,Georgia,30911,534,Matched,,Red
+2017-08-03,Transfer,jcb,Chase,United States,Massachusetts,01654,208,Matched,,Red
+2017-04-20,Deposit,jcb,Chase,United States,Nebraska,68583,798,Not Matched,Customer Outreach Reqd,Red
+2017-04-15,Withdrawal,jcb,Wells Fargo,United States,Missouri,63121,118,Matched,,Red
+2017-07-17,Deposit,jcb,Chase,United States,Alabama,36177,774,Matched,,Green
+2017-07-22,Withdrawal,jcb,Wells Fargo,United States,Indiana,46239,312,Not Matched,Likely Fraud,Red
+2017-01-30,Withdrawal,jcb,TechCU,United States,Ohio,43656,665,Not Matched,Customer Outreach Reqd,Green
+2017-07-14,Transfer,jcb,TechCU,United States,Nebraska,68144,512,Not Matched,Need Attention,Green
+2017-04-16,Deposit,mastercard,Chase,United States,Minnesota,55585,162,Matched,,Green
+2017-04-12,Transfer,jcb,Wells Fargo,United States,California,95210,502,Matched,,Yellow
+2017-01-03,Withdrawal,jcb,Bank of America,United States,Connecticut,06912,317,Matched,,Green
+2017-02-26,Withdrawal,jcb,TechCU,United States,Ohio,45223,210,Matched,,Red
+2017-03-21,Deposit,diners-club-us-ca,DCU,United States,Texas,76310,220,Not Matched,Likely Fraud,Red
+2017-06-04,Transfer,jcb,Chase,United States,Washington,99210,102,Matched,,Red
+2017-01-25,Transfer,mastercard,TechCU,United States,Alabama,35895,382,Not Matched,Customer Outreach Reqd,Red
+2017-02-03,Deposit,switch,Wells Fargo,United States,District of Columbia,20580,544,Matched,,Green
+2017-07-24,Transfer,bankcard,DCU,United States,Ohio,43204,73,Matched,,Yellow
+2017-07-12,Deposit,visa,Bank of America,United States,California,91199,598,Matched,,Red
+2017-05-16,Deposit,jcb,TechCU,United States,Florida,33884,562,Not Matched,Need Attention,Red
+2017-04-26,Deposit,americanexpress,TechCU,United States,Pennsylvania,15210,671,Matched,,Red
+2017-06-28,Withdrawal,jcb,Chase,United States,Florida,33915,557,Not Matched,Need Attention,Red
+2017-05-13,Deposit,visa-electron,Wells Fargo,United States,Wisconsin,54915,15,Matched,,Green
+2017-02-08,Transfer,switch,TechCU,United States,California,92717,636,Not Matched,Customer Outreach Reqd,Green
+2017-05-07,Withdrawal,jcb,Wells Fargo,United States,Maryland,20910,252,Not Matched,Likely Fraud,Red
+2017-07-24,Deposit,diners-club-enroute,TechCU,United States,Michigan,48604,206,Not Matched,Customer Outreach Reqd,Red
+2017-07-21,Transfer,visa-electron,Wells Fargo,United States,Washington,98411,764,Not Matched,Customer Outreach Reqd,Green
+2017-06-06,Deposit,laser,Chase,United States,Nebraska,68517,24,Not Matched,Likely Fraud,Red
+2017-07-05,Withdrawal,jcb,Bank of America,United States,Hawaii,96840,96,Not Matched,Need Attention,Green
+2017-06-30,Withdrawal,jcb,Wells Fargo,United States,Pennsylvania,19104,105,Matched,,Yellow
+2017-03-04,Transfer,mastercard,TechCU,United States,New York,14604,548,Not Matched,Need Attention,Red
+2017-05-06,Withdrawal,jcb,TechCU,United States,Colorado,80044,336,Not Matched,Need Attention,Green
+2017-07-21,Deposit,americanexpress,Bank of America,United States,Washington,98109,299,Not Matched,Need Attention,Red
+2017-08-15,Withdrawal,jcb,Bank of America,United States,Texas,79968,713,Matched,,Green
+2017-03-03,Withdrawal,jcb,Chase,United States,Michigan,49510,51,Matched,,Green
+2017-08-20,Withdrawal,jcb,TechCU,United States,Texas,77271,517,Matched,,Red
+2017-02-05,Transfer,jcb,Wells Fargo,United States,Florida,33647,284,Matched,,Red
+2017-07-18,Transfer,bankcard,Wells Fargo,United States,Virginia,24040,162,Not Matched,Likely Fraud,Red
+2017-06-17,Deposit,mastercard,TechCU,United States,Texas,78778,88,Not Matched,Likely Fraud,Red
+2017-01-07,Withdrawal,maestro,DCU,United States,Michigan,48901,777,Matched,,Red
+2017-03-17,Withdrawal,jcb,Chase,United States,South Dakota,57105,763,Matched,,Green
+2017-03-04,Withdrawal,jcb,Bank of America,United States,Virginia,22234,618,Matched,,Green
+2017-01-30,Deposit,solo,Bank of America,United States,South Carolina,29615,53,Matched,,Red
+2017-07-11,Withdrawal,bankcard,Chase,United States,New York,14609,283,Matched,,Yellow
+2017-08-06,Deposit,jcb,Wells Fargo,United States,California,94616,415,Matched,,Green
+2017-08-25,Transfer,bankcard,Bank of America,United States,Texas,75231,771,Matched,,Red
+2017-01-07,Withdrawal,jcb,DCU,United States,Kansas,66629,585,Matched,,Red
+2017-03-11,Transfer,mastercard,DCU,United States,California,92415,549,Not Matched,Need Attention,Green
+2017-02-24,Withdrawal,bankcard,DCU,United States,California,94302,554,Not Matched,Customer Outreach Reqd,Green
+2017-02-26,Transfer,instapayment,Chase,United States,Florida,33742,117,Not Matched,Likely Fraud,Red
+2017-06-28,Withdrawal,jcb,Chase,United States,Alabama,36622,751,Matched,,Yellow
+2017-07-21,Deposit,instapayment,DCU,United States,Alaska,99512,668,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-21,Transfer,americanexpress,TechCU,United States,Utah,84115,29,Matched,,Green
+2017-04-23,Deposit,jcb,DCU,United States,District of Columbia,20010,300,Matched,,Green
+2017-04-22,Withdrawal,china-unionpay,Bank of America,United States,California,90398,18,Not Matched,Need Attention,Red
+2017-02-21,Transfer,jcb,Bank of America,United States,Texas,88558,392,Matched,,Red
+2017-04-28,Withdrawal,americanexpress,Wells Fargo,United States,Louisiana,70005,71,Not Matched,Need Attention,Red
+2017-04-27,Withdrawal,jcb,DCU,United States,Washington,99205,577,Not Matched,Customer Outreach Reqd,Yellow
+2017-07-05,Deposit,bankcard,Bank of America,United States,Maryland,21405,301,Matched,,Green
+2017-01-15,Deposit,switch,TechCU,United States,South Carolina,29625,592,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-25,Withdrawal,china-unionpay,Bank of America,United States,Iowa,52804,368,Matched,,Yellow
+2017-02-08,Deposit,jcb,Chase,United States,Arkansas,72199,544,Not Matched,Need Attention,Red
+2017-02-14,Withdrawal,china-unionpay,Bank of America,United States,Ohio,45403,391,Matched,,Yellow
+2017-08-30,Transfer,jcb,TechCU,United States,District of Columbia,20591,650,Matched,,Green
+2017-07-15,Withdrawal,switch,Wells Fargo,United States,California,93111,303,Not Matched,Likely Fraud,Red
+2017-04-26,Deposit,americanexpress,Bank of America,United States,Kentucky,40266,364,Matched,,Yellow
+2017-05-11,Deposit,jcb,Bank of America,United States,Florida,33686,505,Matched,,Yellow
+2017-01-27,Withdrawal,americanexpress,DCU,United States,Ohio,45254,651,Not Matched,Likely Fraud,Red
+2017-04-17,Transfer,switch,Wells Fargo,United States,Oklahoma,74108,636,Matched,,Red
+2017-05-18,Withdrawal,visa-electron,Wells Fargo,United States,Colorado,80930,759,Matched,,Yellow
+2017-02-22,Deposit,diners-club-carte-blanche,DCU,United States,Virginia,22225,563,Not Matched,Customer Outreach Reqd,Yellow
+2017-01-22,Transfer,bankcard,DCU,United States,Nevada,89550,740,Not Matched,Customer Outreach Reqd,Red
+2017-07-19,Withdrawal,jcb,Chase,United States,Pennsylvania,18706,772,Not Matched,Need Attention,Yellow
+2017-06-10,Withdrawal,china-unionpay,Bank of America,United States,Massachusetts,01105,93,Not Matched,Need Attention,Green
+2017-08-03,Transfer,diners-club-carte-blanche,Wells Fargo,United States,Pennsylvania,18505,516,Matched,,Green
+2017-03-14,Deposit,laser,DCU,United States,Texas,77386,63,Matched,,Yellow
+2017-02-22,Transfer,jcb,Bank of America,United States,Alabama,36616,376,Not Matched,Likely Fraud,Red
+2017-08-05,Transfer,jcb,Wells Fargo,United States,California,91797,31,Not Matched,Likely Fraud,Red
+2017-06-27,Deposit,jcb,Chase,United States,California,92668,303,Not Matched,Need Attention,Green
+2017-05-09,Transfer,switch,DCU,United States,California,95818,457,Matched,,Yellow
+2017-02-28,Deposit,jcb,TechCU,United States,New York,10004,721,Matched,,Yellow
+2017-06-28,Withdrawal,jcb,TechCU,United States,Florida,33742,257,Not Matched,Likely Fraud,Red
+2017-04-16,Deposit,americanexpress,DCU,United States,California,92405,282,Not Matched,Likely Fraud,Red
+2017-05-20,Withdrawal,diners-club-international,DCU,United States,Missouri,64190,695,Matched,,Green
+2017-03-02,Withdrawal,jcb,Bank of America,United States,Mississippi,39505,797,Not Matched,Customer Outreach Reqd,Red
+2017-06-20,Withdrawal,jcb,TechCU,United States,Texas,77705,455,Matched,,Yellow
+2017-08-02,Transfer,maestro,Chase,United States,Texas,75367,748,Not Matched,Likely Fraud,Red
+2017-03-18,Transfer,mastercard,Wells Fargo,United States,Pennsylvania,15240,198,Not Matched,Need Attention,Yellow
+2017-06-21,Deposit,americanexpress,Wells Fargo,United States,Pennsylvania,17605,595,Not Matched,Likely Fraud,Red
+2017-06-04,Withdrawal,visa-electron,Chase,United States,New York,12305,416,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-22,Transfer,switch,DCU,United States,Texas,79999,130,Not Matched,Customer Outreach Reqd,Green
+2017-06-20,Withdrawal,jcb,Chase,United States,Texas,79605,546,Matched,,Red
+2017-08-06,Deposit,visa,TechCU,United States,North Carolina,28215,412,Matched,,Yellow
+2017-08-15,Withdrawal,jcb,Chase,United States,Washington,98687,220,Matched,,Red
+2017-01-15,Withdrawal,mastercard,Wells Fargo,United States,Alabama,35810,584,Not Matched,Likely Fraud,Red
+2017-01-29,Deposit,jcb,Chase,United States,California,90831,227,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-21,Withdrawal,americanexpress,Bank of America,United States,Florida,33811,165,Matched,,Green
+2017-03-02,Withdrawal,jcb,TechCU,United States,Illinois,61105,566,Not Matched,Customer Outreach Reqd,Green
+2017-02-13,Deposit,visa-electron,Chase,United States,California,94291,470,Matched,,Green
+2017-06-04,Transfer,china-unionpay,Bank of America,United States,Virginia,22225,155,Not Matched,Likely Fraud,Red
+2017-08-16,Withdrawal,visa,Wells Fargo,United States,Virginia,23203,141,Not Matched,Likely Fraud,Red
+2017-05-28,Deposit,jcb,DCU,United States,New York,11854,258,Matched,,Red
+2017-02-20,Withdrawal,jcb,Wells Fargo,United States,Texas,76105,791,Matched,,Yellow
+2017-08-29,Deposit,jcb,TechCU,United States,Minnesota,55423,194,Not Matched,Need Attention,Red
+2017-02-24,Transfer,jcb,Bank of America,United States,Indiana,46216,693,Not Matched,Customer Outreach Reqd,Green
+2017-01-13,Deposit,visa,DCU,United States,Georgia,31296,416,Not Matched,Customer Outreach Reqd,Green
+2017-03-13,Transfer,maestro,TechCU,United States,New York,12255,221,Not Matched,Likely Fraud,Red
+2017-02-09,Transfer,diners-club-us-ca,Chase,United States,Illinois,62723,32,Not Matched,Need Attention,Green
+2017-07-18,Withdrawal,jcb,DCU,United States,Ohio,45264,201,Matched,,Green
+2017-05-27,Withdrawal,jcb,Wells Fargo,United States,Texas,79116,622,Not Matched,Likely Fraud,Red
+2017-04-29,Withdrawal,maestro,Chase,United States,Indiana,47405,587,Not Matched,Likely Fraud,Red
+2017-08-21,Withdrawal,mastercard,DCU,United States,Illinois,60078,454,Matched,,Green
+2017-05-19,Withdrawal,americanexpress,DCU,United States,West Virginia,25726,52,Not Matched,Likely Fraud,Red
+2017-02-11,Transfer,jcb,Wells Fargo,United States,California,90410,400,Matched,,Yellow
+2017-01-28,Withdrawal,maestro,DCU,United States,Illinois,60657,66,Matched,,Yellow
+2017-04-25,Deposit,visa,Chase,United States,Wisconsin,54313,291,Matched,,Yellow
+2017-06-05,Withdrawal,jcb,TechCU,United States,Florida,32209,272,Matched,,Green
+2017-07-26,Deposit,jcb,TechCU,United States,Texas,77705,638,Not Matched,Likely Fraud,Red
+2017-06-04,Withdrawal,visa-electron,Chase,United States,Washington,99215,307,Not Matched,Likely Fraud,Red
+2017-07-09,Deposit,diners-club-carte-blanche,TechCU,United States,Kansas,66286,679,Not Matched,Likely Fraud,Red
+2017-01-12,Deposit,jcb,TechCU,United States,California,92519,784,Matched,,Red
+2017-06-02,Withdrawal,maestro,Bank of America,United States,California,94913,611,Matched,,Yellow
+2017-03-17,Withdrawal,jcb,Wells Fargo,United States,Michigan,48258,62,Not Matched,Customer Outreach Reqd,Red
+2017-02-25,Transfer,mastercard,TechCU,United States,California,95823,125,Matched,,Green
+2017-01-04,Withdrawal,diners-club-enroute,TechCU,United States,California,93034,696,Not Matched,Customer Outreach Reqd,Red
+2017-04-04,Withdrawal,mastercard,Wells Fargo,United States,New York,10105,49,Matched,,Green
+2017-02-13,Withdrawal,jcb,DCU,United States,Pennsylvania,15261,677,Matched,,Yellow
+2017-08-22,Withdrawal,bankcard,TechCU,United States,Kentucky,40280,516,Matched,,Yellow
+2017-04-01,Transfer,jcb,TechCU,United States,Maryland,21282,742,Not Matched,Likely Fraud,Red
+2017-08-23,Withdrawal,jcb,DCU,United States,South Carolina,29225,667,Matched,,Green
+2017-08-15,Transfer,diners-club-carte-blanche,Chase,United States,Michigan,48555,750,Not Matched,Customer Outreach Reqd,Yellow
+2017-06-15,Withdrawal,bankcard,Chase,United States,California,92115,88,Matched,,Red
+2017-03-09,Deposit,mastercard,Bank of America,United States,Arizona,85210,612,Not Matched,Customer Outreach Reqd,Yellow
+2017-04-28,Deposit,jcb,Chase,United States,Ohio,43226,184,Not Matched,Likely Fraud,Red
+2017-04-12,Transfer,maestro,DCU,United States,Oregon,97312,254,Not Matched,Need Attention,Red
+2017-01-12,Withdrawal,jcb,DCU,United States,Nevada,89155,644,Matched,,Yellow
+2017-03-19,Deposit,maestro,Chase,United States,Nebraska,68117,549,Not Matched,Customer Outreach Reqd,Green
+2017-05-28,Transfer,switch,Chase,United States,Maryland,21684,341,Matched,,Red
+2017-02-15,Withdrawal,jcb,Chase,United States,Minnesota,55487,382,Matched,,Yellow
+2017-03-07,Withdrawal,visa-electron,DCU,United States,Texas,79159,116,Not Matched,Likely Fraud,Red
+2017-01-25,Transfer,americanexpress,Bank of America,United States,Kansas,67205,635,Not Matched,Likely Fraud,Red
+2017-07-22,Deposit,diners-club-carte-blanche,Bank of America,United States,Texas,78240,42,Not Matched,Customer Outreach Reqd,Red
+2017-05-27,Deposit,jcb,Bank of America,United States,New Jersey,07310,696,Not Matched,Likely Fraud,Red
+2017-01-15,Withdrawal,jcb,Bank of America,United States,Washington,98687,88,Matched,,Red
+2017-01-05,Withdrawal,jcb,Wells Fargo,United States,Kentucky,40233,147,Matched,,Green
+2017-08-19,Transfer,diners-club-enroute,Wells Fargo,United States,New York,13251,475,Not Matched,Customer Outreach Reqd,Green
+2017-02-04,Deposit,jcb,Bank of America,United States,Alabama,35254,728,Matched,,Yellow
+2017-05-21,Transfer,jcb,DCU,United States,Texas,78255,293,Matched,,Green
+2017-02-05,Transfer,visa-electron,Chase,United States,Pennsylvania,17622,402,Not Matched,Customer Outreach Reqd,Green
+2017-02-16,Deposit,jcb,DCU,United States,Texas,78682,179,Matched,,Yellow
+2017-07-30,Transfer,jcb,Bank of America,United States,West Virginia,25326,663,Matched,,Yellow
+2017-01-08,Withdrawal,jcb,Bank of America,United States,California,93399,339,Not Matched,Need Attention,Yellow
+2017-01-09,Transfer,maestro,DCU,United States,California,93381,617,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-22,Deposit,mastercard,TechCU,United States,Florida,34479,214,Not Matched,Likely Fraud,Red
+2017-04-11,Withdrawal,maestro,Bank of America,United States,Alaska,99507,387,Not Matched,Customer Outreach Reqd,Green
+2017-07-08,Transfer,jcb,Bank of America,United States,Tennessee,38168,528,Matched,,Green
+2017-02-08,Deposit,jcb,Wells Fargo,United States,Virginia,23228,68,Matched,,Yellow
+2017-01-19,Withdrawal,switch,DCU,United States,Pennsylvania,16550,547,Not Matched,Likely Fraud,Red
+2017-01-16,Transfer,maestro,Chase,United States,West Virginia,25705,770,Not Matched,Likely Fraud,Red
+2017-04-13,Transfer,bankcard,Bank of America,United States,Virginia,22036,623,Matched,,Red
+2017-04-18,Withdrawal,switch,Bank of America,United States,Texas,78682,666,Not Matched,Need Attention,Green
+2017-08-19,Transfer,jcb,TechCU,United States,Oklahoma,73142,512,Not Matched,Need Attention,Red
+2017-06-08,Withdrawal,laser,Chase,United States,California,95128,429,Not Matched,Customer Outreach Reqd,Green
+2017-01-27,Deposit,diners-club-us-ca,TechCU,United States,Texas,79415,204,Not Matched,Likely Fraud,Red
+2017-06-15,Withdrawal,diners-club-carte-blanche,Chase,United States,Indiana,47937,688,Matched,,Yellow
+2017-03-30,Deposit,jcb,Chase,United States,Nebraska,68517,544,Not Matched,Customer Outreach Reqd,Yellow
+2017-06-13,Withdrawal,jcb,TechCU,United States,New York,10150,683,Not Matched,Need Attention,Green
+2017-05-13,Deposit,diners-club-enroute,Wells Fargo,United States,Georgia,30351,190,Matched,,Green
+2017-05-31,Deposit,mastercard,Chase,United States,Georgia,30323,37,Not Matched,Likely Fraud,Red
+2017-06-12,Withdrawal,bankcard,Bank of America,United States,Illinois,62705,135,Matched,,Green
+2017-06-05,Transfer,china-unionpay,Chase,United States,Ohio,44185,187,Matched,,Red
+2017-02-16,Deposit,americanexpress,TechCU,United States,Florida,33673,100,Not Matched,Likely Fraud,Red
+2017-02-03,Transfer,jcb,TechCU,United States,Georgia,30605,79,Matched,,Yellow
+2017-08-18,Transfer,diners-club-us-ca,DCU,United States,Texas,78426,640,Not Matched,Need Attention,Green
+2017-03-27,Deposit,visa-electron,Wells Fargo,United States,Illinois,60078,185,Not Matched,Need Attention,Yellow
+2017-04-20,Withdrawal,americanexpress,DCU,United States,Georgia,31196,715,Not Matched,Customer Outreach Reqd,Red
+2017-07-03,Deposit,jcb,Bank of America,United States,Pennsylvania,19093,24,Not Matched,Need Attention,Yellow
+2017-07-12,Transfer,jcb,TechCU,United States,Michigan,48912,277,Matched,,Yellow
+2017-07-02,Transfer,jcb,TechCU,United States,Arizona,85305,87,Matched,,Green
+2017-08-01,Withdrawal,jcb,TechCU,United States,California,95823,586,Matched,,Yellow
+2017-04-14,Deposit,jcb,Wells Fargo,United States,District of Columbia,20299,214,Not Matched,Need Attention,Red
+2017-05-13,Withdrawal,jcb,Chase,United States,Texas,77505,23,Not Matched,Likely Fraud,Red
+2017-04-30,Deposit,switch,Wells Fargo,United States,New York,10260,264,Matched,,Green
+2017-01-22,Withdrawal,jcb,Bank of America,United States,California,92170,349,Matched,,Green
+2017-07-28,Deposit,bankcard,Wells Fargo,United States,Ohio,44555,65,Matched,,Green
+2017-07-22,Deposit,jcb,TechCU,United States,Florida,34135,397,Not Matched,Customer Outreach Reqd,Yellow
+2017-02-26,Withdrawal,americanexpress,Bank of America,United States,Kansas,66276,613,Not Matched,Need Attention,Yellow
+2017-06-03,Withdrawal,jcb,Wells Fargo,United States,California,94169,85,Not Matched,Customer Outreach Reqd,Red
+2017-03-01,Transfer,visa-electron,Chase,United States,Texas,77060,578,Matched,,Yellow
+2017-01-29,Deposit,visa-electron,DCU,United States,Texas,76205,651,Matched,,Red
+2017-02-17,Transfer,jcb,DCU,United States,New York,11205,795,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-31,Deposit,maestro,Bank of America,United States,Kansas,67215,279,Not Matched,Likely Fraud,Red
+2017-04-15,Transfer,laser,Bank of America,United States,Indiana,46896,74,Matched,,Red
+2017-02-25,Transfer,americanexpress,DCU,United States,Ohio,45403,371,Matched,,Red
+2017-06-07,Withdrawal,visa,TechCU,United States,Florida,34615,502,Matched,,Yellow
+2017-04-09,Withdrawal,visa-electron,TechCU,United States,Florida,33283,518,Matched,,Red
+2017-02-16,Deposit,jcb,Bank of America,United States,Maryland,20784,728,Not Matched,Likely Fraud,Red
+2017-07-12,Transfer,americanexpress,Chase,United States,Texas,76796,653,Matched,,Yellow
+2017-03-02,Transfer,jcb,Bank of America,United States,Kentucky,40581,378,Not Matched,Need Attention,Red
+2017-01-02,Withdrawal,maestro,Bank of America,United States,North Carolina,27635,393,Matched,,Yellow
+2017-02-01,Withdrawal,jcb,Wells Fargo,United States,California,95160,263,Not Matched,Need Attention,Red
+2017-02-11,Withdrawal,switch,DCU,United States,District of Columbia,20005,329,Matched,,Red
+2017-08-02,Deposit,americanexpress,Bank of America,United States,North Carolina,27116,233,Not Matched,Customer Outreach Reqd,Green
+2017-02-19,Deposit,jcb,Chase,United States,Florida,32092,107,Not Matched,Customer Outreach Reqd,Red
+2017-05-08,Withdrawal,mastercard,Wells Fargo,United States,Michigan,48224,515,Matched,,Red
+2017-02-16,Transfer,switch,DCU,United States,Ohio,45243,214,Not Matched,Likely Fraud,Red
+2017-02-17,Deposit,jcb,Chase,United States,New York,11499,350,Matched,,Green
+2017-08-08,Withdrawal,china-unionpay,Bank of America,United States,Pennsylvania,19605,745,Matched,,Yellow
+2017-08-12,Deposit,diners-club-enroute,Chase,United States,Oklahoma,73071,50,Matched,,Red
+2017-07-10,Transfer,china-unionpay,Chase,United States,Arizona,85077,242,Matched,,Yellow
+2017-06-12,Withdrawal,china-unionpay,Bank of America,United States,District of Columbia,20551,554,Matched,,Green
+2017-05-12,Deposit,mastercard,DCU,United States,California,93726,34,Matched,,Yellow
+2017-02-06,Transfer,jcb,Bank of America,United States,West Virginia,25726,286,Not Matched,Likely Fraud,Red
+2017-07-16,Withdrawal,solo,Chase,United States,Nevada,89087,302,Matched,,Red
+2017-08-04,Withdrawal,jcb,Wells Fargo,United States,Louisiana,70165,214,Matched,,Yellow
+2017-07-12,Deposit,jcb,Bank of America,United States,Arizona,85383,549,Matched,,Green
+2017-08-27,Deposit,jcb,Bank of America,United States,Texas,75216,786,Matched,,Green
+2017-02-08,Deposit,diners-club-international,Chase,United States,New York,13251,448,Not Matched,Customer Outreach Reqd,Red
+2017-08-18,Transfer,americanexpress,TechCU,United States,Hawaii,96815,142,Matched,,Red
+2017-05-23,Deposit,mastercard,DCU,United States,Massachusetts,01610,384,Not Matched,Need Attention,Yellow
+2017-04-11,Transfer,switch,Bank of America,United States,Georgia,30033,15,Not Matched,Customer Outreach Reqd,Green
+2017-04-08,Transfer,jcb,TechCU,United States,California,94705,658,Not Matched,Likely Fraud,Red
+2017-05-16,Transfer,jcb,DCU,United States,Florida,34620,141,Not Matched,Need Attention,Yellow
+2017-05-01,Deposit,jcb,DCU,United States,Washington,99215,714,Not Matched,Customer Outreach Reqd,Red
+2017-02-15,Transfer,diners-club-us-ca,Chase,United States,Missouri,64142,378,Not Matched,Customer Outreach Reqd,Green
+2017-01-27,Withdrawal,switch,TechCU,United States,Pennsylvania,15235,377,Matched,,Green
+2017-07-25,Deposit,jcb,Wells Fargo,United States,Illinois,60669,615,Matched,,Red
+2017-07-10,Transfer,jcb,Chase,United States,Texas,75323,582,Not Matched,Likely Fraud,Red
+2017-02-10,Withdrawal,diners-club-enroute,DCU,United States,California,92165,619,Not Matched,Need Attention,Yellow
+2017-04-25,Deposit,americanexpress,DCU,United States,Iowa,50315,633,Matched,,Green
+2017-05-03,Transfer,jcb,TechCU,United States,Connecticut,06127,375,Not Matched,Likely Fraud,Red
+2017-08-14,Withdrawal,laser,Wells Fargo,United States,New Mexico,87105,327,Matched,,Green
+2017-04-14,Deposit,jcb,Wells Fargo,United States,Florida,34205,797,Matched,,Red
+2017-01-12,Withdrawal,jcb,Wells Fargo,United States,Oklahoma,74133,207,Matched,,Green
+2017-03-12,Withdrawal,jcb,TechCU,United States,New York,10024,402,Not Matched,Need Attention,Red
+2017-01-28,Transfer,jcb,TechCU,United States,Texas,78255,512,Not Matched,Likely Fraud,Red
+2017-08-29,Deposit,jcb,Wells Fargo,United States,New York,10045,737,Matched,,Green
+2017-07-25,Deposit,jcb,Wells Fargo,United States,Minnesota,55598,135,Not Matched,Likely Fraud,Red
+2017-04-12,Deposit,visa,Chase,United States,California,90010,610,Not Matched,Likely Fraud,Red
+2017-08-05,Deposit,jcb,Chase,United States,Oklahoma,73142,285,Matched,,Red
+2017-02-03,Deposit,mastercard,TechCU,United States,California,90510,768,Not Matched,Need Attention,Red
+2017-02-19,Transfer,bankcard,Wells Fargo,United States,Colorado,80305,567,Matched,,Yellow
+2017-06-01,Withdrawal,jcb,Bank of America,United States,Texas,79605,212,Matched,,Red
+2017-06-08,Withdrawal,diners-club-carte-blanche,DCU,United States,Virginia,22070,692,Not Matched,Need Attention,Green
+2017-08-09,Transfer,jcb,Wells Fargo,United States,Texas,76310,244,Matched,,Green
+2017-01-24,Withdrawal,jcb,Bank of America,United States,California,91125,472,Matched,,Yellow
+2017-02-04,Withdrawal,jcb,DCU,United States,Texas,77228,761,Matched,,Green
+2017-02-15,Withdrawal,switch,Bank of America,United States,Virginia,24020,102,Matched,,Green
+2017-05-11,Withdrawal,jcb,DCU,United States,Colorado,80217,531,Matched,,Green
+2017-01-29,Deposit,maestro,DCU,United States,Pennsylvania,16565,775,Not Matched,Need Attention,Green
+2017-07-28,Withdrawal,switch,TechCU,United States,New Mexico,87140,317,Matched,,Green
+2017-01-28,Deposit,visa-electron,Bank of America,United States,Texas,79165,14,Not Matched,Likely Fraud,Red
+2017-01-31,Transfer,jcb,Wells Fargo,United States,Pennsylvania,16534,380,Not Matched,Need Attention,Yellow
+2017-06-19,Transfer,jcb,Wells Fargo,United States,California,94042,226,Matched,,Yellow
+2017-05-16,Transfer,jcb,DCU,United States,Georgia,31704,192,Not Matched,Need Attention,Yellow
+2017-05-03,Deposit,china-unionpay,TechCU,United States,Indiana,46254,505,Not Matched,Need Attention,Yellow
+2017-04-22,Withdrawal,americanexpress,DCU,United States,Arkansas,72204,548,Matched,,Yellow
+2017-07-30,Withdrawal,jcb,Bank of America,United States,California,95818,611,Not Matched,Customer Outreach Reqd,Red
+2017-06-24,Deposit,diners-club-carte-blanche,Wells Fargo,United States,New York,10014,446,Matched,,Yellow
+2017-07-21,Deposit,mastercard,Chase,United States,North Carolina,27717,265,Not Matched,Likely Fraud,Red
+2017-02-19,Deposit,solo,DCU,United States,Missouri,63143,499,Matched,,Yellow
+2017-04-27,Transfer,jcb,TechCU,United States,Montana,59806,221,Not Matched,Customer Outreach Reqd,Green
+2017-07-16,Withdrawal,mastercard,TechCU,United States,Texas,75387,449,Not Matched,Need Attention,Red
+2017-05-28,Withdrawal,visa,TechCU,United States,South Carolina,29905,160,Matched,,Green
+2017-03-14,Withdrawal,bankcard,Wells Fargo,United States,California,94142,87,Matched,,Yellow
+2017-06-30,Deposit,jcb,Chase,United States,Ohio,45403,535,Not Matched,Likely Fraud,Red
+2017-03-27,Withdrawal,jcb,TechCU,United States,Michigan,49006,10,Not Matched,Likely Fraud,Red
+2017-04-14,Transfer,jcb,Bank of America,United States,Massachusetts,02114,526,Not Matched,Likely Fraud,Red
+2017-03-07,Deposit,mastercard,Chase,United States,Missouri,63180,536,Matched,,Red
+2017-08-17,Transfer,switch,Bank of America,United States,Pennsylvania,18768,253,Not Matched,Need Attention,Red
+2017-02-13,Deposit,jcb,TechCU,United States,California,94164,335,Matched,,Yellow
+2017-08-23,Transfer,visa-electron,Chase,United States,Texas,88563,715,Matched,,Green
+2017-03-11,Deposit,china-unionpay,TechCU,United States,New York,10260,609,Matched,,Yellow
+2017-04-11,Deposit,maestro,Chase,United States,Massachusetts,01654,530,Not Matched,Need Attention,Green
+2017-05-18,Transfer,diners-club-carte-blanche,Bank of America,United States,Delaware,19897,687,Matched,,Green
+2017-04-28,Deposit,jcb,TechCU,United States,Florida,33169,220,Not Matched,Likely Fraud,Red
+2017-07-13,Deposit,bankcard,DCU,United States,Kansas,66629,770,Matched,,Green
+2017-01-16,Transfer,jcb,Wells Fargo,United States,Connecticut,06854,664,Not Matched,Need Attention,Red
+2017-02-08,Transfer,mastercard,Wells Fargo,United States,Missouri,64190,760,Matched,,Green
+2017-02-21,Withdrawal,americanexpress,DCU,United States,Florida,33069,781,Not Matched,Likely Fraud,Red
+2017-01-11,Withdrawal,jcb,Bank of America,United States,Oklahoma,73147,135,Not Matched,Need Attention,Yellow
+2017-01-29,Transfer,jcb,TechCU,United States,Massachusetts,02109,536,Matched,,Red
+2017-04-16,Deposit,mastercard,Wells Fargo,United States,Nevada,89110,624,Not Matched,Need Attention,Red
+2017-06-05,Deposit,mastercard,TechCU,United States,Virginia,23242,259,Not Matched,Likely Fraud,Red
+2017-01-06,Transfer,diners-club-carte-blanche,Bank of America,United States,Alabama,36689,189,Matched,,Yellow
+2017-03-28,Withdrawal,visa-electron,TechCU,United States,Georgia,30358,706,Matched,,Green
+2017-08-12,Deposit,mastercard,Wells Fargo,United States,Texas,75392,381,Matched,,Red
+2017-07-23,Withdrawal,jcb,Wells Fargo,United States,Utah,84145,728,Matched,,Green
+2017-04-12,Withdrawal,jcb,DCU,United States,Texas,77085,602,Not Matched,Need Attention,Green
+2017-03-01,Deposit,diners-club-carte-blanche,DCU,United States,California,93704,632,Not Matched,Need Attention,Yellow
+2017-05-16,Deposit,diners-club-enroute,Wells Fargo,United States,District of Columbia,56944,83,Matched,,Red
+2017-05-11,Withdrawal,switch,TechCU,United States,Georgia,31296,471,Matched,,Yellow
+2017-02-25,Transfer,visa-electron,TechCU,United States,Nevada,89155,276,Matched,,Green
+2017-08-24,Transfer,jcb,Chase,United States,Georgia,30092,718,Matched,,Green
+2017-07-25,Transfer,diners-club-enroute,Bank of America,United States,Kentucky,40546,706,Not Matched,Likely Fraud,Red
+2017-06-23,Deposit,visa,Bank of America,United States,New York,10459,433,Not Matched,Likely Fraud,Red
+2017-02-01,Deposit,jcb,TechCU,United States,North Dakota,58122,12,Not Matched,Likely Fraud,Red
+2017-08-25,Transfer,diners-club-enroute,DCU,United States,New York,11388,188,Not Matched,Likely Fraud,Red
+2017-07-19,Withdrawal,jcb,Wells Fargo,United States,Oklahoma,73104,369,Matched,,Yellow
+2017-03-17,Withdrawal,mastercard,Chase,United States,Tennessee,37235,527,Matched,,Yellow
+2017-07-16,Deposit,jcb,Chase,United States,Iowa,52245,332,Matched,,Yellow
+2017-03-11,Withdrawal,visa-electron,DCU,United States,Wyoming,82007,122,Matched,,Green
+2017-08-16,Deposit,jcb,Bank of America,United States,Florida,33315,644,Matched,,Green
+2017-03-31,Transfer,maestro,Chase,United States,Mississippi,39705,142,Matched,,Yellow
+2017-02-17,Transfer,bankcard,Wells Fargo,United States,Florida,32590,344,Matched,,Green
+2017-02-06,Transfer,americanexpress,Chase,United States,Missouri,64144,76,Matched,,Red
+2017-06-09,Transfer,mastercard,TechCU,United States,North Carolina,27690,269,Matched,,Yellow
+2017-05-31,Withdrawal,visa-electron,Chase,United States,South Dakota,57193,216,Matched,,Green
+2017-02-28,Transfer,mastercard,TechCU,United States,California,92619,773,Not Matched,Customer Outreach Reqd,Red
+2017-02-05,Withdrawal,jcb,Chase,United States,Minnesota,55436,112,Not Matched,Need Attention,Yellow
+2017-07-19,Deposit,americanexpress,Bank of America,United States,Mississippi,39404,277,Not Matched,Need Attention,Green
+2017-07-23,Deposit,jcb,Chase,United States,Maryland,20719,177,Not Matched,Need Attention,Green
+2017-05-23,Transfer,mastercard,Chase,United States,Pennsylvania,18505,780,Not Matched,Need Attention,Yellow
+2017-02-01,Deposit,jcb,TechCU,United States,Michigan,49048,207,Matched,,Yellow
+2017-06-09,Deposit,jcb,TechCU,United States,Florida,32803,365,Matched,,Yellow
+2017-04-21,Transfer,diners-club-us-ca,Bank of America,United States,New Mexico,87110,546,Matched,,Yellow
+2017-08-02,Transfer,diners-club-enroute,Chase,United States,California,92805,146,Not Matched,Need Attention,Yellow
+2017-08-29,Deposit,diners-club-enroute,TechCU,United States,Texas,78296,209,Matched,,Red
+2017-04-16,Deposit,switch,TechCU,United States,District of Columbia,20557,442,Not Matched,Need Attention,Yellow
+2017-01-02,Withdrawal,diners-club-us-ca,DCU,United States,Indiana,47805,218,Not Matched,Likely Fraud,Red
+2017-02-01,Withdrawal,americanexpress,TechCU,United States,Idaho,83716,255,Matched,,Red
+2017-02-27,Transfer,mastercard,Chase,United States,Florida,34205,132,Matched,,Green
+2017-03-14,Deposit,jcb,Chase,United States,Pennsylvania,18514,186,Matched,,Yellow
+2017-07-08,Deposit,china-unionpay,Wells Fargo,United States,Alabama,36610,528,Not Matched,Customer Outreach Reqd,Yellow
+2017-08-23,Withdrawal,maestro,Chase,United States,Ohio,45218,71,Not Matched,Customer Outreach Reqd,Red
+2017-06-09,Withdrawal,jcb,Bank of America,United States,Louisiana,71137,707,Matched,,Yellow
+2017-01-28,Transfer,maestro,TechCU,United States,New York,10606,180,Not Matched,Likely Fraud,Red
+2017-07-07,Transfer,maestro,Chase,United States,North Carolina,28805,778,Not Matched,Customer Outreach Reqd,Red
+2017-07-12,Deposit,laser,Wells Fargo,United States,South Carolina,29203,296,Matched,,Green
+2017-04-11,Withdrawal,diners-club-carte-blanche,Wells Fargo,United States,Michigan,48956,207,Not Matched,Need Attention,Yellow
+2017-07-18,Withdrawal,laser,Bank of America,United States,Indiana,46202,721,Matched,,Green
+2017-01-04,Withdrawal,instapayment,DCU,United States,Texas,77015,87,Matched,,Yellow
+2017-01-07,Deposit,diners-club-enroute,DCU,United States,Connecticut,06520,334,Matched,,Red
+2017-06-20,Transfer,diners-club-us-ca,TechCU,United States,Louisiana,70820,428,Matched,,Green
+2017-01-17,Withdrawal,jcb,TechCU,United States,Connecticut,06505,497,Not Matched,Customer Outreach Reqd,Red
+2017-08-11,Withdrawal,laser,Bank of America,United States,Florida,34114,647,Not Matched,Customer Outreach Reqd,Yellow
+2017-08-02,Deposit,diners-club-carte-blanche,Wells Fargo,United States,South Dakota,57188,708,Matched,,Yellow
+2017-08-22,Withdrawal,maestro,Bank of America,United States,Ohio,45426,596,Matched,,Green
+2017-07-25,Deposit,diners-club-enroute,Bank of America,United States,California,93794,450,Matched,,Yellow
+2017-06-23,Deposit,instapayment,Bank of America,United States,District of Columbia,20299,259,Not Matched,Customer Outreach Reqd,Red
+2017-05-30,Withdrawal,visa-electron,TechCU,United States,Georgia,30311,402,Not Matched,Need Attention,Yellow
+2017-01-08,Withdrawal,instapayment,TechCU,United States,Texas,78759,207,Not Matched,Likely Fraud,Red
+2017-03-24,Transfer,visa-electron,TechCU,United States,New Jersey,08608,689,Not Matched,Need Attention,Green
+2017-01-06,Deposit,diners-club-enroute,TechCU,United States,Washington,98498,599,Matched,,Red
+2017-04-11,Deposit,jcb,Chase,United States,Florida,33245,754,Not Matched,Need Attention,Green
+2017-07-22,Deposit,jcb,Wells Fargo,United States,California,92030,477,Matched,,Red
+2017-04-04,Deposit,switch,Chase,United States,California,95833,332,Matched,,Green
+2017-02-10,Withdrawal,laser,DCU,United States,Tennessee,38168,16,Matched,,Green
+2017-05-20,Transfer,bankcard,Bank of America,United States,New York,10029,734,Not Matched,Likely Fraud,Red
+2017-08-07,Deposit,jcb,Chase,United States,Ohio,44185,524,Not Matched,Likely Fraud,Red
+2017-03-17,Withdrawal,americanexpress,TechCU,United States,Texas,76705,136,Matched,,Red
+2017-07-31,Withdrawal,jcb,Bank of America,United States,District of Columbia,20022,660,Matched,,Yellow
+2017-02-23,Deposit,jcb,TechCU,United States,Kentucky,40524,199,Not Matched,Need Attention,Red
+2017-05-30,Deposit,visa-electron,Bank of America,United States,Missouri,64160,447,Matched,,Red
+2017-06-04,Withdrawal,switch,DCU,United States,Kansas,66225,34,Not Matched,Likely Fraud,Red
+2017-06-11,Transfer,diners-club-international,DCU,United States,Florida,32909,148,Matched,,Red
+2017-03-05,Withdrawal,maestro,Bank of America,United States,Nevada,89120,129,Matched,,Yellow
+2017-04-23,Transfer,jcb,TechCU,United States,Tennessee,37665,503,Not Matched,Need Attention,Red
+2017-04-19,Withdrawal,switch,DCU,United States,West Virginia,25716,261,Matched,,Yellow
+2017-03-28,Withdrawal,maestro,Wells Fargo,United States,California,92191,472,Not Matched,Customer Outreach Reqd,Green
+2017-07-13,Transfer,jcb,Bank of America,United States,Washington,98506,729,Matched,,Green
+2017-06-22,Transfer,visa-electron,Chase,United States,Florida,33069,685,Not Matched,Need Attention,Green
+2017-01-12,Deposit,visa-electron,Chase,United States,Pennsylvania,16565,635,Matched,,Red
+2017-04-10,Transfer,jcb,DCU,United States,District of Columbia,20337,124,Matched,,Yellow
+2017-06-17,Transfer,jcb,Wells Fargo,United States,District of Columbia,20036,740,Matched,,Red
+2017-02-08,Withdrawal,switch,Chase,United States,Texas,78759,533,Matched,,Yellow
+2017-05-07,Deposit,diners-club-enroute,Bank of America,United States,California,94159,468,Matched,,Yellow
+2017-01-31,Withdrawal,jcb,Bank of America,United States,Kentucky,40581,54,Matched,,Red
+2017-06-14,Deposit,diners-club-international,Wells Fargo,United States,Kansas,67215,616,Matched,,Yellow
+2017-03-04,Deposit,jcb,TechCU,United States,Texas,79491,10,Not Matched,Need Attention,Green
+2017-07-09,Withdrawal,jcb,TechCU,United States,New York,11388,175,Not Matched,Customer Outreach Reqd,Yellow
+2017-04-24,Withdrawal,americanexpress,Wells Fargo,United States,Arizona,85210,34,Not Matched,Customer Outreach Reqd,Red
+2017-04-23,Transfer,americanexpress,Wells Fargo,United States,Nevada,89519,288,Not Matched,Customer Outreach Reqd,Green
+2017-04-11,Deposit,jcb,Wells Fargo,United States,Florida,33330,609,Not Matched,Customer Outreach Reqd,Green
+2017-05-19,Deposit,jcb,TechCU,United States,Ohio,45208,701,Not Matched,Need Attention,Red
+2017-04-16,Transfer,jcb,DCU,United States,California,91210,463,Not Matched,Customer Outreach Reqd,Green
+2017-03-07,Deposit,jcb,TechCU,United States,Illinois,60435,346,Not Matched,Likely Fraud,Red
+2017-06-21,Withdrawal,mastercard,Bank of America,United States,Indiana,46814,656,Matched,,Red
+2017-01-15,Transfer,switch,Bank of America,United States,Texas,77505,364,Matched,,Green
+2017-08-07,Transfer,jcb,TechCU,United States,District of Columbia,20205,461,Not Matched,Likely Fraud,Red
+2017-06-15,Transfer,mastercard,Bank of America,United States,Tennessee,38308,209,Matched,,Red
+2017-02-11,Transfer,visa,TechCU,United States,Pennsylvania,19172,416,Not Matched,Need Attention,Yellow
+2017-06-24,Withdrawal,jcb,Wells Fargo,United States,Oklahoma,74116,25,Matched,,Yellow
+2017-06-26,Deposit,jcb,Wells Fargo,United States,Florida,33158,53,Matched,,Green
+2017-05-31,Transfer,laser,Wells Fargo,United States,New York,11210,545,Matched,,Red
+2017-04-11,Transfer,china-unionpay,Wells Fargo,United States,Illinois,62705,795,Matched,,Green
+2017-07-26,Transfer,jcb,Bank of America,United States,Massachusetts,01905,103,Not Matched,Customer Outreach Reqd,Yellow
+2017-03-23,Transfer,bankcard,Bank of America,United States,Michigan,48912,111,Matched,,Yellow
+2017-07-18,Deposit,jcb,TechCU,United States,Missouri,63169,245,Not Matched,Likely Fraud,Red
+2017-08-04,Transfer,jcb,Wells Fargo,United States,South Carolina,29225,585,Matched,,Yellow
+2017-06-06,Deposit,diners-club-international,DCU,United States,Ohio,44125,751,Not Matched,Customer Outreach Reqd,Green
+2017-08-13,Transfer,jcb,Bank of America,United States,California,90050,700,Matched,,Red
+2017-02-21,Deposit,instapayment,Wells Fargo,United States,Florida,32964,38,Matched,,Yellow
+2017-05-07,Deposit,mastercard,Wells Fargo,United States,District of Columbia,20029,664,Matched,,Red
+2017-04-06,Transfer,jcb,Wells Fargo,United States,Oklahoma,73124,381,Not Matched,Need Attention,Yellow
+2017-01-15,Deposit,jcb,Wells Fargo,United States,New York,10039,65,Not Matched,Likely Fraud,Red
+2017-07-03,Deposit,jcb,Bank of America,United States,Florida,33180,456,Matched,,Green
+2017-03-12,Deposit,jcb,Wells Fargo,United States,Kansas,66611,12,Matched,,Yellow
+2017-08-28,Transfer,jcb,TechCU,United States,Texas,75062,773,Matched,,Green
+2017-02-04,Deposit,diners-club-us-ca,DCU,United States,Illinois,60641,466,Matched,,Red
+2017-05-15,Transfer,americanexpress,DCU,United States,California,91499,676,Not Matched,Customer Outreach Reqd,Yellow
+2017-06-17,Transfer,americanexpress,Bank of America,United States,North Carolina,28247,357,Matched,,Red
+2017-08-08,Withdrawal,americanexpress,Bank of America,United States,Kentucky,40205,604,Matched,,Yellow
+2017-01-08,Withdrawal,jcb,DCU,United States,New York,10270,189,Matched,,Yellow
+2017-02-25,Withdrawal,china-unionpay,DCU,United States,Georgia,30386,667,Not Matched,Need Attention,Yellow
+2017-07-07,Withdrawal,americanexpress,TechCU,United States,Connecticut,06922,478,Matched,,Red
+2017-06-24,Transfer,maestro,Chase,United States,New York,13505,31,Matched,,Red
+2017-06-23,Deposit,jcb,Chase,United States,California,90065,404,Matched,,Yellow
+2017-02-18,Withdrawal,visa,Chase,United States,Florida,32941,177,Not Matched,Likely Fraud,Red
+2017-02-24,Withdrawal,visa-electron,Chase,United States,District of Columbia,20073,58,Not Matched,Customer Outreach Reqd,Yellow
+2017-01-25,Deposit,visa-electron,Bank of America,United States,Wisconsin,53234,56,Not Matched,Likely Fraud,Red
+2017-06-08,Deposit,switch,DCU,United States,Texas,88574,593,Matched,,Green
+2017-02-14,Withdrawal,switch,TechCU,United States,Texas,75387,683,Not Matched,Need Attention,Red
+2017-01-23,Transfer,maestro,Chase,United States,Texas,78240,257,Matched,,Green
+2017-04-21,Withdrawal,jcb,DCU,United States,Massachusetts,01905,796,Not Matched,Likely Fraud,Red
+2017-05-04,Withdrawal,jcb,DCU,United States,Massachusetts,02458,82,Not Matched,Customer Outreach Reqd,Yellow
+2017-02-22,Transfer,diners-club-carte-blanche,Bank of America,United States,District of Columbia,20046,417,Matched,,Red
+2017-07-29,Deposit,diners-club-enroute,DCU,United States,Alaska,99512,731,Not Matched,Need Attention,Yellow
+2017-08-18,Transfer,diners-club-us-ca,Chase,United States,Texas,78769,251,Matched,,Yellow
+2017-08-27,Withdrawal,jcb,Chase,United States,Illinois,62776,69,Matched,,Yellow
+2017-01-08,Withdrawal,jcb,TechCU,United States,Ohio,44505,324,Not Matched,Need Attention,Yellow
+2017-02-13,Withdrawal,switch,DCU,United States,Missouri,63169,771,Not Matched,Customer Outreach Reqd,Green
+2017-01-28,Deposit,jcb,Wells Fargo,United States,New York,10045,173,Not Matched,Customer Outreach Reqd,Red
+2017-03-12,Deposit,jcb,Chase,United States,California,92405,87,Matched,,Red
+2017-08-10,Withdrawal,jcb,Wells Fargo,United States,Georgia,30905,622,Not Matched,Customer Outreach Reqd,Red
+2017-06-30,Withdrawal,jcb,DCU,United States,Texas,77025,380,Not Matched,Customer Outreach Reqd,Green
+2017-01-01,Withdrawal,visa-electron,TechCU,United States,Ohio,44125,301,Not Matched,Likely Fraud,Red
+2017-07-30,Deposit,jcb,Wells Fargo,United States,District of Columbia,20380,279,Not Matched,Likely Fraud,Red
+2017-08-18,Deposit,jcb,Wells Fargo,United States,California,94302,78,Matched,,Green
+2017-08-22,Deposit,switch,Bank of America,United States,Colorado,80310,453,Not Matched,Need Attention,Red
+2017-06-11,Transfer,visa-electron,Bank of America,United States,Texas,79950,381,Not Matched,Need Attention,Green
+2017-02-09,Withdrawal,switch,Wells Fargo,United States,California,93907,716,Not Matched,Need Attention,Green
+2017-05-24,Deposit,mastercard,Wells Fargo,United States,New York,11044,67,Matched,,Green
+2017-07-13,Deposit,jcb,Wells Fargo,United States,Connecticut,06505,684,Not Matched,Customer Outreach Reqd,Red
+2017-01-24,Deposit,americanexpress,TechCU,United States,Ohio,44760,709,Matched,,Red
+2017-03-02,Deposit,bankcard,Wells Fargo,United States,Pennsylvania,17105,215,Not Matched,Likely Fraud,Red
+2017-03-30,Deposit,china-unionpay,Chase,United States,Pennsylvania,19141,475,Matched,,Yellow
+2017-06-05,Transfer,solo,Bank of America,United States,Florida,32891,626,Not Matched,Likely Fraud,Red
+2017-07-12,Transfer,americanexpress,Wells Fargo,United States,Alabama,35295,686,Matched,,Red
+2017-05-18,Deposit,switch,TechCU,United States,Oregon,97296,688,Not Matched,Need Attention,Red
+2017-04-17,Transfer,mastercard,DCU,United States,Colorado,81010,471,Matched,,Green
+2017-01-20,Transfer,maestro,DCU,United States,Pennsylvania,19196,487,Matched,,Red
+2017-04-09,Transfer,jcb,TechCU,United States,California,91328,599,Not Matched,Customer Outreach Reqd,Green
+2017-07-04,Deposit,switch,TechCU,United States,Florida,33605,234,Matched,,Yellow
+2017-05-11,Transfer,visa-electron,Chase,United States,Alabama,36622,140,Not Matched,Customer Outreach Reqd,Green
+2017-02-04,Deposit,jcb,TechCU,United States,California,92862,303,Not Matched,Customer Outreach Reqd,Red
+2017-01-31,Withdrawal,maestro,Bank of America,United States,Texas,77705,737,Matched,,Green
+2017-07-02,Deposit,visa-electron,DCU,United States,Texas,76544,670,Not Matched,Likely Fraud,Red
+2017-02-01,Withdrawal,jcb,TechCU,United States,Ohio,45203,512,Matched,,Yellow
+2017-02-04,Withdrawal,maestro,Wells Fargo,United States,New Jersey,08104,65,Matched,,Green
+2017-06-17,Withdrawal,jcb,Chase,United States,Florida,34210,521,Matched,,Green
+2017-05-09,Transfer,visa-electron,Wells Fargo,United States,Arizona,85271,187,Not Matched,Likely Fraud,Red
+2017-07-27,Deposit,switch,TechCU,United States,District of Columbia,20029,545,Not Matched,Customer Outreach Reqd,Green
+2017-03-02,Transfer,maestro,Bank of America,United States,California,91520,780,Not Matched,Likely Fraud,Red
+2017-02-21,Withdrawal,switch,DCU,United States,Maryland,20784,25,Not Matched,Need Attention,Green
+2017-08-01,Deposit,switch,Bank of America,United States,Texas,77493,74,Not Matched,Need Attention,Yellow
+2017-06-13,Transfer,visa,Chase,United States,New York,10184,168,Matched,,Green
+2017-03-02,Deposit,laser,Bank of America,United States,California,93150,603,Matched,,Red
+2017-07-29,Transfer,jcb,Bank of America,United States,Tennessee,38161,703,Matched,,Green
+2017-05-16,Deposit,mastercard,Wells Fargo,United States,Oregon,97312,295,Matched,,Yellow
+2017-06-04,Withdrawal,maestro,Chase,United States,West Virginia,25716,614,Not Matched,Likely Fraud,Red
+2017-04-27,Transfer,maestro,Wells Fargo,United States,Georgia,31904,442,Matched,,Green
+2017-06-25,Withdrawal,jcb,Chase,United States,Hawaii,96810,60,Not Matched,Customer Outreach Reqd,Green
+2017-03-10,Withdrawal,jcb,Chase,United States,West Virginia,25321,152,Matched,,Yellow
+2017-08-06,Withdrawal,jcb,DCU,United States,Colorado,80945,303,Matched,,Red
+2017-02-12,Deposit,mastercard,Wells Fargo,United States,Georgia,31422,799,Matched,,Red
+2017-04-20,Deposit,jcb,TechCU,United States,Texas,77045,649,Not Matched,Customer Outreach Reqd,Red
+2017-03-27,Transfer,mastercard,TechCU,United States,Texas,79977,198,Not Matched,Likely Fraud,Red
+2017-07-01,Deposit,switch,Wells Fargo,United States,Alabama,36616,439,Matched,,Yellow
+2017-08-05,Transfer,mastercard,Chase,United States,Arizona,85045,539,Matched,,Red
+2017-05-05,Withdrawal,jcb,Bank of America,United States,Florida,33499,310,Not Matched,Customer Outreach Reqd,Green
+2017-03-11,Withdrawal,instapayment,TechCU,United States,West Virginia,25305,238,Not Matched,Likely Fraud,Red
+2017-07-02,Deposit,diners-club-us-ca,TechCU,United States,Virginia,23605,174,Matched,,Green
+2017-06-08,Transfer,instapayment,TechCU,United States,California,94154,518,Matched,,Red
+2017-01-15,Deposit,laser,Wells Fargo,United States,Texas,77080,334,Not Matched,Customer Outreach Reqd,Yellow
+2017-06-16,Transfer,diners-club-international,Chase,United States,California,92862,289,Matched,,Green
+2017-01-31,Transfer,jcb,DCU,United States,Arizona,85035,85,Matched,,Green
+2017-02-17,Transfer,visa-electron,Wells Fargo,United States,District of Columbia,20530,483,Matched,,Yellow
+2017-03-17,Deposit,solo,DCU,United States,California,94605,492,Not Matched,Likely Fraud,Red
+2017-07-16,Withdrawal,jcb,Chase,United States,Utah,84130,53,Matched,,Yellow
+2017-08-07,Withdrawal,jcb,Wells Fargo,United States,Oklahoma,74184,703,Not Matched,Customer Outreach Reqd,Red
+2017-08-20,Withdrawal,americanexpress,Bank of America,United States,Arizona,85045,569,Matched,,Red
+2017-03-30,Transfer,bankcard,DCU,United States,California,91186,414,Matched,,Yellow
+2017-02-07,Transfer,visa-electron,DCU,United States,Florida,32830,64,Matched,,Red
+2017-07-05,Transfer,jcb,DCU,United States,California,92191,381,Not Matched,Need Attention,Yellow
+2017-07-02,Deposit,jcb,TechCU,United States,Connecticut,06520,66,Matched,,Green
+2017-06-29,Withdrawal,mastercard,Wells Fargo,United States,West Virginia,25326,41,Matched,,Green
+2017-04-30,Withdrawal,mastercard,TechCU,United States,Virginia,24014,29,Matched,,Yellow
+2017-03-21,Transfer,jcb,DCU,United States,Kansas,67220,594,Not Matched,Need Attention,Yellow
+2017-07-26,Withdrawal,jcb,Wells Fargo,United States,Indiana,46814,669,Not Matched,Likely Fraud,Red
+2017-03-31,Transfer,jcb,Wells Fargo,United States,Missouri,63169,354,Matched,,Red
+2017-04-23,Deposit,visa-electron,DCU,United States,Alabama,35210,636,Matched,,Red
+2017-06-16,Withdrawal,jcb,Chase,United States,Kansas,66210,387,Matched,,Yellow
+2017-01-09,Withdrawal,instapayment,Chase,United States,Tennessee,37215,797,Not Matched,Need Attention,Red
+2017-06-25,Deposit,maestro,Wells Fargo,United States,Texas,77705,144,Not Matched,Need Attention,Yellow
+2017-01-19,Withdrawal,jcb,DCU,United States,Pennsylvania,16550,382,Matched,,Red
+2017-03-27,Transfer,visa-electron,Chase,United States,Colorado,80223,488,Not Matched,Likely Fraud,Red
+2017-03-19,Withdrawal,maestro,Wells Fargo,United States,Louisiana,70033,616,Matched,,Green
+2017-03-20,Withdrawal,jcb,DCU,United States,Florida,33487,283,Not Matched,Customer Outreach Reqd,Red
+2017-07-17,Transfer,bankcard,Chase,United States,Tennessee,37250,269,Matched,,Red
+2017-02-13,Transfer,bankcard,TechCU,United States,Ohio,43605,33,Matched,,Red
+2017-06-29,Transfer,jcb,TechCU,United States,Tennessee,38188,356,Not Matched,Need Attention,Yellow
+2017-04-30,Transfer,jcb,TechCU,United States,Texas,77010,797,Not Matched,Need Attention,Green
+2017-01-25,Withdrawal,bankcard,Chase,United States,Georgia,30130,441,Not Matched,Customer Outreach Reqd,Yellow
+2017-05-30,Transfer,diners-club-enroute,TechCU,United States,Alabama,35290,39,Not Matched,Likely Fraud,Red
+2017-01-27,Transfer,jcb,Wells Fargo,United States,California,94263,31,Matched,,Red
+2017-04-29,Withdrawal,switch,DCU,United States,Texas,79940,552,Matched,,Green
+2017-07-25,Withdrawal,maestro,Chase,United States,Florida,32314,67,Matched,,Yellow
+2017-03-18,Transfer,jcb,Wells Fargo,United States,Indiana,46239,615,Not Matched,Need Attention,Yellow
+2017-02-01,Withdrawal,instapayment,TechCU,United States,New Jersey,08695,664,Matched,,Yellow
+2017-08-22,Deposit,diners-club-enroute,Bank of America,United States,Ohio,45243,518,Matched,,Green
+2017-01-30,Transfer,diners-club-enroute,TechCU,United States,Georgia,30045,307,Matched,,Red
+2017-02-21,Withdrawal,laser,Wells Fargo,United States,California,92710,383,Matched,,Yellow
+2017-05-31,Withdrawal,jcb,Wells Fargo,United States,Missouri,63143,700,Matched,,Red
+2017-02-13,Transfer,jcb,Chase,United States,Arkansas,72231,183,Not Matched,Likely Fraud,Red
+2017-08-19,Withdrawal,jcb,Bank of America,United States,California,90610,651,Matched,,Yellow
+2017-07-06,Withdrawal,jcb,Wells Fargo,United States,Minnesota,55487,347,Matched,,Green
+2017-06-27,Transfer,instapayment,Bank of America,United States,West Virginia,25716,727,Matched,,Red
+2017-07-07,Transfer,jcb,TechCU,United States,California,95823,726,Matched,,Yellow
+2017-04-29,Deposit,diners-club-enroute,DCU,United States,Minnesota,55458,267,Not Matched,Need Attention,Green
+2017-04-12,Deposit,jcb,Chase,United States,Oklahoma,74108,95,Not Matched,Need Attention,Green
+2017-05-09,Withdrawal,jcb,DCU,United States,Minnesota,55412,687,Matched,,Green
+2017-06-16,Withdrawal,jcb,TechCU,United States,New York,10029,554,Not Matched,Likely Fraud,Red
+2017-05-12,Transfer,visa-electron,Wells Fargo,United States,California,95838,363,Not Matched,Likely Fraud,Red
+2017-04-18,Withdrawal,jcb,TechCU,United States,Illinois,61614,86,Not Matched,Customer Outreach Reqd,Green
+2017-03-12,Deposit,solo,Wells Fargo,United States,Iowa,50369,480,Not Matched,Likely Fraud,Red
+2017-08-11,Withdrawal,china-unionpay,DCU,United States,Ohio,44555,232,Matched,,Green
+2017-08-15,Withdrawal,instapayment,DCU,United States,Maryland,20709,274,Not Matched,Need Attention,Red
+2017-05-22,Withdrawal,china-unionpay,Bank of America,United States,Georgia,30130,563,Matched,,Green
+2017-08-15,Transfer,jcb,TechCU,United States,Illinois,60435,358,Matched,,Red
+2017-07-16,Transfer,mastercard,Wells Fargo,United States,Oklahoma,73114,686,Not Matched,Need Attention,Red
+2017-03-03,Withdrawal,americanexpress,Chase,United States,Texas,77206,119,Not Matched,Customer Outreach Reqd,Yellow
+2017-04-08,Deposit,jcb,Wells Fargo,United States,Nevada,89150,423,Not Matched,Need Attention,Green
+2017-03-13,Transfer,jcb,TechCU,United States,Texas,75277,192,Matched,,Yellow
+2017-06-23,Withdrawal,diners-club-us-ca,DCU,United States,New Mexico,87115,367,Matched,,Yellow
+2017-05-24,Transfer,instapayment,DCU,United States,New York,11254,775,Not Matched,Customer Outreach Reqd,Green
+2017-01-09,Deposit,americanexpress,Wells Fargo,United States,Georgia,30386,547,Matched,,Yellow
+2017-01-11,Withdrawal,jcb,Chase,United States,Indiana,46239,391,Matched,,Green
+2017-07-12,Withdrawal,laser,DCU,United States,New York,12255,511,Matched,,Red
+2017-08-29,Transfer,bankcard,DCU,United States,Nebraska,68117,715,Matched,,Green
+2017-02-15,Deposit,visa,TechCU,United States,Alabama,36670,192,Not Matched,Likely Fraud,Red
+2017-07-17,Deposit,jcb,DCU,United States,Minnesota,55565,142,Matched,,Yellow
+2017-07-16,Withdrawal,visa,Bank of America,United States,Michigan,48919,767,Not Matched,Need Attention,Red
+2017-06-22,Withdrawal,instapayment,Chase,United States,California,92405,389,Not Matched,Need Attention,Yellow
+2017-08-30,Transfer,jcb,DCU,United States,Virginia,23464,31,Not Matched,Customer Outreach Reqd,Yellow
+2017-04-13,Withdrawal,diners-club-carte-blanche,Bank of America,United States,Virginia,23509,333,Matched,,Green
+2017-02-22,Transfer,jcb,DCU,United States,District of Columbia,20029,548,Matched,,Yellow

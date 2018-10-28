@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!-- StringFile: All Global Variables that are to be 
+		used throughout the process -->
+		
+<StringFileAttributes>
+
+	<!-- Robot Attributes -->
+	<RobotAttributes>
+
+		<eBUsername>PWONLINE\Pramod.Rai</eBUsername>
+		
+		<!-- Operator Name: Update with the Operator Name -->
+		<OperatorName>Example Name</OperatorName>
+		
+		<!-- Operator Email: Update with the email address for the above Operator -->
+		<OperatorEmail>ExampleName@BP.com</OperatorEmail>
+		
+		<!-- Consecutive Error Count: This should always be 0
+				The process will increment this if necessary in the 00_MainTask -->
+		<ConsecutiveErrorCount>0</ConsecutiveErrorCount>
+		
+		<!-- Max Consecutive Error Count: This is the number of times that a case
+				is allowed to fail consecutively. This should always be 3 -->
+		<MaxConsecutiveErrorCount>3</MaxConsecutiveErrorCount>
+	
+	<!-- End of Robot Attributes -->
+	</RobotAttributes>
+
+	<EWS>
+		<ExchangeServerVersion>Exchange2010_SP2</ExchangeServerVersion>
+		<EWSURL>https://ews-email.bpglobal.com/ews/Exchange.asmx</EWSURL>
+		<EWSURL1>https://outlook.office365.com/EWS/Exchange.asmx</EWSURL1>
+		<MailBoxUserId>rpacoedev@bp.com</MailBoxUserId>
+		<MailBoxDomain></MailBoxDomain>
+		<DelegatedMailBoxEmailId></DelegatedMailBoxEmailId>
+		<FromFolderMailBoxPath>Inbox\LCM</FromFolderMailBoxPath>
+		<ToInvalidFolderMailBoxPath>Inbox\LCM\Invalid</ToInvalidFolderMailBoxPath>
+		<ToProcessedFolderMailBoxPath>Inbox\LCM\Processed</ToProcessedFolderMailBoxPath>
+		<AttachmentPathToSave></AttachmentPathToSave>
+		<CCList></CCList>
+	</EWS>
+
+	<IFIMailSettings>
+		<From>rpacoedev@bp.com</From>
+		<To>Theresa.Loyacano@bp.com</To>
+		<Subject>IFI status report</Subject>
+		<Head>GPO PIM IFI Report</Head>
+		<BodyWithFile>Find Task Report attached</BodyWithFile>
+		<BodyWithNotFile>There is not register of Tasks processed today</BodyWithNotFile>
+	</IFIMailSettings>
+	
+	
+	<!-- Filepaths: Any and all filepaths should be initalised here -->
+	<FilePaths>
+		
+		<!-- Log Filepath: This should be the mapped drive where logs are to be saved -->
+		<LogFilePath>\Logs</LogFilePath>
+		
+	<!-- End of Filepaths -->	
+	</FilePaths>
+
+	<!-- URLS: Any and all URLs should be initalised here -->
+	<URLS>
+		
+		<!-- eBentlyURL: eBentlyURL -->
+		<eBentleyURL>https://bp-qa-eb.bentley.com/bpqa/Framework/default.aspx</eBentleyURL>
+		<!-- bpInboxURL: URL where mailbox for the doc Controller is located -->
+		<bpInboxURL>https://bp-qa-eb.bentley.com/bpqa/PlugIns/WorkManager/Display/Folder.aspx?o*</bpInboxURL>
+		<!-- bpCaseURL: URL where a case is loaded -->
+		<bpCaseURL>https://bp-qa-eb.bentley.com/bpqa/PlugIns/WorkManager/Display/Display.aspx?o=*</bpCaseURL>
+		<!-- bpCaseDetailsURL: URL where the details of the cases are loaded -->
+		<bpCaseDetailsURL>https://bp-qa-eb.bentley.com/bpqa/Framework/Object.aspx?o=*</bpCaseDetailsURL>
+		<!-- bpWizzardURL: URL where the Wizzard for takes place-->
+		<bpWizzardURL>https://bp-qa-eb.bentley.com/bpqa/PlugIns/Transmittal/WizardStep*</bpWizzardURL>
+		<!-- bpCheckCaseURL: Depending on the state of the iteration, the URL for this might change so we need a general URL-->
+		<bpCheckCaseURL>https://bp-qa-eb.bentley.com*</bpCheckCaseURL>
+		
+	<!-- End of URLS -->	
+	</URLS>
+	
+	
+	<!-- Executables: All application executables that are to be used within
+			the process should be initialised here -->
+	<Executables>
+	
+		<!-- Excel: Executable for Excel -->
+		<ExcelAppName>Excel.exe</ExcelAppName>
+		
+		<!-- IE: Executable for Internet Explorer -->
+		<InternetAppName>Iexplore.exe</InternetAppName>
+		
+		<!-- Outlook: Executable for Outlook -->
+		<OutlookAppName>Outlook.exe</OutlookAppName>
+	
+	
+		<!--  ANY ADDITIONAL APPLICATIONS TO BE USED WITHIN THE PROCESS
+				SHOULD BE LISTED HERE, USING THE ABOVE FORMAT. -->
+				
+	<!-- End of Executables -->
+	</Executables>
+	
+	
+	<!-- Known Exceptions: All known exceptions should be clearly identified here. 
+			10 tags are set up ready to use, however if the process has more than
+			10 known exceptions, you will be required to add to this list -->
+	<KnownExceptions>
+	
+		<!-- Known Exception 1: For example, this could be "Invalid SAP Credentials" -->
+		<KnownException1>Invalid SAP Credentials</KnownException1>
+		
+		<!-- Known Exception 2: For example, this could be "Invalid Product ID" -->
+		<KnownException2>Invalid Product ID</KnownException2>
+		
+		<KnownException3></KnownException3>
+		
+		<KnownException4></KnownException4>
+	
+		<KnownException5></KnownException5>
+		
+		<KnownException6></KnownException6>
+		
+		<KnownException7></KnownException7>
+		
+		<KnownException8></KnownException8>
+		
+		<KnownException9></KnownException9>
+		
+		<KnownException10></KnownException10>
+	
+	<!-- End of Known Exceptions -->
+	</KnownExceptions>
+	
+	
+</StringFileAttributes>

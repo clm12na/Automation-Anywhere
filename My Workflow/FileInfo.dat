@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Framework_Main_Workflow.wkfx">
+    <Properties>
+      <Property Name="LastRunTime">09/02/2018 20:25:30</Property>
+      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

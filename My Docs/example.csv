@@ -1,0 +1,32 @@
+
+09/28/2018 11:54:32, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - STARTED
+09/28/2018 11:54:34, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,EXCEL / EXPLORER CLOSED SUCCESSFULLY
+09/28/2018 11:56:04, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,LOGGED INTO eBENTLEY SUCCESSFULLY
+09/28/2018 11:59:53, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - STARTED
+09/28/2018 11:59:55, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,EXCEL / EXPLORER CLOSED SUCCESSFULLY
+09/28/2018 12:00:04, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,LOGGED INTO eBENTLEY SUCCESSFULLY
+09/28/2018 12:00:50, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,NAVIGATED TO INBOX SUCCESSFULLY
+09/28/2018 12:00:50, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - FINISHED
+09/28/2018 12:00:51, znefit1n11rpmc, -sysop-esm23q-z, IFI PROCESS,IFI, N/A,In Progress,Looking for the next case ...
+09/28/2018 12:00:53, znefit1n11rpmc, -sysop-esm23q-z, IFI PROCESS,IFI, N/A,In Progress,There are 199 cases in the INBOX
+09/28/2018 12:00:53, znefit1n11rpmc, -sysop-esm23q-z, IFI PROCESS,IFI, N/A,In Progress,There are 198 cases in the INBOX
+09/28/2018 12:42:21, znefit1n11rpmc, -sysop-esm23q-z, IFI PROCESS,IFI, N/A,In Progress,GM004-241IC001-C18-00170-01-IFI - T001-COMPLETION QUALITY CHECK has met the criteria!
+09/28/2018 12:42:22, znefit1n11rpmc, -sysop-esm23q-z, IFI TASK,IFI, N/A,In Progress,Working with case 149
+09/28/2018 12:43:02, znefit1n11rpmc, -sysop-esm23q-z, IFI TASK,IFI, N/A,In Progress,Checking Status .. Status = Completed ?
+09/28/2018 12:43:10, znefit1n11rpmc, -sysop-esm23q-z, IFI TASK,IFI, N/A,In Progress,Process completed succesfully
+09/28/2018 12:43:10, znefit1n11rpmc, -sysop-esm23q-z, IFI TASK,IFI, N/A,In Progress,GM004-241IC001-C18-00170-01-IFI - T001-COMPLETION QUALITY CHECK has been completed successfully.
+09/28/2018 12:43:11, znefit1n11rpmc, -sysop-esm23q-z, IFI TASK,IFI, N/A,In Progress,Navigating back to INBOX page ..
+09/28/2018 12:43:18, znefit1n11rpmc, -sysop-esm23q-z, IFI TASK,IFI, N/A,In Progress,GM004-241IC001-C18-00167-01-IFI - T001-COMPLETION QUALITY CHECK has met the criteria!
+09/28/2018 12:43:19, znefit1n11rpmc, -sysop-esm23q-z, IFI TASK,IFI, N/A,In Progress,Working with case 148
+10/01/2018 12:31:55, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - STARTED
+10/01/2018 12:34:52, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - STARTED
+10/01/2018 12:34:54, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,EXCEL / EXPLORER CLOSED SUCCESSFULLY
+10/01/2018 12:35:36, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - STARTED
+10/01/2018 12:35:39, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,EXCEL / EXPLORER CLOSED SUCCESSFULLY
+10/01/2018 12:46:34, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - STARTED
+10/01/2018 19:24:23, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - STARTED
+10/01/2018 19:24:27, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,EXCEL / EXPLORER CLOSED SUCCESSFULLY
+10/01/2018 19:24:35, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,LOGGED INTO eBENTLEY SUCCESSFULLY
+10/01/2018 19:25:09, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,NAVIGATED TO INBOX SUCCESSFULLY
+10/01/2018 19:25:09, znefit1n11rpmc, -sysop-esm23q-z, INIT,IFI, N/A,In Progress,Initialization Phase - FINISHED
+10/01/2018 19:25:09, znefit1n11rpmc, -sysop-esm23q-z, IFI PROCESS,IFI, N/A,In Progress,Looking for the next case ...

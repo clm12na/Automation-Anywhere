@@ -1,0 +1,1001 @@
+order_date,activation_date,age_group,category,products,order_type,amount,discount,first_name,last_name,gender,city,state
+2016-03-04,2016-03-05,46-55,TV+Internet,TV Bundle,Add,100,7,Jane,Perez,Female,Washington,District of Columbia
+2016-03-17,2016-03-18,26-35,TV+Internet,TV Bundle,Cancel,100,3,Shawn,Palmer,Male,Grand Rapids,Michigan
+2016-03-02,2016-03-03,26-35,Wireless,Mobile Share 30GB,Add,200,5,Craig,Robertson,Male,Sacramento,California
+2016-03-17,2016-03-18,36-45,Wireless,Mobile Share 15GB,Cancel,100,7,Ruby,Ryan,Female,Omaha,Nebraska
+2016-03-09,2016-03-10,36-45,Wireless,Mobile Share 15GB,Add,100,5,Tina,Ramirez,Female,White Plains,New York
+2016-03-10,2016-03-11,16-25,TV,Basic,Add,75,7,Albert,Willis,Male,Norfolk,Virginia
+2016-03-13,2016-03-14,36-45,TV+Internet,TV Bundle,Add,100,3,Harry,Collins,Male,Colorado Springs,Colorado
+2016-03-31,2016-04-01,36-45,TV,Basic,Add,75,7,Shirley,Russell,Female,Salinas,California
+2016-03-18,2016-03-19,26-35,TV+Internet,TV Bundle,Add,100,7,Jennifer,Barnes,Female,Oklahoma City,Oklahoma
+2016-03-04,2016-03-04,26-35,TV+Internet,TV Bundle,Add,100,5,Amy,Bryant,Female,San Jose,California
+2016-03-24,2016-03-25,36-45,Wireless,Internet,Cancel,60,7,Earl,Gibson,Male,Idaho Falls,Idaho
+2016-03-20,2016-03-20,26-35,Wireless,Mobile Share 30GB,Add,200,3,Robert,Wilson,Male,Baltimore,Maryland
+2016-03-28,2016-03-29,46-55,TV+Internet,TV Bundle,Add,100,5,Julie,Nelson,Female,Jamaica,New York
+2016-03-01,2016-03-02,16-25,TV+Internet,TV Bundle,Add,100,7,Rose,Fields,Female,Hayward,California
+2016-03-09,2016-03-10,16-25,TV,Premium,Add,125,5,Sara,Myers,Female,Maple Plain,Minnesota
+2016-03-26,2016-03-27,26-35,TV+Internet,TV Bundle,Add,100,7,Jason,Sims,Male,Washington,District of Columbia
+2016-03-01,2016-03-02,46-55,TV+Internet,TV Bundle,Add,100,7,Kimberly,Hall,Female,Lansing,Michigan
+2016-03-05,2016-03-06,16-25,TV+Internet,TV Bundle,Add,100,7,Shawn,Garcia,Male,Wichita,Kansas
+2016-03-28,2016-03-29,46-55,Wireless,Mobile Share 15GB,Add,125,7,Maria,Chapman,Female,Memphis,Tennessee
+2016-03-08,2016-03-09,16-25,TV+Internet,TV Bundle,Add,100,3,David,Brooks,Male,Jefferson City,Missouri
+2016-03-19,2016-03-20,16-25,TV+Internet,TV Bundle,Add,100,5,Amanda,White,Female,Grand Rapids,Michigan
+2016-03-07,2016-03-08,26-35,TV,Basic,Add,75,7,Juan,Banks,Male,Waco,Texas
+2016-03-04,2016-03-05,16-25,TV,Basic,Add,75,7,Ruth,Banks,Female,New York City,New York
+2016-03-05,2016-03-06,36-45,Wireless,Mobile Share 50GB,Add,350,3,Judith,Hunter,Female,Phoenix,Arizona
+2016-03-17,2016-03-18,26-35,TV+Internet,TV Bundle,Add,100,5,Kathleen,Hanson,Female,North Las Vegas,Nevada
+2016-03-10,2016-03-11,36-45,TV,Basic,Add,75,5,Tammy,Mcdonald,Female,Tacoma,Washington
+2016-03-02,2016-03-03,46-55,TV+Internet,TV Bundle,Add,100,3,Adam,Campbell,Male,Birmingham,Alabama
+2016-03-07,2016-03-07,46-55,Wireless,Mobile Share 15GB,Add,100,5,Rose,Hart,Female,San Diego,California
+2016-03-10,2016-03-11,36-45,TV+Internet,TV Bundle,Add,100,5,Albert,Duncan,Male,Louisville,Kentucky
+2016-03-13,2016-03-14,26-35,Wireless,Mobile Share 30GB,Cancel,200,3,Julia,King,Female,Albany,New York
+2016-03-02,2016-03-03,16-25,TV+Internet,TV Bundle,Add,100,7,Jessica,Boyd,Female,Corpus Christi,Texas
+2016-03-11,2016-03-11,26-35,Wireless,Mobile Share 50GB,Add,350,3,Katherine,Morgan,Female,Duluth,Minnesota
+2016-03-14,2016-03-14,46-55,TV,Basic,Add,75,7,Marie,Morales,Female,Boston,Massachusetts
+2016-03-21,2016-03-22,36-45,Wireless,Mobile Share 15GB,Add,100,5,Roger,Fuller,Male,Topeka,Kansas
+2016-03-13,2016-03-14,26-35,TV,Basic,Add,75,3,Chris,Phillips,Male,Omaha,Nebraska
+2016-03-04,2016-03-05,26-35,TV+Internet,TV Bundle,Add,100,3,Harold,Thompson,Male,Naperville,Illinois
+2016-03-07,2016-03-08,46-55,Wireless,Internet,Add,60,5,Carlos,Simmons,Male,Columbia,Missouri
+2016-03-04,2016-03-04,46-55,TV,Basic,Add,75,3,Steve,Wilson,Male,Washington,District of Columbia
+2016-03-27,2016-03-28,16-25,TV+Internet,TV Bundle,Add,100,5,Billy,Murphy,Male,Lincoln,Nebraska
+2016-03-14,2016-03-15,46-55,Wireless,Mobile Share 30GB,Add,200,7,Jessica,Garcia,Female,Boulder,Colorado
+2016-03-31,2016-04-01,46-55,TV,Basic,Add,75,3,Victor,Richardson,Male,Amarillo,Texas
+2016-03-25,2016-03-26,26-35,Wireless,Mobile Share 15GB,Add,125,5,Juan,Griffin,Male,Charlotte,North Carolina
+2016-03-08,2016-03-09,46-55,Wireless,Mobile Share 30GB,Add,200,5,Jerry,Cole,Male,Dallas,Texas
+2016-03-13,2016-03-14,26-35,TV,Basic,Add,75,5,Susan,Green,Female,Sacramento,California
+2016-03-12,2016-03-13,16-25,Wireless,Mobile Share 30GB,Add,200,3,Kevin,Wells,Male,El Paso,Texas
+2016-03-14,2016-03-15,36-45,TV+Internet,TV Bundle,Add,100,3,Alice,Banks,Female,Santa Rosa,California
+2016-03-03,2016-03-04,26-35,Wireless,Mobile Share 30GB,Add,200,3,Evelyn,Fisher,Female,Miami,Florida
+2016-03-20,2016-03-21,26-35,TV+Internet,TV Bundle,Add,100,5,Rose,Richards,Female,Brooklyn,New York
+2016-03-18,2016-03-19,46-55,TV+Internet,TV Bundle,Add,100,5,Adam,Stevens,Male,Jefferson City,Missouri
+2016-03-17,2016-03-18,26-35,Wireless,Mobile Share 30GB,Cancel,200,7,Martha,Stephens,Female,Columbus,Georgia
+2016-03-10,2016-03-11,46-55,TV+Internet,TV Bundle,Add,100,3,Irene,Crawford,Female,Midland,Texas
+2016-03-02,2016-03-03,26-35,Wireless,Mobile Share 15GB,Cancel,100,7,Annie,Jones,Female,Pensacola,Florida
+2016-03-12,2016-03-13,16-25,TV+Internet,TV Bundle,Add,100,7,Adam,Hanson,Male,Arlington,Virginia
+2016-03-07,2016-03-08,36-45,Wireless,Mobile Share 30GB,Add,200,5,Christine,Stephens,Female,Racine,Wisconsin
+2016-03-06,2016-03-07,46-55,TV+Internet,TV Bundle,Add,100,7,Anna,Hawkins,Female,Akron,Ohio
+2016-03-09,2016-03-10,26-35,TV+Internet,TV Bundle,Add,100,3,David,Andrews,Male,Charleston,South Carolina
+2016-03-19,2016-03-20,16-25,TV+Internet,TV Bundle,Add,100,7,Paula,Price,Female,New Orleans,Louisiana
+2016-03-28,2016-03-29,16-25,TV+Internet,TV Bundle,Add,100,3,Louise,Cunningham,Female,Bronx,New York
+2016-03-15,2016-03-16,46-55,TV+Internet,TV Bundle,Cancel,100,5,Frances,Sullivan,Female,Lexington,Kentucky
+2016-03-25,2016-03-26,36-45,TV,Basic,Add,75,3,Clarence,Harvey,Male,Sterling,Virginia
+2016-03-12,2016-03-13,16-25,Wireless,Mobile Share 30GB,Add,200,3,Shirley,Morris,Female,Miami,Florida
+2016-03-29,2016-03-29,46-55,TV+Internet,TV Bundle,Add,100,7,Christina,Brooks,Female,Duluth,Georgia
+2016-03-16,2016-03-17,46-55,TV+Internet,TV Bundle,Add,100,7,Justin,Nguyen,Male,Atlanta,Georgia
+2016-03-09,2016-03-09,46-55,Wireless,Internet,Add,60,3,Joyce,Spencer,Female,Pittsburgh,Pennsylvania
+2016-03-18,2016-03-19,36-45,TV,Basic,Add,75,5,Walter,Rodriguez,Male,Daytona Beach,Florida
+2016-03-24,2016-03-25,36-45,TV+Internet,TV Bundle,Add,100,5,Beverly,Young,Female,Jacksonville,Florida
+2016-03-29,2016-03-30,46-55,TV,Premium,Add,125,7,Randy,Fisher,Male,Wichita Falls,Texas
+2016-03-31,2016-04-01,26-35,TV,Basic,Add,75,5,Antonio,Collins,Male,Richmond,Virginia
+2016-03-11,2016-03-12,36-45,TV+Internet,TV Bundle,Add,100,7,Judith,Kennedy,Female,New Orleans,Louisiana
+2016-03-08,2016-03-09,46-55,Wireless,Mobile Share 30GB,Add,200,5,Michael,Rivera,Male,Odessa,Texas
+2016-03-23,2016-03-24,26-35,TV+Internet,TV Bundle,Add,100,3,Sandra,Bradley,Female,Dayton,Ohio
+2016-03-14,2016-03-15,26-35,Wireless,Mobile Share 30GB,Add,200,3,Ryan,Cox,Male,Virginia Beach,Virginia
+2016-03-29,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,5,Theresa,Andrews,Female,Jacksonville,Florida
+2016-03-31,2016-04-01,36-45,TV,Basic,Add,75,5,Roy,West,Male,Spokane,Washington
+2016-03-16,2016-03-17,46-55,Wireless,Mobile Share 50GB,Add,350,5,Jose,Cruz,Male,Jamaica,New York
+2016-03-12,2016-03-13,16-25,Wireless,Mobile Share 50GB,Add,350,5,Scott,Owens,Male,Kansas City,Missouri
+2016-03-15,2016-03-16,26-35,Wireless,Mobile Share 15GB,Add,125,5,Jeffrey,Fuller,Male,Charleston,South Carolina
+2016-03-19,2016-03-20,46-55,TV,Basic,Add,75,5,Jerry,Owens,Male,Erie,Pennsylvania
+2016-03-12,2016-03-13,26-35,TV,Basic,Add,75,7,Steven,Watson,Male,Washington,District of Columbia
+2016-03-04,2016-03-05,16-25,TV+Internet,TV Bundle,Add,100,5,Stephen,Harvey,Male,Roanoke,Virginia
+2016-03-20,2016-03-21,36-45,TV,Basic,Add,75,3,Margaret,Day,Female,Boston,Massachusetts
+2016-03-28,2016-03-29,46-55,TV+Internet,TV Bundle,Add,100,7,Christopher,Castillo,Male,Jacksonville,Florida
+2016-03-19,2016-03-20,26-35,TV+Internet,TV Bundle,Add,100,3,Bobby,Ruiz,Male,Washington,District of Columbia
+2016-03-05,2016-03-05,26-35,TV+Internet,TV Bundle,Add,100,3,Donald,Grant,Male,Denton,Texas
+2016-03-16,2016-03-16,26-35,TV+Internet,TV Bundle,Add,100,7,Philip,Webb,Male,Sacramento,California
+2016-03-25,2016-03-26,46-55,TV+Internet,TV Bundle,Add,100,5,Teresa,Harvey,Female,Baton Rouge,Louisiana
+2016-03-08,2016-03-08,16-25,TV+Internet,TV Bundle,Cancel,100,7,Gregory,Watson,Male,Memphis,Tennessee
+2016-03-21,2016-03-22,26-35,Wireless,Internet,Cancel,60,3,Lawrence,James,Male,Oklahoma City,Oklahoma
+2016-03-23,2016-03-24,26-35,Wireless,Internet,Add,60,7,Gerald,Turner,Male,Columbia,Missouri
+2016-03-05,2016-03-06,36-45,TV,Premium,Add,125,5,Jessica,Murphy,Female,Bakersfield,California
+2016-03-09,2016-03-09,16-25,Wireless,Internet,Add,60,7,Jimmy,Black,Male,Wichita,Kansas
+2016-03-27,2016-03-28,26-35,Wireless,Mobile Share 30GB,Add,200,5,Brenda,Martinez,Female,Washington,District of Columbia
+2016-03-04,2016-03-05,26-35,Wireless,Internet,Add,60,5,Kathleen,Bradley,Female,Fresno,California
+2016-03-08,2016-03-09,46-55,TV,Premium,Add,125,5,Judy,Kim,Female,Washington,District of Columbia
+2016-03-23,2016-03-24,16-25,TV,Basic,Add,75,7,Phyllis,Brooks,Female,Tacoma,Washington
+2016-03-22,2016-03-23,26-35,TV+Internet,TV Bundle,Add,100,3,Joe,Thomas,Male,Santa Monica,California
+2016-03-24,2016-03-24,36-45,Wireless,Internet,Add,60,3,Earl,Wright,Male,Greensboro,North Carolina
+2016-03-11,2016-03-12,26-35,Wireless,Mobile Share 15GB,Add,100,3,Cheryl,Fuller,Female,Rochester,New York
+2016-03-02,2016-03-03,26-35,TV+Internet,TV Bundle,Add,100,5,Samuel,West,Male,Miami,Florida
+2016-03-17,2016-03-18,26-35,Wireless,Mobile Share 30GB,Add,200,5,Shirley,Garrett,Female,Toledo,Ohio
+2016-03-07,2016-03-08,36-45,TV+Internet,TV Bundle,Cancel,100,3,Wayne,Graham,Male,New York City,New York
+2016-03-07,2016-03-08,46-55,TV+Internet,TV Bundle,Add,100,5,Nancy,Garcia,Female,Beaumont,Texas
+2016-03-20,2016-03-21,36-45,Wireless,Mobile Share 15GB,Add,125,3,Deborah,Holmes,Female,Dallas,Texas
+2016-03-14,2016-03-15,36-45,TV+Internet,TV Bundle,Add,100,5,Mildred,Richardson,Female,Salt Lake City,Utah
+2016-03-06,2016-03-07,26-35,Wireless,Mobile Share 30GB,Add,200,3,Jack,Allen,Male,Cincinnati,Ohio
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,5,Wanda,Wright,Female,Tulsa,Oklahoma
+2016-03-16,2016-03-17,16-25,TV+Internet,TV Bundle,Add,100,7,Henry,Boyd,Male,Seattle,Washington
+2016-03-10,2016-03-11,16-25,TV+Internet,TV Bundle,Add,100,3,Jeremy,Mitchell,Male,Lynchburg,Virginia
+2016-03-02,2016-03-02,26-35,Wireless,Mobile Share 30GB,Add,200,5,Deborah,Smith,Female,Albany,New York
+2016-03-26,2016-03-26,46-55,TV,Basic,Add,75,5,Anne,Fuller,Female,Paterson,New Jersey
+2016-03-05,2016-03-06,16-25,Wireless,Mobile Share 15GB,Add,125,5,Robin,Woods,Female,Dallas,Texas
+2016-03-18,2016-03-19,26-35,TV+Internet,TV Bundle,Add,100,3,Charles,Reyes,Male,Fairbanks,Alaska
+2016-03-07,2016-03-08,46-55,TV+Internet,TV Bundle,Cancel,100,7,Louis,Coleman,Male,Nashville,Tennessee
+2016-03-14,2016-03-15,36-45,TV,Basic,Add,75,7,Robert,Schmidt,Male,Fresno,California
+2016-03-25,2016-03-26,16-25,Wireless,Mobile Share 30GB,Add,200,7,Christina,White,Female,Birmingham,Alabama
+2016-03-05,2016-03-06,16-25,TV+Internet,TV Bundle,Add,100,3,Jane,Fields,Female,Albuquerque,New Mexico
+2016-03-27,2016-03-27,16-25,TV+Internet,TV Bundle,Add,100,7,Doris,Riley,Female,Garden Grove,California
+2016-03-08,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,3,Todd,Carroll,Male,Portsmouth,Virginia
+2016-03-12,2016-03-13,16-25,Wireless,Mobile Share 30GB,Add,200,3,Linda,Schmidt,Female,Memphis,Tennessee
+2016-03-08,2016-03-09,36-45,Wireless,Mobile Share 30GB,Add,200,7,Kevin,Dunn,Male,Minneapolis,Minnesota
+2016-03-22,2016-03-23,36-45,TV+Internet,TV Bundle,Add,100,3,Steven,Gordon,Male,Philadelphia,Pennsylvania
+2016-03-08,2016-03-08,36-45,Wireless,Mobile Share 30GB,Add,200,7,Robin,Roberts,Female,Brooklyn,New York
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,7,Nancy,Burns,Female,Lafayette,Louisiana
+2016-03-17,2016-03-17,16-25,TV,Basic,Add,75,5,Paula,Bailey,Female,Florence,South Carolina
+2016-03-09,2016-03-10,16-25,Wireless,Mobile Share 30GB,Add,200,7,Joshua,Price,Male,Orlando,Florida
+2016-03-13,2016-03-14,26-35,Wireless,Mobile Share 30GB,Cancel,200,3,Margaret,Lee,Female,Sacramento,California
+2016-03-21,2016-03-22,26-35,Wireless,Mobile Share 15GB,Add,100,7,Joshua,Peters,Male,Dayton,Ohio
+2016-03-26,2016-03-27,46-55,TV,Premium,Add,125,7,Karen,Morris,Female,Escondido,California
+2016-03-29,2016-03-30,36-45,Wireless,Mobile Share 15GB,Add,125,7,Fred,Price,Male,Cincinnati,Ohio
+2016-03-23,2016-03-24,16-25,TV,Premium,Add,125,3,Gregory,Griffin,Male,Fresno,California
+2016-03-21,2016-03-22,16-25,TV+Internet,TV Bundle,Add,100,7,Donna,Morgan,Female,Spokane,Washington
+2016-03-12,2016-03-13,46-55,TV,Premium,Add,125,5,Angela,Young,Female,Huntington Beach,California
+2016-03-16,2016-03-17,16-25,TV+Internet,TV Bundle,Add,100,3,Charles,Romero,Male,New York City,New York
+2016-03-04,2016-03-05,36-45,TV+Internet,TV Bundle,Add,100,5,Amy,Griffin,Female,New Orleans,Louisiana
+2016-03-14,2016-03-15,16-25,TV+Internet,TV Bundle,Add,100,7,Angela,Warren,Female,Torrance,California
+2016-03-07,2016-03-08,46-55,Wireless,Mobile Share 15GB,Cancel,125,3,Harold,Garza,Male,Des Moines,Iowa
+2016-03-21,2016-03-21,16-25,Wireless,Mobile Share 30GB,Cancel,200,3,Joshua,Marshall,Male,White Plains,New York
+2016-03-29,2016-03-30,46-55,TV,Basic,Add,75,3,Ruby,Nichols,Female,Salt Lake City,Utah
+2016-03-19,2016-03-20,16-25,Wireless,Mobile Share 15GB,Add,125,7,Virginia,Hughes,Female,Cincinnati,Ohio
+2016-03-09,2016-03-10,16-25,TV+Internet,TV Bundle,Add,100,7,Judith,Richards,Female,Chicago,Illinois
+2016-03-27,2016-03-28,36-45,TV+Internet,TV Bundle,Add,100,3,Frances,Knight,Female,El Paso,Texas
+2016-03-08,2016-03-08,16-25,Wireless,Mobile Share 30GB,Add,200,3,Peter,Medina,Male,Phoenix,Arizona
+2016-03-28,2016-03-29,36-45,TV+Internet,TV Bundle,Add,100,3,Carol,Peters,Female,Houston,Texas
+2016-03-23,2016-03-24,16-25,Wireless,Mobile Share 15GB,Cancel,125,7,Emily,Nichols,Female,Omaha,Nebraska
+2016-03-24,2016-03-25,36-45,TV+Internet,TV Bundle,Add,100,3,Jeffrey,Ward,Male,Denver,Colorado
+2016-03-04,2016-03-05,26-35,TV+Internet,TV Bundle,Add,100,7,Johnny,Gilbert,Male,Stockton,California
+2016-03-11,2016-03-12,36-45,TV+Internet,TV Bundle,Add,100,3,Carolyn,Anderson,Female,Sioux City,Iowa
+2016-03-01,2016-03-01,46-55,TV+Internet,TV Bundle,Add,100,7,Aaron,Fields,Male,Yonkers,New York
+2016-03-21,2016-03-22,46-55,TV,Basic,Add,75,3,Julia,Robertson,Female,Washington,District of Columbia
+2016-03-04,2016-03-05,26-35,TV+Internet,TV Bundle,Add,100,5,Betty,Jordan,Female,San Antonio,Texas
+2016-03-30,2016-03-31,46-55,Wireless,Mobile Share 30GB,Cancel,200,7,Brenda,Wheeler,Female,Buffalo,New York
+2016-03-18,2016-03-19,36-45,Wireless,Mobile Share 15GB,Add,125,7,Patrick,Lawson,Male,Provo,Utah
+2016-03-11,2016-03-12,26-35,TV+Internet,TV Bundle,Add,100,7,Nicole,Webb,Female,Woburn,Massachusetts
+2016-03-06,2016-03-07,36-45,TV+Internet,TV Bundle,Add,100,3,Rachel,Gilbert,Female,Miami,Florida
+2016-03-29,2016-03-29,26-35,Wireless,Mobile Share 50GB,Add,350,7,Billy,Lawson,Male,Rochester,New York
+2016-03-05,2016-03-06,26-35,TV+Internet,TV Bundle,Add,100,7,Harry,Alexander,Male,Fort Wayne,Indiana
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,5,Maria,Garza,Female,Salt Lake City,Utah
+2016-03-22,2016-03-23,26-35,Wireless,Mobile Share 15GB,Cancel,125,5,James,Henry,Male,San Diego,California
+2016-03-26,2016-03-26,16-25,Wireless,Mobile Share 15GB,Add,100,7,Earl,Payne,Male,South Lake Tahoe,California
+2016-03-16,2016-03-17,46-55,Wireless,Mobile Share 15GB,Add,125,5,Phillip,Bell,Male,Lansing,Michigan
+2016-03-17,2016-03-17,46-55,Wireless,Mobile Share 30GB,Add,200,3,Jason,Hunt,Male,Tacoma,Washington
+2016-03-10,2016-03-11,16-25,Wireless,Mobile Share 15GB,Add,100,5,Peter,Hudson,Male,Warren,Michigan
+2016-03-09,2016-03-10,16-25,TV+Internet,TV Bundle,Add,100,3,Peter,Alvarez,Male,Englewood,Colorado
+2016-03-11,2016-03-12,26-35,Wireless,Mobile Share 30GB,Cancel,200,5,Lois,Elliott,Female,Crawfordsville,Indiana
+2016-03-08,2016-03-09,46-55,Wireless,Mobile Share 30GB,Add,200,7,Carlos,Grant,Male,Stamford,Connecticut
+2016-03-19,2016-03-20,16-25,Wireless,Mobile Share 50GB,Add,350,5,Julia,Weaver,Female,Orlando,Florida
+2016-03-04,2016-03-05,36-45,Wireless,Mobile Share 30GB,Add,200,3,Terry,Day,Male,Pompano Beach,Florida
+2016-03-03,2016-03-04,26-35,Wireless,Mobile Share 50GB,Cancel,350,5,Gerald,Williams,Male,Bakersfield,California
+2016-03-11,2016-03-12,16-25,TV+Internet,TV Bundle,Add,100,3,Walter,Bowman,Male,North Las Vegas,Nevada
+2016-03-26,2016-03-27,36-45,TV,Basic,Add,75,5,Gerald,Castillo,Male,Jackson,Mississippi
+2016-03-19,2016-03-20,16-25,Wireless,Mobile Share 50GB,Add,350,7,Emily,Gilbert,Female,Huntsville,Alabama
+2016-03-23,2016-03-23,26-35,TV+Internet,TV Bundle,Add,100,5,Justin,Bishop,Male,Beaufort,South Carolina
+2016-03-27,2016-03-28,36-45,Wireless,Mobile Share 30GB,Cancel,200,5,Joseph,Ellis,Male,Louisville,Kentucky
+2016-03-27,2016-03-28,46-55,TV,Basic,Add,75,3,Kevin,Robertson,Male,Greenville,South Carolina
+2016-03-02,2016-03-03,16-25,Wireless,Internet,Add,60,5,Sara,Walker,Female,Saint Petersburg,Florida
+2016-03-10,2016-03-11,16-25,TV+Internet,TV Bundle,Add,100,3,Jack,Alvarez,Male,Topeka,Kansas
+2016-03-31,2016-04-01,16-25,TV+Internet,TV Bundle,Add,100,7,Carolyn,Schmidt,Female,Louisville,Kentucky
+2016-03-15,2016-03-16,26-35,TV+Internet,TV Bundle,Add,100,5,Rebecca,Martinez,Female,Syracuse,New York
+2016-03-08,2016-03-09,36-45,Wireless,Mobile Share 30GB,Add,200,5,Jacqueline,Bradley,Female,Birmingham,Alabama
+2016-03-09,2016-03-09,16-25,TV+Internet,TV Bundle,Add,100,5,Thomas,Fuller,Male,Toledo,Ohio
+2016-03-19,2016-03-20,26-35,Wireless,Internet,Add,60,5,Linda,Woods,Female,Topeka,Kansas
+2016-03-31,2016-04-01,46-55,TV+Internet,TV Bundle,Add,100,5,Wayne,Moreno,Male,Nashville,Tennessee
+2016-03-12,2016-03-13,26-35,Wireless,Mobile Share 30GB,Cancel,200,7,Judith,Morgan,Female,Kansas City,Missouri
+2016-03-13,2016-03-14,46-55,TV+Internet,TV Bundle,Add,100,7,Anna,Kelly,Female,Topeka,Kansas
+2016-03-02,2016-03-03,36-45,Wireless,Mobile Share 15GB,Add,100,7,Anthony,Stevens,Male,Huntsville,Texas
+2016-03-25,2016-03-26,16-25,TV,Premium,Add,125,7,Eugene,Simmons,Male,Chicago,Illinois
+2016-03-22,2016-03-23,26-35,Wireless,Mobile Share 15GB,Add,100,7,Larry,Taylor,Male,Corpus Christi,Texas
+2016-03-30,2016-03-31,46-55,TV+Internet,TV Bundle,Cancel,100,7,Kathryn,Webb,Female,Tulsa,Oklahoma
+2016-03-08,2016-03-09,16-25,Wireless,Mobile Share 30GB,Cancel,200,5,Brenda,Murray,Female,Las Vegas,Nevada
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,7,Pamela,Hill,Female,Charleston,South Carolina
+2016-03-28,2016-03-29,36-45,Wireless,Mobile Share 30GB,Add,200,3,Karen,Watson,Female,Norfolk,Virginia
+2016-03-16,2016-03-16,36-45,Wireless,Mobile Share 30GB,Add,200,5,Joyce,Ferguson,Female,Portland,Oregon
+2016-03-24,2016-03-25,36-45,Wireless,Mobile Share 30GB,Cancel,200,3,Anthony,Bennett,Male,Cedar Rapids,Iowa
+2016-03-16,2016-03-17,46-55,TV+Internet,TV Bundle,Add,100,5,Edward,Allen,Male,Salt Lake City,Utah
+2016-03-29,2016-03-30,16-25,TV+Internet,TV Bundle,Add,100,3,Jerry,Reynolds,Male,Sacramento,California
+2016-03-13,2016-03-14,16-25,TV+Internet,TV Bundle,Add,100,7,Christopher,Hunter,Male,Temple,Texas
+2016-03-21,2016-03-22,26-35,Wireless,Mobile Share 30GB,Add,200,7,Alan,Wallace,Male,Indianapolis,Indiana
+2016-03-28,2016-03-29,16-25,Wireless,Mobile Share 15GB,Add,125,7,Steven,Day,Male,Anaheim,California
+2016-03-17,2016-03-18,36-45,TV+Internet,TV Bundle,Add,100,5,Andrea,Bishop,Female,Akron,Ohio
+2016-03-25,2016-03-26,26-35,TV+Internet,TV Bundle,Add,100,7,Theresa,Peters,Female,Chicago,Illinois
+2016-03-07,2016-03-08,36-45,TV,Premium,Add,125,5,Antonio,Hanson,Male,Fresno,California
+2016-03-26,2016-03-27,26-35,Wireless,Internet,Add,60,7,Maria,Nichols,Female,Cape Coral,Florida
+2016-03-19,2016-03-20,36-45,TV+Internet,TV Bundle,Add,100,7,Steve,Carr,Male,Montgomery,Alabama
+2016-03-16,2016-03-16,36-45,Wireless,Mobile Share 30GB,Add,200,3,Virginia,Day,Female,Little Rock,Arkansas
+2016-03-14,2016-03-15,26-35,TV+Internet,TV Bundle,Add,100,5,Michelle,Kennedy,Female,Bismarck,North Dakota
+2016-03-27,2016-03-28,26-35,Wireless,Internet,Add,60,5,Debra,Cruz,Female,Bakersfield,California
+2016-03-23,2016-03-24,26-35,TV+Internet,TV Bundle,Add,100,3,Harry,Greene,Male,Canton,Ohio
+2016-03-20,2016-03-21,46-55,TV+Internet,TV Bundle,Add,100,5,Donna,Garcia,Female,Amarillo,Texas
+2016-03-27,2016-03-28,16-25,TV+Internet,TV Bundle,Add,100,3,Ernest,Andrews,Male,Ocala,Florida
+2016-03-25,2016-03-26,26-35,TV,Premium,Add,125,3,Cynthia,Spencer,Female,Evansville,Indiana
+2016-03-16,2016-03-17,26-35,TV+Internet,TV Bundle,Add,100,5,Steve,Burns,Male,Boise,Idaho
+2016-03-06,2016-03-07,36-45,TV+Internet,TV Bundle,Add,100,3,Judy,Warren,Female,Albany,New York
+2016-03-09,2016-03-10,26-35,TV+Internet,TV Bundle,Add,100,7,Paul,Fox,Male,Evansville,Indiana
+2016-03-22,2016-03-23,16-25,Wireless,Internet,Add,60,3,Joan,Austin,Female,Tulsa,Oklahoma
+2016-03-06,2016-03-07,46-55,Wireless,Mobile Share 50GB,Add,350,5,Mary,Harris,Female,Denver,Colorado
+2016-03-11,2016-03-12,26-35,TV+Internet,TV Bundle,Add,100,7,Harold,Baker,Male,Staten Island,New York
+2016-03-18,2016-03-19,16-25,Wireless,Mobile Share 50GB,Add,350,7,Willie,Mcdonald,Male,Decatur,Georgia
+2016-03-29,2016-03-30,36-45,Wireless,Mobile Share 30GB,Add,200,7,Diana,Harrison,Female,Macon,Georgia
+2016-03-03,2016-03-04,26-35,Wireless,Mobile Share 30GB,Add,200,5,Wayne,Gordon,Male,Vancouver,Washington
+2016-03-13,2016-03-13,16-25,TV,Basic,Add,75,7,Lisa,Meyer,Female,Lynchburg,Virginia
+2016-03-08,2016-03-09,26-35,TV,Basic,Add,75,3,Arthur,Cox,Male,Bronx,New York
+2016-03-18,2016-03-19,26-35,Wireless,Mobile Share 30GB,Add,200,3,Ashley,Hart,Female,Saint Louis,Missouri
+2016-03-29,2016-03-30,36-45,Wireless,Mobile Share 30GB,Add,200,3,Lois,Hicks,Female,Alexandria,Virginia
+2016-03-30,2016-03-31,36-45,Wireless,Mobile Share 30GB,Add,200,7,Michelle,Fields,Female,Norfolk,Virginia
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,3,Rebecca,Wagner,Female,Minneapolis,Minnesota
+2016-03-18,2016-03-19,26-35,TV+Internet,TV Bundle,Add,100,7,Louis,Collins,Male,Bakersfield,California
+2016-03-15,2016-03-16,46-55,TV,Basic,Add,75,7,Shawn,Phillips,Male,Columbus,Ohio
+2016-03-03,2016-03-04,46-55,Wireless,Mobile Share 30GB,Cancel,200,5,Diane,Perry,Female,Hollywood,Florida
+2016-03-29,2016-03-30,36-45,TV+Internet,TV Bundle,Add,100,5,Chris,Hicks,Male,Kansas City,Missouri
+2016-03-07,2016-03-07,16-25,TV+Internet,TV Bundle,Add,100,3,Laura,Ramos,Female,Philadelphia,Pennsylvania
+2016-03-15,2016-03-16,46-55,Wireless,Internet,Add,60,5,Jennifer,Hudson,Female,Little Rock,Arkansas
+2016-03-11,2016-03-12,46-55,Wireless,Mobile Share 15GB,Add,100,5,Matthew,Hunter,Male,Omaha,Nebraska
+2016-03-10,2016-03-11,26-35,TV+Internet,TV Bundle,Cancel,100,3,Gary,Banks,Male,Seattle,Washington
+2016-03-16,2016-03-17,36-45,TV+Internet,TV Bundle,Add,100,5,Carl,Murphy,Male,Houston,Texas
+2016-03-16,2016-03-17,26-35,TV+Internet,TV Bundle,Add,100,5,Dennis,Ramirez,Male,Aiken,South Carolina
+2016-03-25,2016-03-26,46-55,TV+Internet,TV Bundle,Add,100,5,Scott,Russell,Male,Colorado Springs,Colorado
+2016-03-24,2016-03-25,16-25,TV+Internet,TV Bundle,Add,100,3,Ernest,Garza,Male,Saint Cloud,Minnesota
+2016-03-07,2016-03-08,46-55,TV,Basic,Add,75,5,Brandon,Phillips,Male,Las Vegas,Nevada
+2016-03-28,2016-03-29,36-45,Wireless,Mobile Share 30GB,Add,200,5,Louis,Romero,Male,San Diego,California
+2016-03-29,2016-03-30,16-25,TV,Premium,Add,125,7,Robin,Smith,Female,Garden Grove,California
+2016-03-21,2016-03-22,26-35,TV,Basic,Add,75,5,Roy,Gonzales,Male,Washington,District of Columbia
+2016-03-15,2016-03-16,26-35,TV+Internet,TV Bundle,Add,100,7,Frances,Moore,Female,Bloomington,Indiana
+2016-03-15,2016-03-16,46-55,TV,Premium,Cancel,125,3,Alan,Burke,Male,Newton,Massachusetts
+2016-03-02,2016-03-03,46-55,Wireless,Mobile Share 30GB,Add,200,7,Julie,Diaz,Female,Lubbock,Texas
+2016-03-11,2016-03-11,16-25,TV+Internet,TV Bundle,Add,100,3,Shirley,Williams,Female,Pomona,California
+2016-03-12,2016-03-12,26-35,TV,Basic,Add,75,3,Kenneth,Frazier,Male,Shreveport,Louisiana
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,5,Juan,Davis,Male,Washington,District of Columbia
+2016-03-24,2016-03-25,26-35,TV+Internet,TV Bundle,Add,100,5,Sharon,Riley,Female,Pueblo,Colorado
+2016-03-09,2016-03-10,26-35,TV+Internet,TV Bundle,Add,100,3,Andrea,Mccoy,Female,Winston Salem,North Carolina
+2016-03-19,2016-03-19,26-35,TV+Internet,TV Bundle,Add,100,5,Christopher,Bailey,Male,Milwaukee,Wisconsin
+2016-03-05,2016-03-06,36-45,TV+Internet,TV Bundle,Add,100,3,Ashley,Cunningham,Female,Omaha,Nebraska
+2016-03-12,2016-03-13,26-35,Wireless,Mobile Share 15GB,Add,125,3,Paul,Richards,Male,Seattle,Washington
+2016-03-24,2016-03-24,46-55,TV+Internet,TV Bundle,Add,100,3,Charles,Gray,Male,Grand Forks,North Dakota
+2016-03-02,2016-03-02,46-55,TV+Internet,TV Bundle,Add,100,3,Bobby,Reed,Male,Chicago,Illinois
+2016-03-02,2016-03-02,16-25,TV+Internet,TV Bundle,Add,100,7,Shirley,Morales,Female,Omaha,Nebraska
+2016-03-10,2016-03-11,16-25,TV+Internet,TV Bundle,Add,100,3,Tammy,Duncan,Female,Denver,Colorado
+2016-03-28,2016-03-29,46-55,Wireless,Mobile Share 15GB,Add,125,7,Janet,Chapman,Female,Reston,Virginia
+2016-03-30,2016-03-31,36-45,TV+Internet,TV Bundle,Add,100,7,Albert,Dean,Male,Paterson,New Jersey
+2016-03-19,2016-03-20,16-25,Wireless,Internet,Add,60,5,Ashley,Smith,Female,Fort Wayne,Indiana
+2016-03-06,2016-03-07,16-25,TV+Internet,TV Bundle,Add,100,5,Steven,Hernandez,Male,Arlington,Texas
+2016-03-20,2016-03-21,36-45,TV+Internet,TV Bundle,Add,100,3,Patrick,Owens,Male,Columbus,Georgia
+2016-03-25,2016-03-26,46-55,Wireless,Mobile Share 50GB,Add,350,3,Larry,Ferguson,Male,San Diego,California
+2016-03-09,2016-03-09,36-45,TV,Basic,Add,75,5,Kenneth,Harrison,Male,Syracuse,New York
+2016-03-28,2016-03-29,46-55,Wireless,Mobile Share 30GB,Add,200,7,Jacqueline,Romero,Female,Tallahassee,Florida
+2016-03-27,2016-03-28,26-35,TV,Basic,Add,75,3,Sandra,Martin,Female,Springfield,Illinois
+2016-03-06,2016-03-06,46-55,Wireless,Mobile Share 30GB,Add,200,5,Brandon,Ellis,Male,Boca Raton,Florida
+2016-03-25,2016-03-26,46-55,TV,Basic,Add,75,5,Maria,Reynolds,Female,El Paso,Texas
+2016-03-02,2016-03-03,46-55,TV,Basic,Add,75,7,Anthony,Larson,Male,Atlanta,Georgia
+2016-03-03,2016-03-04,26-35,Wireless,Internet,Add,60,5,Craig,Ramos,Male,Flint,Michigan
+2016-03-12,2016-03-13,26-35,Wireless,Mobile Share 50GB,Cancel,350,3,Theresa,Mendoza,Female,Grand Junction,Colorado
+2016-03-02,2016-03-03,36-45,TV+Internet,TV Bundle,Add,100,7,Stephen,Bryant,Male,Des Moines,Iowa
+2016-03-18,2016-03-19,36-45,TV+Internet,TV Bundle,Cancel,100,7,Russell,Kelley,Male,Birmingham,Alabama
+2016-03-31,2016-04-01,36-45,Wireless,Internet,Add,60,3,Debra,Morris,Female,Hartford,Connecticut
+2016-03-19,2016-03-20,46-55,TV,Premium,Add,125,3,Keith,Hill,Male,Tucson,Arizona
+2016-03-16,2016-03-17,16-25,TV+Internet,TV Bundle,Add,100,7,Philip,Taylor,Male,Jackson,Mississippi
+2016-03-30,2016-03-31,16-25,TV+Internet,TV Bundle,Add,100,5,Robert,Allen,Male,Decatur,Illinois
+2016-03-24,2016-03-25,36-45,TV+Internet,TV Bundle,Add,100,7,Irene,Lawrence,Female,Louisville,Kentucky
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,7,Arthur,Robinson,Male,Simi Valley,California
+2016-03-12,2016-03-13,46-55,Wireless,Mobile Share 50GB,Add,350,7,Christopher,Sanders,Male,Orange,California
+2016-03-30,2016-03-31,16-25,TV+Internet,TV Bundle,Add,100,5,David,Dunn,Male,Salt Lake City,Utah
+2016-03-06,2016-03-07,36-45,TV,Premium,Add,125,3,Shirley,George,Female,Bakersfield,California
+2016-03-30,2016-03-31,16-25,TV+Internet,TV Bundle,Cancel,100,7,Carlos,Chavez,Male,Springfield,Illinois
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,5,Annie,George,Female,Pittsburgh,Pennsylvania
+2016-03-03,2016-03-04,36-45,Wireless,Internet,Cancel,60,7,Louise,Jenkins,Female,Tampa,Florida
+2016-03-01,2016-03-02,26-35,TV+Internet,TV Bundle,Add,100,5,Fred,Miller,Male,San Jose,California
+2016-03-04,2016-03-05,26-35,Wireless,Mobile Share 30GB,Add,200,5,Jane,Gordon,Female,Phoenix,Arizona
+2016-03-02,2016-03-03,26-35,TV+Internet,TV Bundle,Add,100,7,Mark,Perry,Male,South Lake Tahoe,California
+2016-03-15,2016-03-16,46-55,Wireless,Mobile Share 30GB,Cancel,200,3,Sean,Graham,Male,Saint Petersburg,Florida
+2016-03-20,2016-03-21,26-35,TV+Internet,TV Bundle,Add,100,5,Jonathan,Russell,Male,Washington,District of Columbia
+2016-03-16,2016-03-17,36-45,Wireless,Mobile Share 30GB,Add,200,5,Sandra,Ryan,Female,Houston,Texas
+2016-03-12,2016-03-12,36-45,TV+Internet,TV Bundle,Add,100,7,Jack,Austin,Male,Tulsa,Oklahoma
+2016-03-22,2016-03-22,46-55,TV,Basic,Add,75,7,Debra,Hansen,Female,Oklahoma City,Oklahoma
+2016-03-18,2016-03-19,36-45,TV+Internet,TV Bundle,Add,100,3,Justin,Payne,Male,Saint Louis,Missouri
+2016-03-20,2016-03-21,26-35,TV+Internet,TV Bundle,Add,100,7,Theresa,Carroll,Female,Tacoma,Washington
+2016-03-14,2016-03-15,46-55,TV+Internet,TV Bundle,Add,100,3,Joyce,Lane,Female,Charlotte,North Carolina
+2016-03-13,2016-03-14,46-55,TV,Basic,Add,75,7,Jane,Hunt,Female,Battle Creek,Michigan
+2016-03-02,2016-03-02,46-55,Wireless,Mobile Share 30GB,Add,200,3,Todd,Davis,Male,Midland,Texas
+2016-03-24,2016-03-25,26-35,Wireless,Mobile Share 30GB,Add,200,7,Cheryl,Reyes,Female,Amarillo,Texas
+2016-03-30,2016-03-31,36-45,TV,Basic,Add,75,7,Sara,Rivera,Female,Wilmington,Delaware
+2016-03-09,2016-03-10,36-45,TV,Basic,Add,75,3,Sean,Robinson,Male,Appleton,Wisconsin
+2016-03-29,2016-03-30,46-55,TV+Internet,TV Bundle,Add,100,5,Robin,White,Female,Monroe,Louisiana
+2016-03-29,2016-03-30,16-25,TV,Basic,Add,75,7,Ernest,Ryan,Male,Buffalo,New York
+2016-03-04,2016-03-05,16-25,TV+Internet,TV Bundle,Cancel,100,3,Henry,Howell,Male,Oakland,California
+2016-03-29,2016-03-30,26-35,Wireless,Mobile Share 30GB,Add,200,7,Amy,Chavez,Female,Huntington,West Virginia
+2016-03-16,2016-03-16,46-55,TV,Premium,Add,125,3,Bobby,Taylor,Male,Simi Valley,California
+2016-03-09,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,3,Martha,Richardson,Female,Dayton,Ohio
+2016-03-21,2016-03-22,16-25,TV+Internet,TV Bundle,Add,100,5,Sean,Martin,Male,Independence,Missouri
+2016-03-11,2016-03-12,26-35,TV+Internet,TV Bundle,Add,100,5,Todd,Weaver,Male,Laredo,Texas
+2016-03-13,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,7,Patrick,Daniels,Male,Houston,Texas
+2016-03-08,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,3,Sean,Little,Male,Schaumburg,Illinois
+2016-03-06,2016-03-07,46-55,TV+Internet,TV Bundle,Add,100,7,Karen,Palmer,Female,Kansas City,Kansas
+2016-03-13,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,3,Juan,Armstrong,Male,Norfolk,Virginia
+2016-03-15,2016-03-16,16-25,Wireless,Mobile Share 50GB,Add,350,7,Ernest,Hunt,Male,Washington,District of Columbia
+2016-03-04,2016-03-04,26-35,Wireless,Mobile Share 15GB,Add,125,7,Jimmy,Stewart,Male,Sacramento,California
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,5,Amanda,Roberts,Female,New Orleans,Louisiana
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,7,Denise,Moore,Female,Tucson,Arizona
+2016-03-19,2016-03-20,26-35,Wireless,Internet,Add,60,5,Laura,Hamilton,Female,Grand Junction,Colorado
+2016-03-26,2016-03-27,36-45,Wireless,Mobile Share 30GB,Add,200,5,Laura,Taylor,Female,Washington,District of Columbia
+2016-03-04,2016-03-05,36-45,Wireless,Mobile Share 15GB,Add,100,7,Angela,Ramos,Female,Columbia,South Carolina
+2016-03-14,2016-03-15,26-35,Wireless,Internet,Add,60,3,Thomas,Griffin,Male,Houston,Texas
+2016-03-14,2016-03-15,26-35,TV,Basic,Cancel,75,7,Donna,Hill,Female,San Francisco,California
+2016-03-18,2016-03-19,26-35,Wireless,Mobile Share 15GB,Add,125,3,Jennifer,Watkins,Female,Monticello,Minnesota
+2016-03-09,2016-03-10,16-25,TV,Basic,Add,75,5,Sarah,James,Female,Louisville,Kentucky
+2016-03-28,2016-03-28,16-25,TV+Internet,TV Bundle,Add,100,3,Patricia,Wagner,Female,Garland,Texas
+2016-03-02,2016-03-03,26-35,Wireless,Mobile Share 50GB,Add,350,3,Paul,Washington,Male,Glendale,Arizona
+2016-03-18,2016-03-19,26-35,Wireless,Mobile Share 15GB,Add,100,5,Philip,Stanley,Male,Honolulu,Hawaii
+2016-03-08,2016-03-09,16-25,TV+Internet,TV Bundle,Add,100,3,Melissa,Sullivan,Female,Miami,Florida
+2016-03-13,2016-03-13,26-35,TV+Internet,TV Bundle,Add,100,3,Alan,Howard,Male,Falls Church,Virginia
+2016-03-27,2016-03-28,16-25,TV+Internet,TV Bundle,Add,100,7,Johnny,Evans,Male,Anchorage,Alaska
+2016-03-24,2016-03-25,26-35,Wireless,Mobile Share 15GB,Add,100,3,Victor,Simpson,Male,Clearwater,Florida
+2016-03-09,2016-03-10,26-35,TV,Basic,Add,75,5,Shawn,Holmes,Male,Boise,Idaho
+2016-03-02,2016-03-03,46-55,Wireless,Internet,Add,60,7,Kevin,Parker,Male,El Paso,Texas
+2016-03-17,2016-03-18,16-25,Wireless,Mobile Share 30GB,Add,200,7,Michael,Cruz,Male,Phoenix,Arizona
+2016-03-28,2016-03-29,16-25,Wireless,Mobile Share 50GB,Add,350,3,Bruce,Graham,Male,Temple,Texas
+2016-03-26,2016-03-27,16-25,Wireless,Mobile Share 30GB,Add,200,5,Adam,Brown,Male,Cleveland,Ohio
+2016-03-29,2016-03-30,16-25,TV,Basic,Cancel,75,7,Joshua,Parker,Male,Fort Smith,Arkansas
+2016-03-02,2016-03-03,26-35,Wireless,Internet,Add,60,7,Brian,Hudson,Male,Colorado Springs,Colorado
+2016-03-24,2016-03-25,26-35,TV+Internet,TV Bundle,Add,100,5,Melissa,Gray,Female,Washington,District of Columbia
+2016-03-13,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,7,Kathleen,Hayes,Female,Scottsdale,Arizona
+2016-03-23,2016-03-24,26-35,TV+Internet,TV Bundle,Add,100,7,Evelyn,Palmer,Female,El Paso,Texas
+2016-03-29,2016-03-30,16-25,TV+Internet,TV Bundle,Add,100,7,Jennifer,Gutierrez,Female,New York City,New York
+2016-03-31,2016-04-01,16-25,Wireless,Mobile Share 30GB,Add,200,5,Johnny,Hansen,Male,Valdosta,Georgia
+2016-03-14,2016-03-15,16-25,TV+Internet,TV Bundle,Add,100,5,Lawrence,Wells,Male,Wilmington,Delaware
+2016-03-19,2016-03-20,26-35,Wireless,Mobile Share 50GB,Add,350,5,Douglas,Jones,Male,Spokane,Washington
+2016-03-28,2016-03-28,16-25,TV,Basic,Add,75,5,Lori,Phillips,Female,Edmond,Oklahoma
+2016-03-02,2016-03-03,46-55,TV+Internet,TV Bundle,Add,100,7,Heather,Perry,Female,Lynn,Massachusetts
+2016-03-16,2016-03-17,36-45,TV,Basic,Add,75,7,Marie,Gray,Female,Saint Petersburg,Florida
+2016-03-14,2016-03-14,26-35,Wireless,Internet,Cancel,60,7,Diane,Cox,Female,Charleston,West Virginia
+2016-03-16,2016-03-17,36-45,TV+Internet,TV Bundle,Add,100,7,Douglas,Sanchez,Male,Colorado Springs,Colorado
+2016-03-30,2016-03-30,16-25,TV,Basic,Add,75,7,Todd,Elliott,Male,Oxnard,California
+2016-03-17,2016-03-17,26-35,Wireless,Mobile Share 30GB,Add,200,5,Judith,Ruiz,Female,Santa Rosa,California
+2016-03-26,2016-03-27,26-35,TV+Internet,TV Bundle,Add,100,7,John,Gonzales,Male,Evansville,Indiana
+2016-03-26,2016-03-27,46-55,Wireless,Mobile Share 50GB,Add,350,5,Kenneth,Elliott,Male,Brea,California
+2016-03-05,2016-03-06,46-55,TV,Basic,Add,75,3,Katherine,Medina,Female,Syracuse,New York
+2016-03-01,2016-03-02,36-45,TV+Internet,TV Bundle,Add,100,7,Stephen,Morrison,Male,Allentown,Pennsylvania
+2016-03-03,2016-03-04,26-35,TV+Internet,TV Bundle,Add,100,3,Katherine,Wheeler,Female,Northridge,California
+2016-03-06,2016-03-07,46-55,TV,Basic,Add,75,7,Clarence,Marshall,Male,Waterbury,Connecticut
+2016-03-17,2016-03-17,26-35,TV+Internet,TV Bundle,Add,100,5,Janet,Welch,Female,Portland,Oregon
+2016-03-05,2016-03-05,46-55,Wireless,Mobile Share 30GB,Add,200,7,Deborah,Lane,Female,Baltimore,Maryland
+2016-03-10,2016-03-10,16-25,TV+Internet,TV Bundle,Add,100,5,Cynthia,Ortiz,Female,Little Rock,Arkansas
+2016-03-01,2016-03-02,36-45,TV,Basic,Add,75,7,Jason,Burke,Male,Macon,Georgia
+2016-03-24,2016-03-25,26-35,TV+Internet,TV Bundle,Add,100,3,Justin,Wheeler,Male,New York City,New York
+2016-03-11,2016-03-11,26-35,TV+Internet,TV Bundle,Add,100,3,Betty,Bishop,Female,Canton,Ohio
+2016-03-28,2016-03-29,36-45,Wireless,Internet,Cancel,60,3,Debra,Hansen,Female,Wilkes Barre,Pennsylvania
+2016-03-28,2016-03-29,26-35,TV,Basic,Add,75,5,Craig,Torres,Male,Texarkana,Texas
+2016-03-24,2016-03-25,16-25,Wireless,Mobile Share 30GB,Add,200,7,Lori,Brooks,Female,Canton,Ohio
+2016-03-05,2016-03-05,16-25,TV,Premium,Add,125,7,Rachel,Thomas,Female,New Orleans,Louisiana
+2016-03-15,2016-03-16,46-55,TV,Basic,Add,75,7,Albert,Nelson,Male,Shreveport,Louisiana
+2016-03-23,2016-03-24,36-45,Wireless,Mobile Share 30GB,Add,200,5,Judy,Sims,Female,Washington,District of Columbia
+2016-03-06,2016-03-07,16-25,TV+Internet,TV Bundle,Add,100,3,Marilyn,Ward,Female,Colorado Springs,Colorado
+2016-03-03,2016-03-04,26-35,TV,Basic,Add,75,7,Patricia,Coleman,Female,Newark,New Jersey
+2016-03-27,2016-03-28,46-55,TV+Internet,TV Bundle,Add,100,5,Terry,Matthews,Male,Midland,Texas
+2016-03-28,2016-03-29,16-25,Wireless,Mobile Share 30GB,Add,200,5,Gloria,Willis,Female,Dallas,Texas
+2016-03-01,2016-03-02,46-55,TV,Basic,Add,75,3,Shirley,Ortiz,Female,Memphis,Tennessee
+2016-03-19,2016-03-20,26-35,Wireless,Mobile Share 30GB,Add,200,3,Matthew,Tucker,Male,Santa Barbara,California
+2016-03-04,2016-03-04,46-55,Wireless,Mobile Share 30GB,Add,200,3,Barbara,Schmidt,Female,Saint Paul,Minnesota
+2016-03-01,2016-03-02,36-45,Wireless,Internet,Add,60,7,Martha,Howard,Female,Gulfport,Mississippi
+2016-03-21,2016-03-22,26-35,Wireless,Mobile Share 15GB,Add,125,7,Jessica,Hawkins,Female,Washington,District of Columbia
+2016-03-07,2016-03-08,36-45,TV+Internet,TV Bundle,Add,100,3,Lawrence,Dean,Male,Loretto,Minnesota
+2016-03-15,2016-03-16,16-25,TV+Internet,TV Bundle,Add,100,7,Arthur,Weaver,Male,Fresno,California
+2016-03-01,2016-03-02,36-45,TV,Premium,Add,125,5,Carlos,Anderson,Male,Memphis,Tennessee
+2016-03-20,2016-03-21,46-55,TV+Internet,TV Bundle,Add,100,5,Clarence,Porter,Male,Edmond,Oklahoma
+2016-03-31,2016-04-01,26-35,Wireless,Mobile Share 15GB,Add,125,3,Laura,Anderson,Female,Naperville,Illinois
+2016-03-14,2016-03-15,26-35,TV+Internet,TV Bundle,Add,100,5,Andrew,Mccoy,Male,Montgomery,Alabama
+2016-03-07,2016-03-08,26-35,Wireless,Mobile Share 30GB,Add,200,3,Joe,Martin,Male,Springfield,Missouri
+2016-03-07,2016-03-07,26-35,TV+Internet,TV Bundle,Add,100,7,Amanda,Kelley,Female,Honolulu,Hawaii
+2016-03-19,2016-03-20,46-55,Wireless,Mobile Share 50GB,Add,350,3,Julie,Scott,Female,New York City,New York
+2016-03-09,2016-03-10,36-45,TV,Basic,Add,75,7,Terry,Kelly,Male,Lake Charles,Louisiana
+2016-03-12,2016-03-13,46-55,Wireless,Mobile Share 15GB,Add,125,7,Edward,Castillo,Male,Kansas City,Missouri
+2016-03-20,2016-03-21,16-25,Wireless,Mobile Share 30GB,Cancel,200,5,Ruth,Shaw,Female,Portsmouth,New Hampshire
+2016-03-20,2016-03-21,26-35,Wireless,Mobile Share 15GB,Add,125,7,Paul,Jackson,Male,Young America,Minnesota
+2016-03-05,2016-03-06,26-35,TV,Basic,Add,75,5,Linda,Clark,Female,Honolulu,Hawaii
+2016-03-16,2016-03-17,46-55,Wireless,Mobile Share 15GB,Add,100,7,Helen,Carter,Female,Pensacola,Florida
+2016-03-28,2016-03-29,46-55,TV,Basic,Add,75,3,Howard,Ross,Male,Loretto,Minnesota
+2016-03-29,2016-03-30,26-35,TV+Internet,TV Bundle,Add,100,3,Keith,Johnston,Male,Detroit,Michigan
+2016-03-27,2016-03-28,16-25,TV+Internet,TV Bundle,Cancel,100,5,Larry,Webb,Male,Humble,Texas
+2016-03-26,2016-03-27,16-25,TV+Internet,TV Bundle,Add,100,5,Anna,Hart,Female,Panama City,Florida
+2016-03-06,2016-03-07,16-25,Wireless,Mobile Share 50GB,Add,350,5,Maria,Reid,Female,Fort Worth,Texas
+2016-03-18,2016-03-18,26-35,TV+Internet,TV Bundle,Add,100,3,Keith,Little,Male,Worcester,Massachusetts
+2016-03-11,2016-03-12,46-55,Wireless,Mobile Share 30GB,Add,200,5,Mary,Day,Female,Huntington,West Virginia
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,7,Jason,Ford,Male,Indianapolis,Indiana
+2016-03-14,2016-03-15,36-45,TV+Internet,TV Bundle,Add,100,3,Martin,Snyder,Male,Tulsa,Oklahoma
+2016-03-19,2016-03-19,36-45,TV,Basic,Cancel,75,5,Carol,Lewis,Female,Buffalo,New York
+2016-03-01,2016-03-02,46-55,TV+Internet,TV Bundle,Add,100,3,Ashley,Patterson,Female,Albany,New York
+2016-03-01,2016-03-01,16-25,TV+Internet,TV Bundle,Add,100,3,Brian,Henry,Male,Seattle,Washington
+2016-03-29,2016-03-30,46-55,TV+Internet,TV Bundle,Add,100,5,Diane,Watson,Female,Rockford,Illinois
+2016-03-07,2016-03-08,16-25,Wireless,Mobile Share 30GB,Add,200,3,Martin,Williams,Male,Watertown,Massachusetts
+2016-03-06,2016-03-07,26-35,TV+Internet,TV Bundle,Add,100,5,Anne,Johnston,Female,Sacramento,California
+2016-03-16,2016-03-17,26-35,TV,Premium,Add,125,5,Alice,Little,Female,Los Angeles,California
+2016-03-09,2016-03-10,26-35,Wireless,Mobile Share 15GB,Add,125,3,Joshua,Cox,Male,New Haven,Connecticut
+2016-03-07,2016-03-07,26-35,TV+Internet,TV Bundle,Add,100,5,Bobby,Gonzalez,Male,Dayton,Ohio
+2016-03-01,2016-03-01,26-35,TV+Internet,TV Bundle,Add,100,7,Mildred,Parker,Female,Everett,Washington
+2016-03-08,2016-03-09,36-45,Wireless,Mobile Share 30GB,Add,200,5,Roy,Moore,Male,Detroit,Michigan
+2016-03-22,2016-03-23,26-35,TV,Basic,Cancel,75,7,Victor,Harrison,Male,Daytona Beach,Florida
+2016-03-12,2016-03-13,16-25,TV+Internet,TV Bundle,Add,100,7,Richard,Hart,Male,Jackson,Mississippi
+2016-03-21,2016-03-21,16-25,TV,Premium,Add,125,3,Jose,Carr,Male,London,Kentucky
+2016-03-28,2016-03-29,26-35,Wireless,Internet,Add,60,3,Diana,Clark,Female,Louisville,Kentucky
+2016-03-09,2016-03-10,36-45,TV,Basic,Add,75,3,Ronald,Sullivan,Male,Huntington,West Virginia
+2016-03-05,2016-03-06,36-45,Wireless,Mobile Share 30GB,Add,200,7,Craig,Stone,Male,Evansville,Indiana
+2016-03-03,2016-03-04,36-45,TV+Internet,TV Bundle,Add,100,7,Roy,Dunn,Male,Minneapolis,Minnesota
+2016-03-10,2016-03-11,26-35,Wireless,Mobile Share 30GB,Add,200,7,Russell,Wheeler,Male,Levittown,Pennsylvania
+2016-03-20,2016-03-21,36-45,TV+Internet,TV Bundle,Add,100,3,Rose,Peterson,Female,Lincoln,Nebraska
+2016-03-12,2016-03-12,46-55,TV+Internet,TV Bundle,Add,100,7,Joyce,Lawson,Female,Fresno,California
+2016-03-12,2016-03-13,16-25,TV+Internet,TV Bundle,Add,100,7,Eugene,Warren,Male,Montgomery,Alabama
+2016-03-09,2016-03-10,46-55,Wireless,Mobile Share 30GB,Add,200,5,Dorothy,Parker,Female,Fort Wayne,Indiana
+2016-03-04,2016-03-05,36-45,Wireless,Mobile Share 15GB,Cancel,100,7,Bobby,White,Male,Milwaukee,Wisconsin
+2016-03-21,2016-03-22,46-55,Wireless,Mobile Share 30GB,Cancel,200,5,Robin,Powell,Female,Fort Wayne,Indiana
+2016-03-26,2016-03-26,46-55,Wireless,Mobile Share 30GB,Add,200,7,Harold,Nelson,Male,Topeka,Kansas
+2016-03-23,2016-03-24,26-35,TV+Internet,TV Bundle,Add,100,7,Rachel,Price,Female,Orlando,Florida
+2016-03-18,2016-03-19,16-25,Wireless,Mobile Share 30GB,Add,200,7,David,Jackson,Male,Cincinnati,Ohio
+2016-03-25,2016-03-26,36-45,TV+Internet,TV Bundle,Add,100,7,Susan,Fox,Female,Dallas,Texas
+2016-03-14,2016-03-15,36-45,TV+Internet,TV Bundle,Add,100,3,Roger,Porter,Male,Springfield,Illinois
+2016-03-06,2016-03-07,26-35,Wireless,Mobile Share 30GB,Add,200,5,Kimberly,Peterson,Female,Glendale,California
+2016-03-13,2016-03-14,16-25,TV+Internet,TV Bundle,Add,100,5,Frances,Ford,Female,Jersey City,New Jersey
+2016-03-17,2016-03-18,36-45,Wireless,Mobile Share 30GB,Add,200,3,Jeffrey,Arnold,Male,Toledo,Ohio
+2016-03-09,2016-03-10,36-45,TV+Internet,TV Bundle,Add,100,3,Keith,Murray,Male,Youngstown,Ohio
+2016-03-25,2016-03-25,46-55,TV+Internet,TV Bundle,Add,100,3,Kelly,Medina,Female,Sacramento,California
+2016-03-11,2016-03-12,16-25,TV+Internet,TV Bundle,Add,100,5,Johnny,Rodriguez,Male,Louisville,Kentucky
+2016-03-23,2016-03-24,36-45,Wireless,Internet,Add,60,5,Louis,Williamson,Male,Dallas,Texas
+2016-03-21,2016-03-22,46-55,Wireless,Mobile Share 30GB,Add,200,5,Beverly,Mendoza,Female,Houston,Texas
+2016-03-10,2016-03-11,26-35,Wireless,Mobile Share 30GB,Add,200,5,Harry,Garrett,Male,Albany,New York
+2016-03-08,2016-03-09,36-45,TV+Internet,TV Bundle,Add,100,3,Pamela,Perkins,Female,Austin,Texas
+2016-03-11,2016-03-12,26-35,TV+Internet,TV Bundle,Add,100,3,Julia,Gonzales,Female,New Orleans,Louisiana
+2016-03-28,2016-03-29,36-45,Wireless,Mobile Share 30GB,Add,200,5,Marie,Brown,Female,Olympia,Washington
+2016-03-21,2016-03-22,16-25,TV+Internet,TV Bundle,Add,100,7,Ernest,Shaw,Male,Madison,Wisconsin
+2016-03-13,2016-03-14,36-45,TV+Internet,TV Bundle,Add,100,3,Peter,Stone,Male,Raleigh,North Carolina
+2016-03-15,2016-03-16,46-55,TV,Basic,Add,75,7,Gary,Willis,Male,Zephyrhills,Florida
+2016-03-05,2016-03-05,36-45,TV+Internet,TV Bundle,Add,100,5,Carol,Carpenter,Female,Naples,Florida
+2016-03-07,2016-03-08,36-45,Wireless,Internet,Add,60,7,Janet,Sullivan,Female,Zephyrhills,Florida
+2016-03-31,2016-04-01,46-55,Wireless,Mobile Share 30GB,Add,200,3,Mildred,Tucker,Female,New York City,New York
+2016-03-17,2016-03-18,16-25,Wireless,Mobile Share 30GB,Add,200,3,Andrea,Davis,Female,Minneapolis,Minnesota
+2016-03-28,2016-03-29,26-35,TV,Basic,Add,75,7,John,Hunt,Male,Topeka,Kansas
+2016-03-31,2016-03-31,26-35,Wireless,Mobile Share 30GB,Add,200,7,Raymond,Reed,Male,Santa Barbara,California
+2016-03-12,2016-03-13,26-35,Wireless,Mobile Share 15GB,Add,100,5,Gary,Hart,Male,Lexington,Kentucky
+2016-03-25,2016-03-26,36-45,TV+Internet,TV Bundle,Add,100,3,Carol,Turner,Female,Hartford,Connecticut
+2016-03-21,2016-03-22,26-35,TV+Internet,TV Bundle,Add,100,5,Annie,Adams,Female,Omaha,Nebraska
+2016-03-19,2016-03-20,16-25,TV+Internet,TV Bundle,Add,100,3,Roger,Stanley,Male,Louisville,Kentucky
+2016-03-01,2016-03-01,16-25,Wireless,Internet,Add,60,3,Randy,Sanders,Male,Fort Myers,Florida
+2016-03-02,2016-03-03,46-55,Wireless,Mobile Share 30GB,Add,200,3,Gloria,Dean,Female,Los Angeles,California
+2016-03-28,2016-03-29,36-45,Wireless,Mobile Share 15GB,Add,125,7,Shirley,Carpenter,Female,Washington,District of Columbia
+2016-03-01,2016-03-02,46-55,TV,Basic,Add,75,7,Shawn,Matthews,Male,Lexington,Kentucky
+2016-03-06,2016-03-07,16-25,Wireless,Mobile Share 30GB,Add,200,5,Samuel,Hansen,Male,Memphis,Tennessee
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,7,Gerald,Bennett,Male,Boston,Massachusetts
+2016-03-31,2016-04-01,36-45,Wireless,Mobile Share 30GB,Add,200,5,John,Price,Male,Sacramento,California
+2016-03-20,2016-03-21,36-45,TV+Internet,TV Bundle,Add,100,7,Katherine,George,Female,New York City,New York
+2016-03-25,2016-03-26,16-25,TV+Internet,TV Bundle,Add,100,5,Evelyn,Mccoy,Female,Norfolk,Virginia
+2016-03-30,2016-03-31,26-35,Wireless,Mobile Share 15GB,Add,125,5,Gregory,Romero,Male,Hartford,Connecticut
+2016-03-14,2016-03-15,16-25,TV+Internet,TV Bundle,Add,100,3,Cheryl,Gordon,Female,Portland,Oregon
+2016-03-28,2016-03-29,16-25,Wireless,Internet,Add,60,7,Gerald,Gray,Male,Albuquerque,New Mexico
+2016-03-18,2016-03-19,36-45,TV+Internet,TV Bundle,Add,100,7,Kathy,Morgan,Female,Winter Haven,Florida
+2016-03-08,2016-03-09,16-25,TV+Internet,TV Bundle,Add,100,3,Clarence,Rice,Male,Melbourne,Florida
+2016-03-24,2016-03-25,46-55,TV,Basic,Add,75,3,Judith,James,Female,Tempe,Arizona
+2016-03-20,2016-03-21,16-25,Wireless,Internet,Add,60,5,Jesse,Meyer,Male,Las Vegas,Nevada
+2016-03-17,2016-03-18,26-35,TV+Internet,TV Bundle,Cancel,100,5,Angela,Richards,Female,Milwaukee,Wisconsin
+2016-03-09,2016-03-10,16-25,Wireless,Mobile Share 30GB,Add,200,5,Andrea,Simpson,Female,Lexington,Kentucky
+2016-03-12,2016-03-13,46-55,TV+Internet,TV Bundle,Add,100,5,Randy,Rogers,Male,Amarillo,Texas
+2016-03-29,2016-03-30,16-25,Wireless,Mobile Share 30GB,Add,200,7,Gregory,Chavez,Male,Warren,Ohio
+2016-03-18,2016-03-19,36-45,TV+Internet,TV Bundle,Add,100,3,Christina,Green,Female,Longview,Texas
+2016-03-31,2016-04-01,36-45,TV+Internet,TV Bundle,Add,100,5,Frank,Cunningham,Male,Colorado Springs,Colorado
+2016-03-19,2016-03-20,16-25,Wireless,Mobile Share 30GB,Add,200,7,Sharon,Myers,Female,Wilkes Barre,Pennsylvania
+2016-03-08,2016-03-09,16-25,Wireless,Mobile Share 30GB,Add,200,7,William,Ray,Male,Savannah,Georgia
+2016-03-19,2016-03-20,36-45,TV+Internet,TV Bundle,Add,100,5,Steve,Shaw,Male,Minneapolis,Minnesota
+2016-03-24,2016-03-25,26-35,Wireless,Mobile Share 30GB,Add,200,3,Eugene,Wright,Male,Oakland,California
+2016-03-11,2016-03-12,36-45,TV,Basic,Add,75,7,Ryan,Parker,Male,Cleveland,Ohio
+2016-03-13,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,3,Amy,Nelson,Female,Baton Rouge,Louisiana
+2016-03-07,2016-03-08,46-55,TV+Internet,TV Bundle,Add,100,5,Alice,Morris,Female,Scottsdale,Arizona
+2016-03-30,2016-03-31,36-45,TV,Premium,Add,125,5,Pamela,George,Female,Miami,Florida
+2016-03-24,2016-03-25,26-35,Wireless,Mobile Share 30GB,Add,200,3,Diane,James,Female,Long Beach,California
+2016-03-26,2016-03-27,16-25,TV+Internet,TV Bundle,Add,100,3,Michelle,Bowman,Female,Philadelphia,Pennsylvania
+2016-03-18,2016-03-19,16-25,TV,Premium,Add,125,5,Jimmy,Hudson,Male,Clearwater,Florida
+2016-03-06,2016-03-06,26-35,TV+Internet,TV Bundle,Add,100,5,Patricia,Johnson,Female,Anchorage,Alaska
+2016-03-11,2016-03-12,26-35,TV,Premium,Add,125,7,Jerry,Webb,Male,Jacksonville,Florida
+2016-03-15,2016-03-16,36-45,TV+Internet,TV Bundle,Cancel,100,7,Kevin,Graham,Male,Hartford,Connecticut
+2016-03-22,2016-03-23,26-35,TV,Basic,Add,75,7,Douglas,Reyes,Male,El Paso,Texas
+2016-03-29,2016-03-30,16-25,TV,Basic,Cancel,75,7,Brandon,Reed,Male,Washington,District of Columbia
+2016-03-05,2016-03-05,36-45,TV,Basic,Add,75,7,Brenda,Cunningham,Female,Greensboro,North Carolina
+2016-03-29,2016-03-29,16-25,TV+Internet,TV Bundle,Add,100,7,Victor,Chavez,Male,North Little Rock,Arkansas
+2016-03-14,2016-03-15,36-45,Wireless,Internet,Add,60,7,Julie,Reyes,Female,Olympia,Washington
+2016-03-12,2016-03-13,16-25,Wireless,Mobile Share 50GB,Add,350,5,Christopher,Long,Male,Lincoln,Nebraska
+2016-03-18,2016-03-19,46-55,TV,Premium,Add,125,5,Lawrence,Montgomery,Male,Seattle,Washington
+2016-03-09,2016-03-10,26-35,TV+Internet,TV Bundle,Add,100,7,Harold,Banks,Male,Jacksonville,Florida
+2016-03-04,2016-03-05,46-55,Wireless,Mobile Share 30GB,Add,200,3,Larry,Stewart,Male,Las Vegas,Nevada
+2016-03-23,2016-03-24,16-25,Wireless,Mobile Share 15GB,Add,100,5,Betty,Murphy,Female,Indianapolis,Indiana
+2016-03-22,2016-03-23,26-35,TV+Internet,TV Bundle,Add,100,3,Christine,Wagner,Female,Flushing,New York
+2016-03-18,2016-03-19,26-35,Wireless,Mobile Share 30GB,Add,200,3,Gloria,Bell,Female,Des Moines,Iowa
+2016-03-30,2016-03-31,36-45,TV,Premium,Add,125,5,Theresa,Richardson,Female,Lincoln,Nebraska
+2016-03-09,2016-03-10,46-55,TV,Premium,Add,125,5,Robert,Miller,Male,Marietta,Georgia
+2016-03-05,2016-03-06,26-35,Wireless,Mobile Share 50GB,Add,350,5,Lori,Scott,Female,Virginia Beach,Virginia
+2016-03-11,2016-03-12,46-55,TV,Basic,Add,75,5,Phyllis,Mason,Female,Temple,Texas
+2016-03-19,2016-03-20,36-45,TV,Basic,Add,75,5,Shawn,Moreno,Male,New Orleans,Louisiana
+2016-03-26,2016-03-27,36-45,TV+Internet,TV Bundle,Add,100,7,Angela,Dunn,Female,Frederick,Maryland
+2016-03-18,2016-03-18,26-35,TV+Internet,TV Bundle,Add,100,5,Doris,Griffin,Female,Lubbock,Texas
+2016-03-14,2016-03-14,36-45,TV,Basic,Add,75,3,Paul,Coleman,Male,Lafayette,Louisiana
+2016-03-25,2016-03-26,36-45,TV+Internet,TV Bundle,Cancel,100,5,Alice,Little,Female,Idaho Falls,Idaho
+2016-03-17,2016-03-18,36-45,TV,Basic,Add,75,3,Kelly,Garza,Female,Washington,District of Columbia
+2016-03-09,2016-03-09,16-25,Wireless,Mobile Share 30GB,Cancel,200,5,Ann,Woods,Female,Colorado Springs,Colorado
+2016-03-24,2016-03-25,16-25,TV+Internet,TV Bundle,Add,100,3,Nicole,Morrison,Female,Salinas,California
+2016-03-02,2016-03-03,16-25,TV+Internet,TV Bundle,Add,100,5,Frank,Boyd,Male,Springfield,Illinois
+2016-03-25,2016-03-26,26-35,Wireless,Mobile Share 50GB,Add,350,7,Joan,Kim,Female,Lexington,Kentucky
+2016-03-08,2016-03-09,16-25,Wireless,Mobile Share 15GB,Add,100,5,Denise,Armstrong,Female,Marietta,Georgia
+2016-03-22,2016-03-22,46-55,Wireless,Mobile Share 50GB,Add,350,7,Christine,Cole,Female,Cleveland,Ohio
+2016-03-08,2016-03-08,26-35,Wireless,Mobile Share 30GB,Add,200,5,Edward,Torres,Male,Lexington,Kentucky
+2016-03-14,2016-03-15,46-55,TV+Internet,TV Bundle,Add,100,7,Juan,Moore,Male,Houston,Texas
+2016-03-29,2016-03-30,26-35,Wireless,Mobile Share 30GB,Add,200,5,Bonnie,Harris,Female,Jacksonville,Florida
+2016-03-07,2016-03-07,36-45,TV+Internet,TV Bundle,Cancel,100,7,Kevin,Rose,Male,Pocatello,Idaho
+2016-03-24,2016-03-24,26-35,Wireless,Mobile Share 30GB,Cancel,200,3,William,Gonzales,Male,Boise,Idaho
+2016-03-16,2016-03-17,46-55,TV,Basic,Add,75,7,Philip,Turner,Male,Cincinnati,Ohio
+2016-03-23,2016-03-23,36-45,Wireless,Mobile Share 30GB,Add,200,7,Dorothy,Miller,Female,Houston,Texas
+2016-03-27,2016-03-28,46-55,Wireless,Mobile Share 30GB,Cancel,200,5,Helen,Taylor,Female,Brockton,Massachusetts
+2016-03-02,2016-03-03,46-55,Wireless,Mobile Share 30GB,Add,200,3,Joan,Holmes,Female,Stockton,California
+2016-03-10,2016-03-11,36-45,Wireless,Internet,Add,60,3,Lillian,Carroll,Female,Charlotte,North Carolina
+2016-03-03,2016-03-04,16-25,TV+Internet,TV Bundle,Add,100,7,Ann,Grant,Female,Atlanta,Georgia
+2016-03-24,2016-03-25,46-55,TV,Basic,Add,75,3,Timothy,Gibson,Male,Pueblo,Colorado
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,3,Michelle,Williams,Female,Louisville,Kentucky
+2016-03-06,2016-03-07,26-35,Wireless,Internet,Add,60,3,Benjamin,Ferguson,Male,Reston,Virginia
+2016-03-14,2016-03-15,46-55,TV+Internet,TV Bundle,Add,100,5,Lillian,Campbell,Female,Charleston,South Carolina
+2016-03-13,2016-03-14,26-35,Wireless,Internet,Add,60,3,Janice,Wells,Female,Saint Paul,Minnesota
+2016-03-03,2016-03-04,26-35,TV+Internet,TV Bundle,Add,100,5,Jeffrey,Williams,Male,Columbus,Ohio
+2016-03-06,2016-03-07,46-55,Wireless,Internet,Add,60,7,Sandra,Turner,Female,Bakersfield,California
+2016-03-19,2016-03-20,46-55,TV,Basic,Add,75,3,Alice,Fisher,Female,Lincoln,Nebraska
+2016-03-16,2016-03-17,46-55,TV,Basic,Add,75,5,Kenneth,Stevens,Male,Cincinnati,Ohio
+2016-03-13,2016-03-14,36-45,TV+Internet,TV Bundle,Add,100,5,Bonnie,Diaz,Female,Buffalo,New York
+2016-03-20,2016-03-21,36-45,Wireless,Internet,Add,60,3,Susan,Roberts,Female,Tacoma,Washington
+2016-03-13,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,3,Lois,Shaw,Female,San Diego,California
+2016-03-22,2016-03-23,36-45,TV+Internet,TV Bundle,Add,100,3,Phillip,Matthews,Male,Myrtle Beach,South Carolina
+2016-03-10,2016-03-11,46-55,TV,Basic,Add,75,7,Angela,Burns,Female,Washington,District of Columbia
+2016-03-25,2016-03-25,36-45,Wireless,Mobile Share 30GB,Add,200,3,Beverly,Robinson,Female,Atlanta,Georgia
+2016-03-28,2016-03-28,16-25,Wireless,Mobile Share 15GB,Add,100,7,Jacqueline,Sims,Female,Kansas City,Missouri
+2016-03-18,2016-03-19,16-25,TV+Internet,TV Bundle,Add,100,7,Anna,Smith,Female,New York City,New York
+2016-03-17,2016-03-18,46-55,Wireless,Mobile Share 15GB,Add,125,3,David,Jackson,Male,Dallas,Texas
+2016-03-22,2016-03-23,36-45,TV+Internet,TV Bundle,Add,100,7,Adam,Bell,Male,Indianapolis,Indiana
+2016-03-25,2016-03-26,26-35,TV+Internet,TV Bundle,Add,100,3,Alice,Hall,Female,Duluth,Georgia
+2016-03-21,2016-03-22,36-45,TV,Basic,Add,75,5,Antonio,Edwards,Male,Austin,Texas
+2016-03-11,2016-03-11,26-35,TV+Internet,TV Bundle,Add,100,7,Stephen,Robinson,Male,Portsmouth,New Hampshire
+2016-03-11,2016-03-11,36-45,Wireless,Mobile Share 50GB,Add,350,3,Gregory,Flores,Male,Memphis,Tennessee
+2016-03-13,2016-03-14,16-25,Wireless,Mobile Share 15GB,Add,100,5,Rebecca,Perry,Female,Huntington,West Virginia
+2016-03-31,2016-04-01,46-55,TV,Premium,Add,125,3,Jennifer,Carroll,Female,Juneau,Alaska
+2016-03-20,2016-03-21,16-25,Wireless,Mobile Share 15GB,Add,100,7,Janice,James,Female,Austin,Texas
+2016-03-08,2016-03-08,26-35,Wireless,Mobile Share 30GB,Add,200,3,Donald,Olson,Male,Nashville,Tennessee
+2016-03-21,2016-03-22,46-55,TV,Basic,Add,75,5,Martha,Ramos,Female,Beaumont,Texas
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,7,Joseph,Fields,Male,Hollywood,Florida
+2016-03-26,2016-03-27,46-55,TV,Basic,Add,75,3,Elizabeth,Rodriguez,Female,Idaho Falls,Idaho
+2016-03-03,2016-03-04,36-45,Wireless,Mobile Share 30GB,Add,200,7,Nancy,Gomez,Female,Washington,District of Columbia
+2016-03-19,2016-03-19,16-25,TV+Internet,TV Bundle,Add,100,5,Brian,Bell,Male,Birmingham,Alabama
+2016-03-13,2016-03-14,16-25,Wireless,Mobile Share 50GB,Add,350,5,Phillip,Bowman,Male,Hollywood,Florida
+2016-03-29,2016-03-30,46-55,TV,Basic,Add,75,5,Mildred,Dixon,Female,Terre Haute,Indiana
+2016-03-09,2016-03-10,26-35,Wireless,Mobile Share 30GB,Add,200,7,Willie,Rogers,Male,Paterson,New Jersey
+2016-03-18,2016-03-19,26-35,TV+Internet,TV Bundle,Add,100,3,John,Lee,Male,Des Moines,Iowa
+2016-03-22,2016-03-23,36-45,Wireless,Mobile Share 15GB,Add,125,3,Timothy,Lawson,Male,Pittsburgh,Pennsylvania
+2016-03-28,2016-03-29,26-35,Wireless,Mobile Share 30GB,Add,200,3,Rebecca,Oliver,Female,San Jose,California
+2016-03-11,2016-03-12,26-35,Wireless,Mobile Share 30GB,Add,200,7,Albert,Sims,Male,Gastonia,North Carolina
+2016-03-23,2016-03-23,46-55,TV,Basic,Add,75,7,Bonnie,Rose,Female,Lansing,Michigan
+2016-03-26,2016-03-27,16-25,Wireless,Mobile Share 50GB,Add,350,7,Ruth,Wells,Female,New York City,New York
+2016-03-24,2016-03-25,16-25,Wireless,Mobile Share 30GB,Add,200,5,Virginia,Cooper,Female,Miami,Florida
+2016-03-08,2016-03-09,26-35,Wireless,Mobile Share 15GB,Add,125,7,Donald,Moreno,Male,Birmingham,Alabama
+2016-03-08,2016-03-09,16-25,TV+Internet,TV Bundle,Add,100,7,Marie,Castillo,Female,Washington,District of Columbia
+2016-03-18,2016-03-19,16-25,Wireless,Internet,Add,60,5,Phillip,Ramirez,Male,Rockville,Maryland
+2016-03-16,2016-03-17,16-25,Wireless,Mobile Share 30GB,Add,200,3,Charles,Howell,Male,Las Vegas,Nevada
+2016-03-06,2016-03-06,46-55,TV,Premium,Add,125,3,Thomas,Howard,Male,Myrtle Beach,South Carolina
+2016-03-11,2016-03-12,36-45,TV+Internet,TV Bundle,Cancel,100,7,Andrea,Robinson,Female,Houston,Texas
+2016-03-18,2016-03-19,26-35,TV+Internet,TV Bundle,Add,100,3,Brenda,Adams,Female,Corpus Christi,Texas
+2016-03-10,2016-03-11,46-55,TV,Basic,Add,75,5,Victor,Ward,Male,Baltimore,Maryland
+2016-03-18,2016-03-18,46-55,Wireless,Mobile Share 15GB,Add,100,3,Sharon,Ruiz,Female,Fort Worth,Texas
+2016-03-23,2016-03-24,36-45,TV+Internet,TV Bundle,Add,100,5,Joshua,Ellis,Male,Toledo,Ohio
+2016-03-09,2016-03-10,26-35,Wireless,Internet,Add,60,3,Edward,Frazier,Male,Salt Lake City,Utah
+2016-03-03,2016-03-04,26-35,TV+Internet,TV Bundle,Add,100,7,Albert,Bradley,Male,Oklahoma City,Oklahoma
+2016-03-03,2016-03-04,26-35,TV+Internet,TV Bundle,Add,100,5,Jeremy,Bradley,Male,Scottsdale,Arizona
+2016-03-05,2016-03-06,46-55,TV+Internet,TV Bundle,Add,100,5,Richard,Chapman,Male,New York City,New York
+2016-03-28,2016-03-28,46-55,TV,Premium,Add,125,7,Jacqueline,Bowman,Female,Lincoln,Nebraska
+2016-03-30,2016-03-31,46-55,Wireless,Mobile Share 30GB,Add,200,7,Frank,Hawkins,Male,Philadelphia,Pennsylvania
+2016-03-03,2016-03-04,16-25,Wireless,Mobile Share 50GB,Add,350,7,Howard,Ramos,Male,Brooklyn,New York
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,7,Anna,Hayes,Female,Kalamazoo,Michigan
+2016-03-13,2016-03-13,26-35,TV,Basic,Add,75,5,Ann,Cox,Female,Murfreesboro,Tennessee
+2016-03-04,2016-03-04,46-55,TV+Internet,TV Bundle,Add,100,5,Arthur,Turner,Male,Columbia,South Carolina
+2016-03-25,2016-03-26,26-35,TV+Internet,TV Bundle,Add,100,3,Jessica,Reid,Female,Sacramento,California
+2016-03-01,2016-03-02,26-35,TV+Internet,TV Bundle,Add,100,3,Roger,Hansen,Male,Bridgeport,Connecticut
+2016-03-13,2016-03-14,26-35,TV,Basic,Cancel,75,3,Emily,Marshall,Female,Washington,District of Columbia
+2016-03-24,2016-03-25,16-25,Wireless,Mobile Share 30GB,Add,200,5,Joe,Dunn,Male,Washington,District of Columbia
+2016-03-09,2016-03-10,16-25,Wireless,Mobile Share 30GB,Add,200,3,Diane,Ryan,Female,Elmira,New York
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,3,Janet,Simmons,Female,Philadelphia,Pennsylvania
+2016-03-05,2016-03-06,46-55,TV,Basic,Add,75,5,Doris,George,Female,Miami,Florida
+2016-03-16,2016-03-17,46-55,TV,Premium,Add,125,3,Ralph,Riley,Male,Paterson,New Jersey
+2016-03-13,2016-03-14,16-25,TV+Internet,TV Bundle,Add,100,7,Raymond,Dunn,Male,Austin,Texas
+2016-03-17,2016-03-18,16-25,TV,Premium,Add,125,5,Ruth,Cook,Female,Los Angeles,California
+2016-03-22,2016-03-23,16-25,TV+Internet,TV Bundle,Cancel,100,3,Louise,Price,Female,Brooklyn,New York
+2016-03-29,2016-03-29,16-25,Wireless,Mobile Share 30GB,Cancel,200,5,Judith,Wood,Female,Baton Rouge,Louisiana
+2016-03-03,2016-03-04,16-25,TV,Basic,Add,75,7,Wanda,Gray,Female,El Paso,Texas
+2016-03-18,2016-03-18,36-45,TV+Internet,TV Bundle,Add,100,7,Diana,Larson,Female,Houston,Texas
+2016-03-30,2016-03-31,26-35,TV+Internet,TV Bundle,Add,100,5,Clarence,Garza,Male,Denton,Texas
+2016-03-30,2016-03-31,46-55,TV,Basic,Add,75,3,Jonathan,Stewart,Male,Anchorage,Alaska
+2016-03-28,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,7,Gregory,Carter,Male,Orlando,Florida
+2016-03-20,2016-03-21,26-35,TV+Internet,TV Bundle,Add,100,5,David,Reyes,Male,Evansville,Indiana
+2016-03-07,2016-03-07,46-55,TV,Basic,Add,75,7,Annie,Anderson,Female,Toledo,Ohio
+2016-03-26,2016-03-27,36-45,TV+Internet,TV Bundle,Cancel,100,5,Louise,Simpson,Female,Atlanta,Georgia
+2016-03-29,2016-03-30,26-35,Wireless,Mobile Share 30GB,Add,200,3,Victor,Hanson,Male,Kansas City,Missouri
+2016-03-05,2016-03-05,36-45,TV,Basic,Add,75,5,Marilyn,Harvey,Female,Tacoma,Washington
+2016-03-08,2016-03-09,46-55,TV,Basic,Add,75,5,Stephen,Stephens,Male,Birmingham,Alabama
+2016-03-07,2016-03-08,36-45,Wireless,Mobile Share 30GB,Add,200,3,Raymond,Jackson,Male,Amarillo,Texas
+2016-03-19,2016-03-20,46-55,Wireless,Mobile Share 15GB,Add,100,3,Alan,Stanley,Male,Philadelphia,Pennsylvania
+2016-03-02,2016-03-03,26-35,Wireless,Mobile Share 15GB,Add,125,7,Gerald,Palmer,Male,Seattle,Washington
+2016-03-08,2016-03-09,26-35,TV,Premium,Add,125,7,Ruth,Vasquez,Female,Orlando,Florida
+2016-03-10,2016-03-10,36-45,TV+Internet,TV Bundle,Cancel,100,3,Wanda,Moreno,Female,Austin,Texas
+2016-03-12,2016-03-13,26-35,Wireless,Mobile Share 30GB,Add,200,7,Ruby,Nichols,Female,New York City,New York
+2016-03-14,2016-03-15,36-45,TV+Internet,TV Bundle,Add,100,5,Anne,Turner,Female,Springfield,Illinois
+2016-03-25,2016-03-26,16-25,Wireless,Mobile Share 15GB,Add,100,5,Susan,Kennedy,Female,Appleton,Wisconsin
+2016-03-14,2016-03-15,36-45,TV,Premium,Add,125,7,Jean,Andrews,Female,New York City,New York
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,5,Norma,Peterson,Female,Philadelphia,Pennsylvania
+2016-03-24,2016-03-24,16-25,Wireless,Mobile Share 15GB,Cancel,125,7,Mildred,Nichols,Female,Springfield,Massachusetts
+2016-03-11,2016-03-12,36-45,TV,Basic,Add,75,7,Maria,Young,Female,Houston,Texas
+2016-03-31,2016-03-31,46-55,Wireless,Mobile Share 50GB,Add,350,5,Earl,Powell,Male,Pittsburgh,Pennsylvania
+2016-03-21,2016-03-22,46-55,TV,Premium,Add,125,5,Frances,Warren,Female,North Hollywood,California
+2016-03-21,2016-03-22,26-35,Wireless,Mobile Share 30GB,Add,200,3,Jeffrey,Davis,Male,Garden Grove,California
+2016-03-15,2016-03-16,26-35,TV+Internet,TV Bundle,Add,100,3,Henry,Gardner,Male,Las Vegas,Nevada
+2016-03-04,2016-03-05,16-25,TV,Basic,Add,75,5,Jonathan,Cruz,Male,Kansas City,Missouri
+2016-03-20,2016-03-21,26-35,TV+Internet,TV Bundle,Add,100,5,Roger,Mitchell,Male,Farmington,Michigan
+2016-03-26,2016-03-27,46-55,Wireless,Mobile Share 15GB,Add,100,5,Paula,Nguyen,Female,Miami,Florida
+2016-03-16,2016-03-17,36-45,Wireless,Mobile Share 30GB,Add,200,3,Andrea,Burke,Female,Los Angeles,California
+2016-03-28,2016-03-28,16-25,Wireless,Mobile Share 30GB,Add,200,5,Julia,Cox,Female,Springfield,Ohio
+2016-03-06,2016-03-06,46-55,Wireless,Mobile Share 30GB,Add,200,3,Kathleen,Wagner,Female,Lake Worth,Florida
+2016-03-29,2016-03-29,26-35,Wireless,Mobile Share 30GB,Add,200,3,Chris,Andrews,Male,Saint Louis,Missouri
+2016-03-13,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,3,Ruth,Carter,Female,San Antonio,Texas
+2016-03-19,2016-03-20,46-55,TV+Internet,TV Bundle,Add,100,3,Ralph,Garcia,Male,Warren,Michigan
+2016-03-09,2016-03-10,26-35,TV+Internet,TV Bundle,Add,100,7,William,Graham,Male,Birmingham,Alabama
+2016-03-19,2016-03-20,16-25,TV+Internet,TV Bundle,Add,100,3,Jane,Hughes,Female,Hollywood,Florida
+2016-03-28,2016-03-29,16-25,Wireless,Mobile Share 30GB,Add,200,3,Matthew,Murray,Male,Saint Louis,Missouri
+2016-03-21,2016-03-22,16-25,TV+Internet,TV Bundle,Add,100,7,Douglas,Cox,Male,Inglewood,California
+2016-03-12,2016-03-13,36-45,TV,Premium,Add,125,5,Margaret,Stone,Female,Mobile,Alabama
+2016-03-06,2016-03-07,26-35,TV+Internet,TV Bundle,Add,100,3,Timothy,Rodriguez,Male,Buffalo,New York
+2016-03-17,2016-03-18,46-55,Wireless,Mobile Share 30GB,Add,200,3,Terry,Allen,Male,Miami,Florida
+2016-03-15,2016-03-16,46-55,Wireless,Mobile Share 30GB,Add,200,3,Lori,Perkins,Female,El Paso,Texas
+2016-03-10,2016-03-11,16-25,Wireless,Mobile Share 15GB,Cancel,100,7,Norma,Kennedy,Female,Oakland,California
+2016-03-10,2016-03-11,26-35,TV+Internet,TV Bundle,Add,100,5,Christine,Kennedy,Female,Bradenton,Florida
+2016-03-13,2016-03-14,16-25,TV,Premium,Add,125,5,Cheryl,Gutierrez,Female,San Bernardino,California
+2016-03-12,2016-03-13,16-25,TV+Internet,TV Bundle,Add,100,7,Martha,Williams,Female,Shawnee Mission,Kansas
+2016-03-23,2016-03-24,16-25,Wireless,Mobile Share 50GB,Add,350,3,Mary,Marshall,Female,Charleston,South Carolina
+2016-03-08,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,3,Melissa,Clark,Female,Portsmouth,Virginia
+2016-03-13,2016-03-14,26-35,Wireless,Internet,Add,60,5,Ernest,Alexander,Male,Inglewood,California
+2016-03-29,2016-03-30,26-35,Wireless,Mobile Share 30GB,Add,200,3,Phyllis,Martinez,Female,Stockton,California
+2016-03-30,2016-03-30,36-45,Wireless,Internet,Add,60,5,Lawrence,Murphy,Male,Jeffersonville,Indiana
+2016-03-23,2016-03-24,46-55,Wireless,Internet,Add,60,7,Betty,West,Female,New York City,New York
+2016-03-05,2016-03-06,46-55,Wireless,Internet,Cancel,60,3,Jonathan,Turner,Male,Phoenix,Arizona
+2016-03-20,2016-03-20,36-45,Wireless,Mobile Share 50GB,Add,350,3,Jason,Berry,Male,Aiken,South Carolina
+2016-03-04,2016-03-05,36-45,Wireless,Mobile Share 50GB,Add,350,5,Brenda,Jenkins,Female,Salt Lake City,Utah
+2016-03-05,2016-03-06,16-25,Wireless,Mobile Share 30GB,Cancel,200,3,Marie,Allen,Female,Chandler,Arizona
+2016-03-19,2016-03-19,46-55,TV,Basic,Cancel,75,7,Larry,Barnes,Male,Duluth,Georgia
+2016-03-14,2016-03-15,36-45,TV,Premium,Add,125,5,Theresa,Marshall,Female,San Luis Obispo,California
+2016-03-02,2016-03-03,46-55,Wireless,Mobile Share 50GB,Add,350,5,Fred,Russell,Male,Stockton,California
+2016-03-30,2016-03-31,16-25,TV+Internet,TV Bundle,Add,100,5,Timothy,Castillo,Male,Louisville,Kentucky
+2016-03-12,2016-03-13,26-35,TV+Internet,TV Bundle,Add,100,7,Lois,Marshall,Female,Houston,Texas
+2016-03-09,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,7,Anthony,Mccoy,Male,New York City,New York
+2016-03-19,2016-03-20,46-55,TV,Basic,Add,75,7,Jean,Henderson,Female,Los Angeles,California
+2016-03-07,2016-03-08,26-35,Wireless,Mobile Share 15GB,Add,125,7,Billy,Wagner,Male,Huntsville,Alabama
+2016-03-02,2016-03-03,36-45,Wireless,Mobile Share 15GB,Add,125,7,Timothy,Harper,Male,Milwaukee,Wisconsin
+2016-03-02,2016-03-03,16-25,TV+Internet,TV Bundle,Add,100,5,Donna,Moore,Female,Houston,Texas
+2016-03-04,2016-03-05,16-25,TV+Internet,TV Bundle,Add,100,3,Denise,Castillo,Female,New York City,New York
+2016-03-11,2016-03-11,36-45,Wireless,Internet,Add,60,7,Jean,Willis,Female,Houston,Texas
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,5,Bruce,Nichols,Male,Shawnee Mission,Kansas
+2016-03-19,2016-03-20,46-55,TV+Internet,TV Bundle,Add,100,7,Earl,Sanders,Male,Fort Collins,Colorado
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,5,Jesse,Collins,Male,Johnstown,Pennsylvania
+2016-03-19,2016-03-20,26-35,TV+Internet,TV Bundle,Add,100,7,Nicholas,Olson,Male,Rochester,New York
+2016-03-20,2016-03-21,36-45,TV+Internet,TV Bundle,Add,100,3,Antonio,Little,Male,Van Nuys,California
+2016-03-25,2016-03-26,26-35,TV+Internet,TV Bundle,Add,100,7,Marie,Ferguson,Female,Santa Barbara,California
+2016-03-15,2016-03-15,16-25,TV,Premium,Add,125,3,Louis,Cook,Male,Rochester,New York
+2016-03-06,2016-03-07,26-35,Wireless,Mobile Share 15GB,Cancel,125,5,Beverly,Reyes,Female,Fargo,North Dakota
+2016-03-24,2016-03-25,36-45,Wireless,Internet,Add,60,7,Charles,Lane,Male,Tyler,Texas
+2016-03-26,2016-03-27,16-25,TV+Internet,TV Bundle,Add,100,7,Amy,Bradley,Female,Philadelphia,Pennsylvania
+2016-03-10,2016-03-10,26-35,Wireless,Mobile Share 50GB,Add,350,3,Michelle,Welch,Female,Warren,Michigan
+2016-03-22,2016-03-23,36-45,TV+Internet,TV Bundle,Add,100,7,Anne,Lee,Female,San Diego,California
+2016-03-25,2016-03-26,26-35,Wireless,Mobile Share 30GB,Add,200,7,David,Andrews,Male,Shreveport,Louisiana
+2016-03-22,2016-03-22,36-45,TV,Basic,Add,75,5,Roger,Richardson,Male,Waco,Texas
+2016-03-24,2016-03-25,26-35,Wireless,Mobile Share 15GB,Add,100,7,Evelyn,Jacobs,Female,Peoria,Illinois
+2016-03-27,2016-03-28,46-55,TV+Internet,TV Bundle,Add,100,3,Judy,Berry,Female,Cleveland,Ohio
+2016-03-21,2016-03-21,26-35,TV+Internet,TV Bundle,Add,100,3,Jerry,Fox,Male,Cedar Rapids,Iowa
+2016-03-01,2016-03-02,16-25,Wireless,Mobile Share 30GB,Add,200,5,Catherine,Alexander,Female,Springfield,Illinois
+2016-03-23,2016-03-24,46-55,TV,Basic,Add,75,5,Ruth,Campbell,Female,Houston,Texas
+2016-03-19,2016-03-20,26-35,Wireless,Mobile Share 50GB,Add,350,3,Wayne,Wood,Male,Irvine,California
+2016-03-12,2016-03-13,36-45,Wireless,Internet,Add,60,5,Sandra,Cunningham,Female,Louisville,Kentucky
+2016-03-05,2016-03-06,26-35,TV+Internet,TV Bundle,Add,100,7,Russell,Burton,Male,Los Angeles,California
+2016-03-10,2016-03-11,16-25,TV+Internet,TV Bundle,Add,100,5,Katherine,Fernandez,Female,Cleveland,Ohio
+2016-03-30,2016-03-31,26-35,TV+Internet,TV Bundle,Add,100,3,Phyllis,Alvarez,Female,Tacoma,Washington
+2016-03-28,2016-03-29,16-25,Wireless,Mobile Share 30GB,Add,200,5,Rose,Spencer,Female,Naples,Florida
+2016-03-28,2016-03-29,46-55,TV,Basic,Add,75,7,Brandon,Palmer,Male,Louisville,Kentucky
+2016-03-09,2016-03-10,46-55,TV+Internet,TV Bundle,Add,100,5,Catherine,Oliver,Female,Dearborn,Michigan
+2016-03-17,2016-03-17,46-55,TV,Premium,Add,125,7,Dennis,Hunter,Male,New Haven,Connecticut
+2016-03-06,2016-03-07,36-45,TV+Internet,TV Bundle,Add,100,7,Diane,Parker,Female,Newport News,Virginia
+2016-03-29,2016-03-30,16-25,TV+Internet,TV Bundle,Add,100,5,Keith,Elliott,Male,Grand Forks,North Dakota
+2016-03-19,2016-03-19,46-55,TV,Premium,Cancel,125,5,Janet,Hughes,Female,Evansville,Indiana
+2016-03-24,2016-03-25,46-55,TV+Internet,TV Bundle,Add,100,7,Paul,Ruiz,Male,Jamaica,New York
+2016-03-31,2016-04-01,46-55,TV,Basic,Add,75,7,Jane,Garza,Female,Springfield,Ohio
+2016-03-26,2016-03-27,36-45,TV+Internet,TV Bundle,Add,100,5,Kathleen,Garcia,Female,Tampa,Florida
+2016-03-28,2016-03-29,36-45,Wireless,Mobile Share 30GB,Add,200,5,Russell,Ford,Male,Houston,Texas
+2016-03-18,2016-03-19,46-55,Wireless,Mobile Share 30GB,Add,200,7,Sean,Adams,Male,Seattle,Washington
+2016-03-27,2016-03-28,26-35,Wireless,Mobile Share 50GB,Add,350,7,Elizabeth,Vasquez,Female,San Diego,California
+2016-03-03,2016-03-03,46-55,Wireless,Mobile Share 15GB,Add,125,3,Phyllis,Adams,Female,Salt Lake City,Utah
+2016-03-09,2016-03-10,26-35,TV+Internet,TV Bundle,Add,100,3,Marie,Palmer,Female,Washington,District of Columbia
+2016-03-20,2016-03-21,26-35,TV+Internet,TV Bundle,Add,100,5,Kimberly,Lawson,Female,Stockton,California
+2016-03-02,2016-03-03,36-45,Wireless,Internet,Add,60,7,Louise,Andrews,Female,Albuquerque,New Mexico
+2016-03-05,2016-03-06,26-35,Wireless,Internet,Add,60,3,Daniel,Burke,Male,Mobile,Alabama
+2016-03-01,2016-03-01,26-35,TV+Internet,TV Bundle,Cancel,100,3,Ernest,Fisher,Male,Houston,Texas
+2016-03-20,2016-03-20,46-55,TV+Internet,TV Bundle,Add,100,3,Todd,Richards,Male,Cincinnati,Ohio
+2016-03-16,2016-03-16,16-25,TV,Basic,Add,75,3,Dennis,Lewis,Male,Davenport,Iowa
+2016-03-19,2016-03-20,26-35,Wireless,Mobile Share 30GB,Cancel,200,5,Karen,Barnes,Female,Jamaica,New York
+2016-03-22,2016-03-23,16-25,Wireless,Mobile Share 15GB,Add,100,3,Steven,Cunningham,Male,Youngstown,Ohio
+2016-03-18,2016-03-19,36-45,TV+Internet,TV Bundle,Add,100,7,Paula,Greene,Female,Milwaukee,Wisconsin
+2016-03-29,2016-03-30,36-45,TV,Basic,Add,75,3,Jason,Wilson,Male,Dayton,Ohio
+2016-03-27,2016-03-28,36-45,TV+Internet,TV Bundle,Add,100,7,Ralph,Bailey,Male,Washington,District of Columbia
+2016-03-10,2016-03-11,16-25,TV+Internet,TV Bundle,Add,100,5,Kathleen,Graham,Female,Tucson,Arizona
+2016-03-23,2016-03-24,16-25,TV+Internet,TV Bundle,Add,100,3,Mary,Webb,Female,Yonkers,New York
+2016-03-17,2016-03-18,46-55,TV,Basic,Add,75,5,Ryan,Welch,Male,Jefferson City,Missouri
+2016-03-06,2016-03-07,26-35,Wireless,Mobile Share 15GB,Add,125,3,Christine,Hayes,Female,Salt Lake City,Utah
+2016-03-24,2016-03-25,16-25,TV,Basic,Add,75,7,Jeffrey,Rogers,Male,Houston,Texas
+2016-03-10,2016-03-11,26-35,TV+Internet,TV Bundle,Add,100,5,Lawrence,Reed,Male,Columbus,Ohio
+2016-03-23,2016-03-24,36-45,TV,Basic,Add,75,7,Ralph,Hicks,Male,Fresno,California
+2016-03-23,2016-03-24,26-35,TV,Basic,Add,75,3,Earl,Graham,Male,Cleveland,Ohio
+2016-03-07,2016-03-08,26-35,Wireless,Mobile Share 50GB,Cancel,350,5,Adam,Welch,Male,El Paso,Texas
+2016-03-14,2016-03-14,26-35,Wireless,Mobile Share 30GB,Add,200,5,Robin,Hudson,Female,Dallas,Texas
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,5,Donna,Hunt,Female,New York City,New York
+2016-03-04,2016-03-05,46-55,Wireless,Mobile Share 30GB,Add,200,3,Steven,Baker,Male,San Diego,California
+2016-03-30,2016-03-31,26-35,TV+Internet,TV Bundle,Add,100,3,Mary,Wilson,Female,Houston,Texas
+2016-03-07,2016-03-08,36-45,TV+Internet,TV Bundle,Add,100,7,Juan,Spencer,Male,Sarasota,Florida
+2016-03-06,2016-03-07,46-55,TV+Internet,TV Bundle,Add,100,5,Raymond,White,Male,Chicago,Illinois
+2016-03-15,2016-03-16,46-55,TV,Basic,Add,75,5,Betty,Ramirez,Female,Pasadena,California
+2016-03-15,2016-03-16,46-55,TV,Premium,Add,125,5,Walter,Thompson,Male,Fort Lauderdale,Florida
+2016-03-21,2016-03-22,26-35,TV,Basic,Cancel,75,7,Rebecca,Arnold,Female,Seattle,Washington
+2016-03-11,2016-03-12,46-55,TV+Internet,TV Bundle,Cancel,100,5,Ruby,Day,Female,Glendale,Arizona
+2016-03-29,2016-03-30,26-35,TV+Internet,TV Bundle,Add,100,7,Douglas,Carter,Male,Huntington,West Virginia
+2016-03-07,2016-03-08,46-55,Wireless,Mobile Share 15GB,Cancel,125,7,Edward,Stevens,Male,Irvine,California
+2016-03-10,2016-03-11,26-35,Wireless,Mobile Share 30GB,Add,200,5,Clarence,Carr,Male,Los Angeles,California
+2016-03-21,2016-03-22,46-55,Wireless,Mobile Share 30GB,Add,200,5,Edward,Freeman,Male,Omaha,Nebraska
+2016-03-10,2016-03-11,26-35,Wireless,Mobile Share 30GB,Add,200,3,Martha,Perry,Female,Washington,District of Columbia
+2016-03-15,2016-03-16,16-25,TV,Basic,Add,75,3,Charles,Nichols,Male,Spokane,Washington
+2016-03-05,2016-03-06,26-35,TV+Internet,TV Bundle,Add,100,5,Shawn,Brown,Male,Orlando,Florida
+2016-03-15,2016-03-16,46-55,TV+Internet,TV Bundle,Cancel,100,3,Evelyn,Morales,Female,Toledo,Ohio
+2016-03-06,2016-03-07,16-25,Wireless,Internet,Add,60,5,Judith,Gonzalez,Female,Bonita Springs,Florida
+2016-03-28,2016-03-29,26-35,TV,Basic,Add,75,7,Terry,Gibson,Male,Fresno,California
+2016-03-16,2016-03-17,16-25,TV+Internet,TV Bundle,Add,100,5,Jennifer,Sanchez,Female,Sacramento,California
+2016-03-27,2016-03-28,36-45,Wireless,Mobile Share 30GB,Add,200,5,Joyce,Armstrong,Female,Newton,Massachusetts
+2016-03-15,2016-03-16,46-55,Wireless,Mobile Share 30GB,Add,200,5,Lillian,Ray,Female,San Francisco,California
+2016-03-04,2016-03-05,26-35,TV+Internet,TV Bundle,Add,100,7,Craig,Kelley,Male,Lexington,Kentucky
+2016-03-17,2016-03-18,26-35,TV,Premium,Add,125,7,Sarah,Garcia,Female,Roanoke,Virginia
+2016-03-11,2016-03-12,36-45,TV+Internet,TV Bundle,Add,100,5,Jessica,Garcia,Female,Cleveland,Ohio
+2016-03-17,2016-03-17,26-35,TV+Internet,TV Bundle,Add,100,7,Ernest,Welch,Male,San Jose,California
+2016-03-01,2016-03-02,26-35,TV+Internet,TV Bundle,Cancel,100,3,Frank,Little,Male,Oklahoma City,Oklahoma
+2016-03-26,2016-03-27,46-55,Wireless,Mobile Share 30GB,Add,200,7,Philip,Gilbert,Male,Oklahoma City,Oklahoma
+2016-03-11,2016-03-11,16-25,TV+Internet,TV Bundle,Cancel,100,5,Pamela,Knight,Female,Canton,Ohio
+2016-03-30,2016-03-31,26-35,Wireless,Mobile Share 30GB,Add,200,7,Amanda,Carr,Female,Harrisburg,Pennsylvania
+2016-03-18,2016-03-19,36-45,Wireless,Mobile Share 30GB,Cancel,200,3,Wayne,Black,Male,Wilmington,Delaware
+2016-03-09,2016-03-10,46-55,Wireless,Mobile Share 30GB,Add,200,7,Juan,Stone,Male,Phoenix,Arizona
+2016-03-11,2016-03-12,26-35,TV+Internet,TV Bundle,Add,100,7,Rose,Burns,Female,Cincinnati,Ohio
+2016-03-26,2016-03-27,16-25,Wireless,Mobile Share 30GB,Add,200,7,Gary,Chapman,Male,Greensboro,North Carolina
+2016-03-13,2016-03-14,36-45,Wireless,Internet,Add,60,3,Willie,Lewis,Male,Sterling,Virginia
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,3,Ralph,Hansen,Male,Syracuse,New York
+2016-03-25,2016-03-26,26-35,TV+Internet,TV Bundle,Add,100,5,Frank,Cook,Male,Mc Keesport,Pennsylvania
+2016-03-12,2016-03-13,36-45,TV+Internet,TV Bundle,Add,100,7,Brandon,Turner,Male,Fayetteville,North Carolina
+2016-03-16,2016-03-17,36-45,TV+Internet,TV Bundle,Add,100,3,Irene,Dunn,Female,Oklahoma City,Oklahoma
+2016-03-04,2016-03-05,16-25,TV+Internet,TV Bundle,Add,100,3,Chris,Phillips,Male,Albany,New York
+2016-03-06,2016-03-06,16-25,Wireless,Mobile Share 30GB,Add,200,7,Joan,Bell,Female,Boise,Idaho
+2016-03-24,2016-03-25,46-55,Wireless,Internet,Add,60,7,David,Warren,Male,Houston,Texas
+2016-03-23,2016-03-24,16-25,Wireless,Mobile Share 30GB,Add,200,7,Janice,Moreno,Female,Rochester,New York
+2016-03-17,2016-03-18,36-45,Wireless,Mobile Share 50GB,Add,350,5,Gregory,Weaver,Male,Delray Beach,Florida
+2016-03-06,2016-03-07,46-55,TV,Basic,Add,75,7,Todd,Jordan,Male,Kansas City,Missouri
+2016-03-13,2016-03-14,16-25,TV,Basic,Add,75,7,Martin,Bell,Male,Lynn,Massachusetts
+2016-03-31,2016-04-01,26-35,TV+Internet,TV Bundle,Add,100,3,Henry,Gonzales,Male,Seattle,Washington
+2016-03-14,2016-03-15,36-45,TV+Internet,TV Bundle,Add,100,7,Steve,Murray,Male,San Diego,California
+2016-03-27,2016-03-28,26-35,TV+Internet,TV Bundle,Add,100,3,Patrick,Payne,Male,Hialeah,Florida
+2016-03-25,2016-03-26,16-25,Wireless,Mobile Share 30GB,Add,200,5,Deborah,Nelson,Female,El Paso,Texas
+2016-03-19,2016-03-20,36-45,TV,Basic,Add,75,5,Kevin,Garrett,Male,South Lake Tahoe,California
+2016-03-13,2016-03-14,36-45,TV+Internet,TV Bundle,Add,100,5,Judy,Sims,Female,New York City,New York
+2016-03-30,2016-03-30,36-45,TV+Internet,TV Bundle,Add,100,5,Carlos,Williams,Male,Corpus Christi,Texas
+2016-03-11,2016-03-12,46-55,TV,Premium,Cancel,125,7,Joe,Moore,Male,Hampton,Virginia
+2016-03-03,2016-03-04,46-55,Wireless,Mobile Share 15GB,Cancel,100,5,Earl,Day,Male,Louisville,Kentucky
+2016-03-06,2016-03-07,16-25,TV,Basic,Add,75,3,Chris,Gutierrez,Male,Saint Louis,Missouri
+2016-03-23,2016-03-24,36-45,Wireless,Mobile Share 30GB,Add,200,5,Ryan,Peterson,Male,Fresno,California
+2016-03-01,2016-03-01,26-35,Wireless,Internet,Add,60,3,Carlos,Mccoy,Male,Syracuse,New York
+2016-03-30,2016-03-30,36-45,Wireless,Mobile Share 30GB,Add,200,7,Anthony,Lopez,Male,Abilene,Texas
+2016-03-30,2016-03-31,16-25,Wireless,Mobile Share 15GB,Add,125,5,Mary,Payne,Female,Sacramento,California
+2016-03-11,2016-03-12,16-25,TV+Internet,TV Bundle,Add,100,7,Randy,Hall,Male,Newark,New Jersey
+2016-03-30,2016-03-31,36-45,Wireless,Mobile Share 15GB,Add,100,7,Teresa,Cooper,Female,Huntington,West Virginia
+2016-03-05,2016-03-05,36-45,Wireless,Mobile Share 15GB,Add,100,3,Earl,Medina,Male,Springfield,Illinois
+2016-03-23,2016-03-24,46-55,Wireless,Mobile Share 50GB,Add,350,3,Denise,Bishop,Female,Albany,New York
+2016-03-16,2016-03-17,26-35,Wireless,Mobile Share 30GB,Add,200,7,Howard,Castillo,Male,Jacksonville,Florida
+2016-03-11,2016-03-11,16-25,Wireless,Mobile Share 50GB,Add,350,5,Tammy,Ryan,Female,Charleston,West Virginia
+2016-03-06,2016-03-07,16-25,TV+Internet,TV Bundle,Add,100,3,Louis,Turner,Male,New York City,New York
+2016-03-31,2016-03-31,46-55,TV+Internet,TV Bundle,Add,100,7,Joe,Welch,Male,Flushing,New York
+2016-03-30,2016-03-31,16-25,TV+Internet,TV Bundle,Add,100,7,Lawrence,Howard,Male,Salt Lake City,Utah
+2016-03-21,2016-03-22,26-35,Wireless,Mobile Share 15GB,Add,125,7,Anna,Price,Female,Washington,District of Columbia
+2016-03-10,2016-03-11,26-35,Wireless,Mobile Share 30GB,Cancel,200,3,Billy,Diaz,Male,Raleigh,North Carolina
+2016-03-28,2016-03-29,46-55,TV+Internet,TV Bundle,Add,100,7,James,Berry,Male,Waltham,Massachusetts
+2016-03-13,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,5,Carolyn,Dixon,Female,Memphis,Tennessee
+2016-03-27,2016-03-28,36-45,TV+Internet,TV Bundle,Add,100,7,Christine,Campbell,Female,New York City,New York
+2016-03-19,2016-03-20,16-25,TV+Internet,TV Bundle,Add,100,5,Irene,Graham,Female,Lake Charles,Louisiana
+2016-03-21,2016-03-22,16-25,TV+Internet,TV Bundle,Add,100,7,Jessica,Garza,Female,Dallas,Texas
+2016-03-25,2016-03-26,36-45,Wireless,Mobile Share 30GB,Add,200,7,Frank,Shaw,Male,Cincinnati,Ohio
+2016-03-28,2016-03-29,26-35,TV+Internet,TV Bundle,Add,100,7,Christine,Ramos,Female,Savannah,Georgia
+2016-03-02,2016-03-03,26-35,TV+Internet,TV Bundle,Add,100,5,Paul,George,Male,El Paso,Texas
+2016-03-14,2016-03-15,46-55,Wireless,Mobile Share 50GB,Add,350,5,Terry,Burton,Male,Albany,New York
+2016-03-27,2016-03-28,16-25,Wireless,Mobile Share 30GB,Add,200,3,Timothy,Burns,Male,Panama City,Florida
+2016-03-15,2016-03-15,46-55,TV+Internet,TV Bundle,Add,100,5,Rachel,Jordan,Female,Topeka,Kansas
+2016-03-23,2016-03-24,46-55,Wireless,Mobile Share 30GB,Add,200,3,Bruce,Graham,Male,Houston,Texas
+2016-03-19,2016-03-20,46-55,TV,Premium,Add,125,7,Christine,Morrison,Female,Jamaica,New York
+2016-03-30,2016-03-31,26-35,Wireless,Mobile Share 30GB,Add,200,5,Sara,Bishop,Female,Los Angeles,California
+2016-03-02,2016-03-03,16-25,TV,Premium,Add,125,5,Janet,Hicks,Female,North Hollywood,California
+2016-03-16,2016-03-16,36-45,Wireless,Mobile Share 30GB,Add,200,7,Chris,Cook,Male,San Antonio,Texas
+2016-03-15,2016-03-16,36-45,TV,Basic,Add,75,7,Wanda,Montgomery,Female,Arlington,Virginia
+2016-03-07,2016-03-08,26-35,TV+Internet,TV Bundle,Add,100,5,Bonnie,Lawson,Female,Dayton,Ohio
+2016-03-14,2016-03-15,16-25,Wireless,Mobile Share 30GB,Cancel,200,7,Judy,Fisher,Female,San Antonio,Texas
+2016-03-19,2016-03-20,46-55,TV,Premium,Add,125,7,Shirley,Cruz,Female,Charlotte,North Carolina
+2016-03-10,2016-03-11,26-35,TV,Basic,Add,75,3,Kathryn,Thompson,Female,Hartford,Connecticut
+2016-03-01,2016-03-02,26-35,TV,Premium,Add,125,3,Ralph,Harvey,Male,Sacramento,California
+2016-03-10,2016-03-10,16-25,Wireless,Mobile Share 15GB,Add,100,7,Aaron,Rice,Male,Birmingham,Alabama
+2016-03-14,2016-03-15,26-35,Wireless,Mobile Share 30GB,Cancel,200,7,Ruby,Ruiz,Female,Amarillo,Texas
+2016-03-20,2016-03-21,26-35,Wireless,Mobile Share 30GB,Add,200,3,Carlos,Stevens,Male,Phoenix,Arizona
+2016-03-26,2016-03-27,36-45,TV+Internet,TV Bundle,Add,100,7,Paula,Graham,Female,Salt Lake City,Utah
+2016-03-25,2016-03-26,46-55,TV,Basic,Add,75,5,David,Cook,Male,Kansas City,Kansas
+2016-03-16,2016-03-17,36-45,Wireless,Mobile Share 50GB,Add,350,5,Paul,King,Male,Largo,Florida
+2016-03-02,2016-03-03,16-25,TV+Internet,TV Bundle,Add,100,3,Michael,Mccoy,Male,Asheville,North Carolina
+2016-03-18,2016-03-19,46-55,TV,Basic,Cancel,75,7,Teresa,George,Female,Youngstown,Ohio
+2016-03-17,2016-03-18,46-55,TV+Internet,TV Bundle,Add,100,3,Johnny,Peterson,Male,Glendale,Arizona
+2016-03-17,2016-03-18,46-55,TV,Basic,Add,75,3,Scott,Woods,Male,Minneapolis,Minnesota
+2016-03-21,2016-03-22,16-25,TV+Internet,TV Bundle,Add,100,3,Betty,Snyder,Female,Flint,Michigan
+2016-03-07,2016-03-07,16-25,TV+Internet,TV Bundle,Add,100,5,Andrea,Bishop,Female,Miami,Florida
+2016-03-30,2016-03-30,46-55,Wireless,Internet,Add,60,5,Patricia,Chapman,Female,Springfield,Massachusetts
+2016-03-09,2016-03-10,16-25,Wireless,Mobile Share 15GB,Add,100,5,Craig,Collins,Male,Youngstown,Ohio
+2016-03-18,2016-03-19,36-45,TV,Basic,Add,75,5,Marilyn,Watkins,Female,Des Moines,Iowa
+2016-03-22,2016-03-23,16-25,Wireless,Mobile Share 30GB,Add,200,3,Theresa,Medina,Female,Tampa,Florida
+2016-03-14,2016-03-15,46-55,TV,Premium,Add,125,3,Bruce,Campbell,Male,Dallas,Texas
+2016-03-05,2016-03-06,36-45,TV+Internet,TV Bundle,Add,100,5,Richard,Miller,Male,Salt Lake City,Utah
+2016-03-06,2016-03-07,46-55,Wireless,Mobile Share 30GB,Add,200,5,Patrick,Fowler,Male,Charleston,West Virginia
+2016-03-12,2016-03-12,46-55,TV+Internet,TV Bundle,Add,100,3,James,Wells,Male,Jefferson City,Missouri
+2016-03-07,2016-03-08,46-55,TV+Internet,TV Bundle,Add,100,3,Rachel,Cole,Female,Denver,Colorado
+2016-03-27,2016-03-28,16-25,Wireless,Internet,Add,60,5,Michael,Harvey,Male,Young America,Minnesota
+2016-03-07,2016-03-08,46-55,TV,Basic,Add,75,7,John,Armstrong,Male,Houston,Texas
+2016-03-26,2016-03-26,16-25,TV+Internet,TV Bundle,Add,100,5,Patricia,Gonzales,Female,Sacramento,California
+2016-03-19,2016-03-20,46-55,TV+Internet,TV Bundle,Add,100,7,Todd,Martinez,Male,Des Moines,Iowa
+2016-03-17,2016-03-18,46-55,TV,Premium,Add,125,3,William,Castillo,Male,New York City,New York
+2016-03-30,2016-03-30,46-55,Wireless,Internet,Add,60,3,Andrea,Gonzalez,Female,San Diego,California
+2016-03-20,2016-03-21,16-25,Wireless,Mobile Share 30GB,Add,200,3,Willie,Hunt,Male,Jersey City,New Jersey
+2016-03-11,2016-03-12,46-55,TV+Internet,TV Bundle,Add,100,5,Kimberly,Long,Female,Lakeland,Florida
+2016-03-08,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,7,Linda,Willis,Female,San Diego,California
+2016-03-07,2016-03-07,36-45,Wireless,Mobile Share 30GB,Add,200,7,Ashley,Kennedy,Female,Winston Salem,North Carolina
+2016-03-02,2016-03-03,36-45,TV,Premium,Add,125,3,Norma,Mccoy,Female,Young America,Minnesota
+2016-03-05,2016-03-06,36-45,Wireless,Mobile Share 30GB,Add,200,3,Paul,Morales,Male,Saint Paul,Minnesota
+2016-03-21,2016-03-22,36-45,Wireless,Mobile Share 15GB,Add,125,5,Janice,Castillo,Female,Jackson,Mississippi
+2016-03-16,2016-03-17,36-45,TV,Basic,Add,75,5,Carolyn,Watkins,Female,Charlotte,North Carolina
+2016-03-14,2016-03-15,16-25,Wireless,Mobile Share 30GB,Add,200,7,Carolyn,Alexander,Female,Tucson,Arizona
+2016-03-20,2016-03-21,16-25,Wireless,Mobile Share 30GB,Add,200,5,Justin,Clark,Male,Salt Lake City,Utah
+2016-03-03,2016-03-04,26-35,Wireless,Mobile Share 30GB,Add,200,7,Terry,Miller,Male,Wilmington,Delaware
+2016-03-22,2016-03-23,36-45,Wireless,Mobile Share 15GB,Add,100,7,Patrick,Patterson,Male,Phoenix,Arizona
+2016-03-10,2016-03-11,16-25,Wireless,Mobile Share 15GB,Add,100,7,Harry,Mcdonald,Male,New Haven,Connecticut
+2016-03-16,2016-03-17,26-35,Wireless,Mobile Share 30GB,Add,200,7,Emily,Lawson,Female,San Francisco,California
+2016-03-11,2016-03-12,26-35,TV+Internet,TV Bundle,Add,100,7,Laura,Weaver,Female,Irvine,California
+2016-03-07,2016-03-08,36-45,TV+Internet,TV Bundle,Add,100,7,Sandra,White,Female,Kalamazoo,Michigan
+2016-03-01,2016-03-02,46-55,TV,Basic,Add,75,5,Johnny,Baker,Male,Salt Lake City,Utah
+2016-03-07,2016-03-08,46-55,Wireless,Mobile Share 15GB,Add,125,3,Marie,Foster,Female,Glendale,California
+2016-03-27,2016-03-28,26-35,Wireless,Mobile Share 15GB,Add,100,7,Ashley,Hughes,Female,Trenton,New Jersey
+2016-03-15,2016-03-16,16-25,Wireless,Mobile Share 50GB,Add,350,7,Lori,Green,Female,Gilbert,Arizona
+2016-03-31,2016-04-01,46-55,TV+Internet,TV Bundle,Add,100,7,Lisa,Garcia,Female,San Luis Obispo,California
+2016-03-16,2016-03-17,36-45,TV+Internet,TV Bundle,Add,100,7,Aaron,Weaver,Male,Columbus,Georgia
+2016-03-08,2016-03-09,26-35,TV+Internet,TV Bundle,Add,100,5,Victor,Bradley,Male,Fort Worth,Texas
+2016-03-16,2016-03-17,46-55,TV,Basic,Cancel,75,5,Sarah,Crawford,Female,New York City,New York
+2016-03-03,2016-03-04,26-35,TV,Basic,Add,75,7,Mark,Cook,Male,Arvada,Colorado
+2016-03-08,2016-03-09,36-45,TV+Internet,TV Bundle,Cancel,100,5,Larry,Frazier,Male,Lansing,Michigan
+2016-03-07,2016-03-08,46-55,Wireless,Internet,Add,60,7,Kimberly,Knight,Female,Santa Barbara,California
+2016-03-19,2016-03-20,36-45,TV,Premium,Add,125,3,Marie,Duncan,Female,Jersey City,New Jersey
+2016-03-07,2016-03-08,16-25,TV+Internet,TV Bundle,Add,100,7,Steve,Woods,Male,Tulsa,Oklahoma
+2016-03-30,2016-03-31,46-55,Wireless,Internet,Add,60,3,Alice,George,Female,Farmington,Michigan
+2016-03-15,2016-03-16,36-45,Wireless,Mobile Share 15GB,Add,100,5,Rebecca,Hernandez,Female,Brooklyn,New York
+2016-03-03,2016-03-04,26-35,Wireless,Mobile Share 50GB,Add,350,5,Willie,Gray,Male,Largo,Florida
+2016-03-19,2016-03-20,36-45,Wireless,Internet,Add,60,7,Julia,Dean,Female,Nashville,Tennessee
+2016-03-20,2016-03-21,16-25,TV+Internet,TV Bundle,Add,100,3,Catherine,Fisher,Female,Carlsbad,California
+2016-03-02,2016-03-03,26-35,TV+Internet,TV Bundle,Add,100,3,Lori,Hamilton,Female,Lexington,Kentucky
+2016-03-11,2016-03-12,16-25,Wireless,Mobile Share 15GB,Cancel,125,7,Howard,Medina,Male,Columbus,Ohio
+2016-03-17,2016-03-18,46-55,TV+Internet,TV Bundle,Add,100,3,Karen,Perkins,Female,Brockton,Massachusetts
+2016-03-23,2016-03-23,46-55,TV,Basic,Add,75,5,Aaron,Chapman,Male,Portland,Oregon
+2016-03-02,2016-03-03,46-55,TV+Internet,TV Bundle,Add,100,3,Mildred,Shaw,Female,Richmond,Virginia
+2016-03-12,2016-03-13,46-55,Wireless,Mobile Share 50GB,Add,350,7,Kathy,Tucker,Female,Boise,Idaho
+2016-03-08,2016-03-09,26-35,Wireless,Internet,Add,60,3,Randy,Kelley,Male,Fort Worth,Texas
+2016-03-04,2016-03-05,36-45,Wireless,Mobile Share 15GB,Add,100,3,Annie,Holmes,Female,Cleveland,Ohio
+2016-03-10,2016-03-11,26-35,Wireless,Mobile Share 30GB,Add,200,3,Mildred,Barnes,Female,Baltimore,Maryland
+2016-03-11,2016-03-12,16-25,TV+Internet,TV Bundle,Add,100,7,Carl,Watson,Male,Cincinnati,Ohio
+2016-03-09,2016-03-10,46-55,TV+Internet,TV Bundle,Add,100,3,Carl,Garrett,Male,North Las Vegas,Nevada
+2016-03-30,2016-03-30,26-35,TV,Basic,Add,75,3,Pamela,Hamilton,Female,New Orleans,Louisiana
+2016-03-28,2016-03-29,26-35,Wireless,Mobile Share 15GB,Add,100,3,Bobby,Dunn,Male,Philadelphia,Pennsylvania
+2016-03-25,2016-03-26,46-55,TV+Internet,TV Bundle,Cancel,100,7,Christopher,Green,Male,New York City,New York
+2016-03-03,2016-03-03,36-45,Wireless,Mobile Share 50GB,Add,350,7,Rebecca,Harper,Female,Chicago,Illinois
+2016-03-30,2016-03-31,46-55,TV+Internet,TV Bundle,Add,100,7,Emily,Burns,Female,Arlington,Virginia
+2016-03-12,2016-03-12,46-55,Wireless,Mobile Share 15GB,Add,125,5,Carol,Graham,Female,Sioux City,Iowa
+2016-03-24,2016-03-25,46-55,Wireless,Mobile Share 15GB,Add,100,7,Jose,Henry,Male,Vienna,Virginia
+2016-03-09,2016-03-10,26-35,TV+Internet,TV Bundle,Cancel,100,5,Mary,Hayes,Female,Wilkes Barre,Pennsylvania
+2016-03-23,2016-03-23,16-25,Wireless,Mobile Share 15GB,Add,125,5,Beverly,Rodriguez,Female,Oklahoma City,Oklahoma
+2016-03-31,2016-03-31,26-35,Wireless,Internet,Add,60,7,Helen,Wood,Female,Birmingham,Alabama
+2016-03-08,2016-03-09,46-55,TV,Basic,Add,75,5,Jane,Cooper,Female,Bakersfield,California
+2016-03-15,2016-03-16,26-35,Wireless,Internet,Add,60,5,Daniel,Henry,Male,Newark,Delaware
+2016-03-16,2016-03-16,16-25,Wireless,Mobile Share 30GB,Add,200,7,Evelyn,Rodriguez,Female,Lexington,Kentucky
+2016-03-20,2016-03-20,16-25,TV+Internet,TV Bundle,Add,100,5,Henry,Richardson,Male,Charlotte,North Carolina
+2016-03-20,2016-03-21,36-45,TV+Internet,TV Bundle,Add,100,7,Sarah,Jacobs,Female,Nashville,Tennessee
+2016-03-19,2016-03-20,26-35,TV+Internet,TV Bundle,Add,100,7,Kimberly,Hayes,Female,Tacoma,Washington
+2016-03-23,2016-03-24,36-45,Wireless,Mobile Share 30GB,Add,200,3,Kevin,Reynolds,Male,Hot Springs National Park,Arkansas
+2016-03-30,2016-03-31,46-55,TV+Internet,TV Bundle,Add,100,7,Diana,Peters,Female,San Diego,California
+2016-03-08,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,7,Gregory,Woods,Male,Portsmouth,New Hampshire
+2016-03-26,2016-03-27,16-25,Wireless,Mobile Share 30GB,Cancel,200,3,Rebecca,Powell,Female,Charlotte,North Carolina
+2016-03-24,2016-03-25,16-25,TV+Internet,TV Bundle,Add,100,5,Jean,Frazier,Female,Midland,Texas
+2016-03-23,2016-03-23,26-35,TV+Internet,TV Bundle,Add,100,5,Gary,Reyes,Male,Fairfax,Virginia
+2016-03-03,2016-03-04,46-55,TV,Basic,Add,75,5,Kathleen,Hansen,Female,Birmingham,Alabama
+2016-03-27,2016-03-28,26-35,Wireless,Internet,Add,60,7,Craig,Kelly,Male,Seattle,Washington
+2016-03-24,2016-03-25,16-25,TV+Internet,TV Bundle,Add,100,3,Ruby,Burke,Female,Tucson,Arizona
+2016-03-25,2016-03-26,46-55,Wireless,Mobile Share 30GB,Add,200,3,Karen,Hanson,Female,Waterbury,Connecticut
+2016-03-11,2016-03-12,46-55,TV,Basic,Add,75,3,Juan,Dixon,Male,El Paso,Texas
+2016-03-02,2016-03-03,26-35,Wireless,Mobile Share 15GB,Add,125,3,Mary,Ross,Female,Fresno,California
+2016-03-29,2016-03-30,26-35,TV+Internet,TV Bundle,Add,100,7,Karen,Franklin,Female,Houston,Texas
+2016-03-19,2016-03-20,36-45,TV+Internet,TV Bundle,Add,100,5,Rachel,Armstrong,Female,Billings,Montana
+2016-03-14,2016-03-14,26-35,TV+Internet,TV Bundle,Add,100,5,Shirley,Watkins,Female,Portland,Oregon
+2016-03-06,2016-03-06,46-55,Wireless,Internet,Add,60,3,Shawn,Mcdonald,Male,Fort Worth,Texas
+2016-03-24,2016-03-25,16-25,TV+Internet,TV Bundle,Cancel,100,7,Gary,Martin,Male,Wilmington,Delaware
+2016-03-31,2016-04-01,46-55,TV,Basic,Add,75,5,Phyllis,Price,Female,Oklahoma City,Oklahoma
+2016-03-15,2016-03-16,26-35,TV+Internet,TV Bundle,Add,100,5,Harry,Sanders,Male,Oklahoma City,Oklahoma
+2016-03-04,2016-03-05,16-25,Wireless,Mobile Share 15GB,Add,100,3,Beverly,Carter,Female,Phoenix,Arizona
+2016-03-29,2016-03-30,26-35,TV+Internet,TV Bundle,Add,100,7,Anthony,Lane,Male,Duluth,Georgia
+2016-03-22,2016-03-22,46-55,Wireless,Mobile Share 15GB,Add,100,5,Chris,Cox,Male,Atlanta,Georgia
+2016-03-17,2016-03-18,46-55,TV,Premium,Add,125,3,Debra,Powell,Female,Anniston,Alabama
+2016-03-13,2016-03-14,46-55,TV,Basic,Cancel,75,7,Kathleen,Bradley,Female,Savannah,Georgia
+2016-03-29,2016-03-30,46-55,Wireless,Mobile Share 30GB,Add,200,5,Gary,Rivera,Male,Minneapolis,Minnesota
+2016-03-12,2016-03-13,16-25,Wireless,Internet,Add,60,3,Irene,Wallace,Female,San Diego,California
+2016-03-08,2016-03-09,36-45,TV,Basic,Add,75,3,Janet,Reynolds,Female,Birmingham,Alabama
+2016-03-24,2016-03-25,46-55,TV,Basic,Add,75,7,Howard,Henderson,Male,Austin,Texas
+2016-03-12,2016-03-13,36-45,Wireless,Mobile Share 15GB,Cancel,100,7,Jacqueline,Andrews,Female,Memphis,Tennessee
+2016-03-23,2016-03-23,16-25,TV+Internet,TV Bundle,Add,100,5,Beverly,Wood,Female,Washington,District of Columbia
+2016-03-24,2016-03-25,26-35,TV+Internet,TV Bundle,Add,100,3,Joe,West,Male,Colorado Springs,Colorado
+2016-03-19,2016-03-19,36-45,TV,Basic,Add,75,3,Bonnie,Sullivan,Female,Charlottesville,Virginia
+2016-03-17,2016-03-17,26-35,TV+Internet,TV Bundle,Add,100,3,Stephen,Ross,Male,Memphis,Tennessee
+2016-03-11,2016-03-12,46-55,Wireless,Mobile Share 30GB,Add,200,7,Ruby,Bailey,Female,Orange,California
+2016-03-23,2016-03-24,26-35,Wireless,Mobile Share 30GB,Add,200,5,Carl,Stone,Male,Riverside,California
+2016-03-18,2016-03-19,46-55,TV,Basic,Add,75,7,Lillian,Brown,Female,Washington,District of Columbia
+2016-03-14,2016-03-15,36-45,TV,Basic,Add,75,7,Katherine,James,Female,Corpus Christi,Texas
+2016-03-12,2016-03-12,46-55,TV,Basic,Add,75,3,Kenneth,Evans,Male,Augusta,Georgia
+2016-03-29,2016-03-30,36-45,Wireless,Mobile Share 30GB,Add,200,7,Ernest,Porter,Male,Orlando,Florida
+2016-03-05,2016-03-05,26-35,TV+Internet,TV Bundle,Add,100,5,Michael,Wheeler,Male,Battle Creek,Michigan
+2016-03-23,2016-03-23,46-55,TV+Internet,TV Bundle,Add,100,3,Phyllis,Mills,Female,Washington,District of Columbia
+2016-03-16,2016-03-17,26-35,TV+Internet,TV Bundle,Add,100,7,Joshua,Reynolds,Male,Chicago,Illinois
+2016-03-24,2016-03-25,26-35,Wireless,Mobile Share 30GB,Cancel,200,7,Juan,Ford,Male,San Diego,California
+2016-03-07,2016-03-08,36-45,TV+Internet,TV Bundle,Cancel,100,5,Sarah,Patterson,Female,Tyler,Texas
+2016-03-12,2016-03-13,26-35,TV+Internet,TV Bundle,Add,100,3,Marie,Butler,Female,Lake Worth,Florida
+2016-03-03,2016-03-04,16-25,TV+Internet,TV Bundle,Add,100,7,Christina,Holmes,Female,Mc Keesport,Pennsylvania
+2016-03-12,2016-03-13,26-35,Wireless,Mobile Share 30GB,Add,200,5,Carl,Rice,Male,Roanoke,Virginia
+2016-03-23,2016-03-24,36-45,Wireless,Internet,Add,60,3,Kathleen,White,Female,Pompano Beach,Florida
+2016-03-15,2016-03-16,36-45,TV+Internet,TV Bundle,Add,100,7,Wayne,Coleman,Male,New York City,New York
+2016-03-05,2016-03-06,46-55,TV+Internet,TV Bundle,Add,100,5,Craig,Lawson,Male,Birmingham,Alabama
+2016-03-19,2016-03-20,26-35,TV+Internet,TV Bundle,Cancel,100,3,Margaret,Palmer,Female,Madison,Wisconsin
+2016-03-05,2016-03-05,36-45,Wireless,Internet,Add,60,3,Andrea,Harrison,Female,San Bernardino,California
+2016-03-13,2016-03-14,46-55,TV+Internet,TV Bundle,Add,100,3,Gregory,Griffin,Male,Omaha,Nebraska
+2016-03-08,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,7,Maria,Kelly,Female,Syracuse,New York
+2016-03-24,2016-03-25,46-55,TV,Basic,Add,75,3,Frank,Kennedy,Male,Houston,Texas
+2016-03-08,2016-03-09,46-55,TV+Internet,TV Bundle,Add,100,3,Daniel,Moore,Male,Naples,Florida
+2016-03-14,2016-03-15,36-45,TV+Internet,TV Bundle,Add,100,3,Steve,Hughes,Male,Des Moines,Iowa
+2016-03-21,2016-03-22,26-35,Wireless,Internet,Add,60,5,Benjamin,Walker,Male,Port Charlotte,Florida
+2016-03-20,2016-03-20,46-55,TV,Basic,Add,75,5,Aaron,Ellis,Male,Waltham,Massachusetts
+2016-03-06,2016-03-06,26-35,Wireless,Mobile Share 30GB,Add,200,7,Sandra,Duncan,Female,Fort Worth,Texas
+2016-03-07,2016-03-08,26-35,Wireless,Internet,Add,60,3,Judith,Woods,Female,Charleston,South Carolina
+2016-03-25,2016-03-26,46-55,Wireless,Internet,Add,60,5,Kenneth,Lopez,Male,Atlanta,Georgia
+2016-03-09,2016-03-10,46-55,Wireless,Mobile Share 30GB,Add,200,5,Jean,Wright,Female,Las Vegas,Nevada
+2016-03-08,2016-03-09,46-55,Wireless,Mobile Share 30GB,Add,200,3,Daniel,Cox,Male,Louisville,Kentucky
+2016-03-06,2016-03-07,36-45,Wireless,Mobile Share 30GB,Add,200,5,Virginia,Hall,Female,Arlington,Virginia
+2016-03-23,2016-03-24,26-35,TV+Internet,TV Bundle,Add,100,7,Matthew,Dean,Male,El Paso,Texas
+2016-03-30,2016-03-31,36-45,Wireless,Mobile Share 30GB,Add,200,5,Rose,Webb,Female,Detroit,Michigan
+2016-03-13,2016-03-14,36-45,Wireless,Mobile Share 30GB,Add,200,3,Annie,Harper,Female,Glendale,California
+2016-03-06,2016-03-07,46-55,Wireless,Mobile Share 15GB,Add,125,3,Anne,Greene,Female,Washington,District of Columbia
+2016-03-07,2016-03-08,46-55,TV+Internet,TV Bundle,Add,100,5,Lillian,Hamilton,Female,Boston,Massachusetts
+2016-03-03,2016-03-04,16-25,Wireless,Mobile Share 30GB,Add,200,5,Katherine,Butler,Female,North Little Rock,Arkansas
+2016-03-27,2016-03-28,36-45,Wireless,Mobile Share 15GB,Add,125,7,Dorothy,Wallace,Female,Panama City,Florida
+2016-03-12,2016-03-13,36-45,TV+Internet,TV Bundle,Add,100,5,Adam,Freeman,Male,Washington,District of Columbia
+2016-03-03,2016-03-04,36-45,Wireless,Mobile Share 30GB,Add,200,3,Judy,Gilbert,Female,Milwaukee,Wisconsin
+2016-03-05,2016-03-06,36-45,TV+Internet,TV Bundle,Add,100,5,Gregory,Adams,Male,Phoenix,Arizona
+2016-03-15,2016-03-16,16-25,TV+Internet,TV Bundle,Add,100,3,Stephen,Robinson,Male,Palmdale,California
+2016-03-19,2016-03-20,36-45,Wireless,Mobile Share 30GB,Add,200,5,Nicholas,Ortiz,Male,Jamaica,New York
+2016-03-30,2016-03-30,16-25,Wireless,Mobile Share 30GB,Add,200,7,Albert,Alexander,Male,San Bernardino,California
+2016-03-21,2016-03-22,26-35,Wireless,Mobile Share 30GB,Add,200,5,Laura,George,Female,Los Angeles,California
+2016-03-10,2016-03-11,26-35,Wireless,Mobile Share 30GB,Add,200,3,Pamela,Reynolds,Female,El Paso,Texas
+2016-03-10,2016-03-10,36-45,TV+Internet,TV Bundle,Add,100,7,Frank,Nguyen,Male,Lancaster,California
+2016-03-07,2016-03-07,16-25,TV+Internet,TV Bundle,Add,100,5,Michael,Cox,Male,Akron,Ohio
+2016-03-07,2016-03-08,36-45,Wireless,Mobile Share 30GB,Add,200,3,Henry,Hill,Male,Washington,District of Columbia
